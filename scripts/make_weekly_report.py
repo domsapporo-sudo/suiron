@@ -59,7 +59,7 @@ def arrow(p):
 def describe(p, up_word, down_word, flat_word="ほぼ横ばいだった"):
     """変化率を日本語にする。0.5%未満は横ばい扱い。"""
     if p is None:
-        return "前週のデータがないため比較できない"
+        return "の比較はデータが揃い次第掲載する"
     if abs(p) < 0.5:
         return flat_word
     return "{}（{}）".format(up_word if p > 0 else down_word, arrow(p))
