@@ -1,0 +1,47 @@
+name: content
+
+# 毎朝 06:30 JST（= 21:30 UTC 前日）。collect が終わったあとに走ります。
+# 手動実行もできます（Actions タブ → content → Run workflow）。
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 週次の指標レポート。APIキーは不要。
+      - name: 週次指標レポート
+        run: python scripts/make_weekly_report.py
+
+      # 解説記事の下書き。ANTHROPIC_API_KEY が無ければ何もせず終わります。
+      - name: 記事の下書き
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/make_drafts.py
+
+      - name: コミット
+        run: |
+          git config user.name "suiron-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/pages/posts
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "content: $(date -u +%Y-%m-%d)"
+            git push
+          fi
