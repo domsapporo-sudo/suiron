@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: 推論コストの中央値を、毎日測ることにした
 description: 値下げのニュースは流れてくるが、市場全体がいくらなのかは誰も言わない。だから自分で測ることにした。その方法と、最初に分かったこと。
 category: インデックス
-author: 【あなたの名前】
+author: K
 authorRole: 編集・執筆
 published: 2026-08-29
 updated: 2026-08-29
