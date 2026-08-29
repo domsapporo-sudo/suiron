@@ -1,0 +1,48 @@
+name: collect
+
+# 毎朝 06:00 JST（= 21:00 UTC 前日）に走ります。
+# 手動実行もできます（Actions タブ → collect → Run workflow）。
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 各スクリプトは失敗しても exit 0 で返るので、
+      # 1つ落ちても他の収集は続きます。
+      - name: 推論コスト（毎日）
+        run: python scripts/collect_pricing.py
+
+      - name: arXiv 投稿数（週が変わったときだけ追記）
+        run: python scripts/collect_arxiv.py
+
+      - name: ネタ帳（毎日）
+        run: python scripts/collect_rss.py
+
+      - name: コミット
+        run: |
+          git config user.name "suiron-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "data: $(date -u +%Y-%m-%d)"
+            git push
+          fi
