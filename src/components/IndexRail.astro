@@ -1,0 +1,36 @@
+---
+import { latestWithDelta, fmt } from '../lib/data.js';
+
+// 指標はここに追加していきます。
+// value を出すキーと、表示名・単位・「増えるのが良いことか」を持たせるだけ。
+const cost = latestWithDelta('inference_cost.csv', 'input_median');
+const arxiv = latestWithDelta('arxiv_weekly.csv', 'total');
+const arxivAi = latestWithDelta('arxiv_weekly.csv', 'cs.AI');
+
+const ticks = [
+  { name: '推論コスト 入力中央値', unit: ' $/1M', d: cost, digits: 2 },
+  { name: '論文投稿 週次 主要5分野', unit: '', d: arxiv, digits: 0 },
+  { name: 'うち cs.AI', unit: '', d: arxivAi, digits: 0 },
+];
+
+const asof = cost?.row?.date ?? arxiv?.row?.week_end ?? null;
+---
+
+<div class="rail">
+  <div class="wrap">
+    <span class="rail-label"><span class="dot"></span>AI INDEX{asof ? ` / ${asof} 時点` : ''}</span>
+    {ticks.map((t) => (
+      <span class="tick">
+        <span class="nm">{t.name}</span>
+        <span class="vl">{t.d ? fmt(t.d.value, t.digits) + t.unit : '—'}</span>
+        {t.d && t.d.deltaPct !== null ? (
+          <span class={'dl ' + (t.d.deltaPct >= 0 ? 'up' : 'dn')}>
+            {(t.d.deltaPct >= 0 ? '▲ +' : '▼ ') + t.d.deltaPct.toFixed(2) + '%'}
+          </span>
+        ) : (
+          <span class="dl na">前回比 —</span>
+        )}
+      </span>
+    ))}
+  </div>
+</div>

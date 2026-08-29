@@ -1,0 +1,69 @@
+---
+import Base from './Base.astro';
+
+const { frontmatter } = Astro.props;
+const {
+  title,
+  description,
+  author = '編集部',
+  authorRole = '',
+  supervisor = null,
+  supervisorRole = '',
+  category = '',
+  published,
+  updated,
+  review,
+  sources = [],
+} = frontmatter;
+
+const initials = (name) => (name || '').replace(/\s/g, '').slice(0, 2);
+---
+
+<Base title={title} description={description}>
+  <article class="article">
+    <div class="wrap">
+      {category && <span class="cat">{category}</span>}
+      <h1>{title}</h1>
+      {description && <p class="lede">{description}</p>}
+
+      {/* ③ 一次情報。ここが空の記事は出さない、というルールにしてください */}
+      {sources.length > 0 && (
+        <div class="src">
+          <span class="lb">一次情報</span>
+          {sources.map((s) => (
+            <a href={s.url} rel="nofollow noopener" target="_blank">{s.label}</a>
+          ))}
+        </div>
+      )}
+
+      {/* ④ 誰が書いたか。実在する人だけを書くこと */}
+      <div class="byline">
+        <span class="av">{initials(author)}</span>
+        <span>
+          <span class="nm">{author}</span>
+          {authorRole && <span class="rl">{authorRole}</span>}
+        </span>
+        {supervisor && (
+          <>
+            <span class="av" style="background:var(--shu)">{initials(supervisor)}</span>
+            <span>
+              <span class="nm">監修・{supervisor}</span>
+              {supervisorRole && <span class="rl">{supervisorRole}</span>}
+            </span>
+          </>
+        )}
+      </div>
+
+      {/* ⑥ いつ書き、いつ直し、次にいつ見直すか */}
+      <div class="fresh">
+        <span>初出 <b>{published}</b></span>
+        {updated && updated !== published && <span>最終更新 <b>{updated}</b></span>}
+        {review && <span class="nx">次回見直し {review}</span>}
+      </div>
+
+      <div class="body">
+        <slot />
+      </div>
+    </div>
+  </article>
+</Base>

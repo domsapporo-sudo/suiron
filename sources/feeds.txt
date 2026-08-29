@@ -1,0 +1,25 @@
+# 巡回するRSS/Atomフィード。1行1URL。# で始まる行は無視されます。
+#
+# 注意:
+#  - URLは変わります。落ちたフィードはスキップされるだけなので、
+#    ログを見て 404 が続くものは差し替えてください。
+#  - ここは「気づくため」の情報源です。記事はここから引用せず、
+#    リンク先の一次情報にあたって自分の言葉で書いてください。
+
+# --- 一次情報（公式） ---
+https://export.arxiv.org/rss/cs.AI
+https://export.arxiv.org/rss/cs.CL
+https://huggingface.co/blog/feed.xml
+https://blog.google/technology/ai/rss/
+https://github.blog/feed/
+
+# --- 国内メディア ---
+https://www.itmedia.co.jp/news/subtop/aiplus/index.rdf
+https://www.publickey1.jp/atom.xml
+
+# --- シグナル源 ---
+https://hnrss.org/newest?q=AI&points=50
+
+# --- ここから下に自分で追加していく ---
+# 省庁・審議会のRSS、海外メディア、注目企業の公式ブログなど。
+# 100本くらい溜まると速報タイムラインが自然に埋まります。

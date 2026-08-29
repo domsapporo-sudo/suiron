@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import { allPosts } from '../lib/data.js';
+
+const posts = allPosts();
+---
+
+<Base description="AIの現在地を、数字と一次情報で。推論コストと論文投稿数を毎日更新しています。">
+  <section class="band">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2>記事</h2><span class="en">Latest</span><span class="line"></span>
+      </div>
+
+      {posts.length === 0 ? (
+        <p style="padding-bottom:40px;color:var(--grey-1)">
+          まだ記事がありません。<code>src/pages/posts/</code> に Markdown を置くと、ここに並びます。
+        </p>
+      ) : (
+        <ul class="posts">
+          {posts.map((p) => (
+            <li>
+              <a href={p.url}>
+                <h3>{p.title}</h3>
+                {p.description && <p class="dek">{p.description}</p>}
+                <div class="meta">
+                  {p.category && <span class="cat">{p.category}</span>}
+                  <span>{p.author ?? '編集部'}</span>
+                  <span>{p.published}</span>
+                  {p.updated && p.updated !== p.published && <span>更新 {p.updated}</span>}
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  </section>
+</Base>

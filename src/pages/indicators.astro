@@ -1,0 +1,83 @@
+---
+import Base from '../layouts/Base.astro';
+import { readCsv, fmt } from '../lib/data.js';
+
+const cost = readCsv('inference_cost.csv').slice(-30).reverse();
+const arxiv = readCsv('arxiv_weekly.csv').slice(-16).reverse();
+---
+
+<Base title="インデックス" description="推論コストと論文投稿数の推移。算出方法と生データを公開しています。">
+  <section class="band">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2>推論コスト</h2><span class="en">Inference cost</span><span class="line"></span>
+      </div>
+      <p style="color:var(--grey-1);font-size:13.5px;max-width:66ch;padding-bottom:14px">
+        OpenRouter の公開モデル一覧から、有料モデルの入力単価（USD / 100万トークン）の中央値を毎日取っています。
+        平均ではなく中央値を使うのは、極端に高い・安いモデルに引きずられないためです。
+        <a href="/method/" style="color:var(--ai);text-decoration:underline;text-underline-offset:3px">算出方法の詳細</a>
+      </p>
+
+      {cost.length === 0 ? (
+        <p style="color:var(--grey-2);padding-bottom:40px">まだデータがありません。GitHub Actions を1回手動実行すると入ります。</p>
+      ) : (
+        <div class="tbl-scroll">
+          <table>
+            <thead>
+              <tr><th>日付</th><th>入力 中央値</th><th>第1四分位</th><th>第3四分位</th><th>出力 中央値</th><th>対象モデル数</th></tr>
+            </thead>
+            <tbody>
+              {cost.map((r) => (
+                <tr>
+                  <td class="num">{r.date}</td>
+                  <td class="num">${fmt(r.input_median)}</td>
+                  <td class="num">${fmt(r.input_q1)}</td>
+                  <td class="num">${fmt(r.input_q3)}</td>
+                  <td class="num">${fmt(r.output_median)}</td>
+                  <td class="num">{r.models}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2>論文投稿数（週次）</h2><span class="en">arXiv</span><span class="line"></span>
+      </div>
+      <p style="color:var(--grey-1);font-size:13.5px;max-width:66ch;padding-bottom:14px">
+        arXiv の公開APIで、主要5分野に週内に投稿された本数を数えています。
+        週の区切りは月曜0時（UTC）で、終わった週だけを記録します。
+      </p>
+
+      {arxiv.length === 0 ? (
+        <p style="color:var(--grey-2);padding-bottom:40px">まだデータがありません。最初の週が終わると1行入ります。</p>
+      ) : (
+        <div class="tbl-scroll">
+          <table>
+            <thead>
+              <tr><th>週（開始）</th><th>cs.AI</th><th>cs.CL</th><th>cs.LG</th><th>cs.CV</th><th>cs.RO</th><th>合計</th></tr>
+            </thead>
+            <tbody>
+              {arxiv.map((r) => (
+                <tr>
+                  <td class="num">{r.week_start}</td>
+                  <td class="num">{r['cs.AI']}</td>
+                  <td class="num">{r['cs.CL']}</td>
+                  <td class="num">{r['cs.LG']}</td>
+                  <td class="num">{r['cs.CV']}</td>
+                  <td class="num">{r['cs.RO']}</td>
+                  <td class="num"><b>{r.total}</b></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  </section>
+</Base>
