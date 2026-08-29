@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
-  "feeds_ok": 6,
-  "feeds_failed": 2,
+  "feeds_ok": 7,
+  "feeds_failed": 1,
   "entries": [
     {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
@@ -527,11 +527,119 @@
       "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
       "link": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
       "source": "publickey1.jp"
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "link": "https://lwn.net/Articles/1091231/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Tell HN: Man, AI is killing my brain",
+      "link": "https://news.ycombinator.com/item?id=49468252",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "link": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "link": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/report/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "link": "https://acceptmarkdown.com/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "source": "hnrss.org"
+    },
+    {
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "source": "hnrss.org"
     }
   ],
   "cross_source_terms": [
     [
       "your",
+      5
+    ],
+    [
+      "workflows",
+      4
+    ],
+    [
+      "agents",
       4
     ],
     [
@@ -539,7 +647,7 @@
       3
     ],
     [
-      "workflows",
+      "learning",
       3
     ],
     [
@@ -551,7 +659,15 @@
       3
     ],
     [
-      "agents",
+      "training",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "just",
       3
     ],
     [
@@ -563,11 +679,23 @@
       3
     ],
     [
-      "models",
-      2
+      "open",
+      3
     ],
     [
-      "management",
+      "source",
+      3
+    ],
+    [
+      "google",
+      3
+    ],
+    [
+      "era",
+      3
+    ],
+    [
+      "models",
       2
     ],
     [
@@ -575,11 +703,11 @@
       2
     ],
     [
-      "optimization",
+      "management",
       2
     ],
     [
-      "learning",
+      "optimization",
       2
     ],
     [
@@ -599,11 +727,11 @@
       2
     ],
     [
-      "training",
+      "clinical",
       2
     ],
     [
-      "clinical",
+      "state",
       2
     ],
     [
@@ -611,7 +739,7 @@
       2
     ],
     [
-      "state",
+      "not",
       2
     ],
     [
@@ -627,19 +755,11 @@
       2
     ],
     [
-      "just",
-      2
-    ],
-    [
-      "why",
+      "can",
       2
     ],
     [
       "you",
-      2
-    ],
-    [
-      "can",
       2
     ],
     [
@@ -651,7 +771,7 @@
       2
     ],
     [
-      "open",
+      "scientific",
       2
     ],
     [
@@ -668,26 +788,6 @@
     ],
     [
       "agent",
-      2
-    ],
-    [
-      "more",
-      2
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "studio",
-      2
-    ],
-    [
-      "source",
-      2
-    ],
-    [
-      "new",
       2
     ]
   ]
