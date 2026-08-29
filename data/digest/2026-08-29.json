@@ -1,0 +1,694 @@
+{
+  "date": "2026-08-29",
+  "feeds_ok": 6,
+  "feeds_failed": 2,
+  "entries": [
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "link": "https://arxiv.org/abs/2608.26107",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "link": "https://arxiv.org/abs/2608.26109",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "link": "https://arxiv.org/abs/2608.26111",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "link": "https://arxiv.org/abs/2608.26113",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "link": "https://arxiv.org/abs/2608.26114",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.26116",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "link": "https://arxiv.org/abs/2608.26134",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "link": "https://arxiv.org/abs/2608.26145",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+      "link": "https://arxiv.org/abs/2608.26149",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+      "link": "https://arxiv.org/abs/2608.26150",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+      "link": "https://arxiv.org/abs/2608.26151",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+      "link": "https://arxiv.org/abs/2608.26153",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Selection Bias Correction in Retail Intelligence",
+      "link": "https://arxiv.org/abs/2608.26156",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+      "link": "https://arxiv.org/abs/2608.26157",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+      "link": "https://arxiv.org/abs/2608.26160",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+      "link": "https://arxiv.org/abs/2608.26162",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
+      "link": "https://arxiv.org/abs/2608.26164",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+      "link": "https://arxiv.org/abs/2608.26167",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Knowledge Cards: Structured Knowledge for AI Systems",
+      "link": "https://arxiv.org/abs/2608.26176",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "AI Revealed Preferences",
+      "link": "https://arxiv.org/abs/2608.26178",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
+      "link": "https://arxiv.org/abs/2608.26182",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education",
+      "link": "https://arxiv.org/abs/2608.26184",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion",
+      "link": "https://arxiv.org/abs/2608.26185",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments",
+      "link": "https://arxiv.org/abs/2608.26188",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Invocation-Level Reliability of Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2608.26189",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models",
+      "link": "https://arxiv.org/abs/2608.26190",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs",
+      "link": "https://arxiv.org/abs/2608.26191",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+      "link": "https://arxiv.org/abs/2608.26193",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
+      "link": "https://arxiv.org/abs/2608.26198",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+      "link": "https://arxiv.org/abs/2608.26199",
+      "source": "export.arxiv.org"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "link": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "link": "https://huggingface.co/blog/pwc-search",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "link": "https://huggingface.co/blog/baseten",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "link": "https://huggingface.co/blog/grabette",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "huggingface.co"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "blog.google"
+    },
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "blog.google"
+    },
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "blog.google"
+    },
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "blog.google"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "blog.google"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "blog.google"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "blog.google"
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "blog.google"
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "blog.google"
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "blog.google"
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "blog.google"
+    },
+    {
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "source": "github.blog"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "github.blog"
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source": "github.blog"
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "source": "github.blog"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "github.blog"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "source": "github.blog"
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "github.blog"
+    },
+    {
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "source": "github.blog"
+    },
+    {
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "source": "github.blog"
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "source": "github.blog"
+    },
+    {
+      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など",
+      "link": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Flutter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
+      "link": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+      "link": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+      "link": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "事例で学ぶ、SaaSの開発を加速しつつプロダクト品質も引き上げる上手な方法とは？［PR］",
+      "link": "https://www.publickey1.jp/blog/26/saaspr_1.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Visual Studio Code 1.133正式リリース。プロンプトを見失わない固定スクロール、ローカルHTMLファイルの自動リロード、ClaudeとCopilotの混在可能など新機能",
+      "link": "https://www.publickey1.jp/blog/26/visual_studio_code_1133htmlclaudecopilot.html",
+      "source": "publickey1.jp"
+    },
+    {
+      "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
+      "source": "publickey1.jp"
+    }
+  ],
+  "cross_source_terms": [
+    [
+      "your",
+      4
+    ],
+    [
+      "agentic",
+      3
+    ],
+    [
+      "workflows",
+      3
+    ],
+    [
+      "llms",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "agents",
+      3
+    ],
+    [
+      "world",
+      3
+    ],
+    [
+      "mcp",
+      3
+    ],
+    [
+      "models",
+      2
+    ],
+    [
+      "management",
+      2
+    ],
+    [
+      "future",
+      2
+    ],
+    [
+      "optimization",
+      2
+    ],
+    [
+      "learning",
+      2
+    ],
+    [
+      "control",
+      2
+    ],
+    [
+      "windows",
+      2
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "language",
+      2
+    ],
+    [
+      "training",
+      2
+    ],
+    [
+      "clinical",
+      2
+    ],
+    [
+      "multimodal",
+      2
+    ],
+    [
+      "state",
+      2
+    ],
+    [
+      "speech",
+      2
+    ],
+    [
+      "knowledge",
+      2
+    ],
+    [
+      "grounded",
+      2
+    ],
+    [
+      "just",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "you",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "incident",
+      2
+    ],
+    [
+      "routing",
+      2
+    ],
+    [
+      "open",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "search",
+      2
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "what",
+      2
+    ],
+    [
+      "studio",
+      2
+    ],
+    [
+      "source",
+      2
+    ],
+    [
+      "new",
+      2
+    ]
+  ]
+}
