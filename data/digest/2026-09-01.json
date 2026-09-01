@@ -1,0 +1,4302 @@
+{
+  "date": "2026-09-01",
+  "feeds_ok": 30,
+  "feeds_failed": 9,
+  "entries": [
+    {
+      "title": "Accelerating LLM Inference via Vector Index Based Output Embeddings",
+      "link": "https://arxiv.org/abs/2608.27460",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27460"
+    },
+    {
+      "title": "SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction",
+      "link": "https://arxiv.org/abs/2608.27461",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27461"
+    },
+    {
+      "title": "Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech",
+      "link": "https://arxiv.org/abs/2608.27462",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27462"
+    },
+    {
+      "title": "The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models",
+      "link": "https://arxiv.org/abs/2608.27465",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27465"
+    },
+    {
+      "title": "PACE: Publisher-Adaptive Content Extraction via Agentic Automation",
+      "link": "https://arxiv.org/abs/2608.27466",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27466"
+    },
+    {
+      "title": "UIC-AIHealth4All at ArchEHR-QA 2026: Answer-First Evidence Grounding for Clinical Question Answering",
+      "link": "https://arxiv.org/abs/2608.27467",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27467"
+    },
+    {
+      "title": "Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection",
+      "link": "https://arxiv.org/abs/2608.27470",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27470"
+    },
+    {
+      "title": "XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering",
+      "link": "https://arxiv.org/abs/2608.27481",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27481"
+    },
+    {
+      "title": "INSPIRE: An Internalize-Then-Improve Approach for Example-Driven Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2608.27501",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27501"
+    },
+    {
+      "title": "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
+      "link": "https://arxiv.org/abs/2608.27505",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27505"
+    },
+    {
+      "title": "How Do Linear Probes Emerge? A Circuit-Tracing Framework with Concept-Targeted Attribution",
+      "link": "https://arxiv.org/abs/2608.27510",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27510"
+    },
+    {
+      "title": "Trajectory-Level Speculative Decoding for Diffusion Language Models",
+      "link": "https://arxiv.org/abs/2608.27514",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27514"
+    },
+    {
+      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages",
+      "link": "https://arxiv.org/abs/2608.27658",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27658"
+    },
+    {
+      "title": "Knowing Before Answering: Decoding Language Models for Reliable RAG",
+      "link": "https://arxiv.org/abs/2608.27661",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27661"
+    },
+    {
+      "title": "First Make It Playable, Then Make It Good: Staged Interaction Learning for Small Dialogue-Game Agents",
+      "link": "https://arxiv.org/abs/2608.27672",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27672"
+    },
+    {
+      "title": "Below the Noise Floor: Bimodal Seed Collapse and Distinct Failure Modes in Small-Model Knowledge Distillation",
+      "link": "https://arxiv.org/abs/2608.27729",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27729"
+    },
+    {
+      "title": "Load-Bearing Context: The Question Damage Score for Evaluating Context Reliance in Linguistic Reasoning",
+      "link": "https://arxiv.org/abs/2608.27756",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27756"
+    },
+    {
+      "title": "Informational Antilocality and the Locality Bias in LLMs",
+      "link": "https://arxiv.org/abs/2608.27760",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27760"
+    },
+    {
+      "title": "Compositional Failure in Audio-Visual LLMs: Late-Layer Prior Dominance Under Cross-modal Conflict",
+      "link": "https://arxiv.org/abs/2608.27785",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27785"
+    },
+    {
+      "title": "Representation of syntax in LLMs through the lens of linear distance and similarity-aware entropy",
+      "link": "https://arxiv.org/abs/2608.27813",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27813"
+    },
+    {
+      "title": "PersonaEdit: Representative Sample Selection for Personalized Model Editing",
+      "link": "https://arxiv.org/abs/2608.27816",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27816"
+    },
+    {
+      "title": "Synthetic Linguistic Agency: How an Embodied Mortal Agent Learns Linguistic Affordances through Consequential Social Experience",
+      "link": "https://arxiv.org/abs/2608.27843",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27843"
+    },
+    {
+      "title": "EvoHarmBench: Breaking Content Moderation with Iterative Human-Like Evasion",
+      "link": "https://arxiv.org/abs/2608.27844",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27844"
+    },
+    {
+      "title": "AI Writers Have a Consistent Stylometric Footprint, but AI Editors Do Not",
+      "link": "https://arxiv.org/abs/2608.27855",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27855"
+    },
+    {
+      "title": "OpenStamp: A Watermark for Open-Source Language Models",
+      "link": "https://arxiv.org/abs/2608.27899",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27899"
+    },
+    {
+      "title": "LandingAgent: A Reference-Annotated Dataset and Agentic Generation Framework for Landing Pages",
+      "link": "https://arxiv.org/abs/2608.27902",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27902"
+    },
+    {
+      "title": "What Makes Agent Memory Useful for Reliable Unanswerable Question Handling?",
+      "link": "https://arxiv.org/abs/2608.27924",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27924"
+    },
+    {
+      "title": "Entity-Memory Graph Retrieval Improves Evidence Coverage in Long-Conversation Question Answering",
+      "link": "https://arxiv.org/abs/2608.27925",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27925"
+    },
+    {
+      "title": "Lexically conditioned realization ambiguity in Korean predicate morphology",
+      "link": "https://arxiv.org/abs/2608.27966",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27966"
+    },
+    {
+      "title": "QUORUM: QUality-Optimized Routing Using Multiple annotators",
+      "link": "https://arxiv.org/abs/2608.27974",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27974"
+    },
+    {
+      "title": "Predicting Turn-Taking Outcomes in Multi-Party Conversation: Interpretable Modelling of Speech and Gaze Dynamics with Interpersonal Closeness",
+      "link": "https://arxiv.org/abs/2608.27988",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27988"
+    },
+    {
+      "title": "Beyond Global Scalars: Synergizing Token-Level Statistics and Deep Semantics for Adversarial AIGC Text Detection",
+      "link": "https://arxiv.org/abs/2608.28009",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28009"
+    },
+    {
+      "title": "Twin Worlds: Equivariance-Based Abstention for Evidence-Grounded Reasoning",
+      "link": "https://arxiv.org/abs/2608.28018",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28018"
+    },
+    {
+      "title": "A Shaky Voice Is Not Always a Dodge: Benchmarking Textual and Vocal Evasion Detection in Earnings Calls",
+      "link": "https://arxiv.org/abs/2608.28040",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28040"
+    },
+    {
+      "title": "SimpCue: Cue-Based Prompting for Multilingual Text Simplification",
+      "link": "https://arxiv.org/abs/2608.28042",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28042"
+    },
+    {
+      "title": "CNeo-Bench: Diagnosing Large Language Models on Chinese Neologisms",
+      "link": "https://arxiv.org/abs/2608.28053",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28053"
+    },
+    {
+      "title": "H-Scale: Hessian-Guided Scale Refinement for NVFP4 Sub-Byte LLM Inference",
+      "link": "https://arxiv.org/abs/2608.28113",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28113"
+    },
+    {
+      "title": "Nested Byte-Level Vocabularies Are Cheap to Deploy and Expensive to Share: A Pre-Registered Negative Result",
+      "link": "https://arxiv.org/abs/2608.28151",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28151"
+    },
+    {
+      "title": "FinExam-10K: When Retrieval Helps Financial Reasoning?",
+      "link": "https://arxiv.org/abs/2608.28155",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28155"
+    },
+    {
+      "title": "Text Restoration of Ancient Documents with Language Models",
+      "link": "https://arxiv.org/abs/2608.28170",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28170"
+    },
+    {
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "link": "https://arxiv.org/abs/2608.27507",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27507"
+    },
+    {
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "link": "https://arxiv.org/abs/2608.27512",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27512"
+    },
+    {
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "link": "https://arxiv.org/abs/2608.27513",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27513"
+    },
+    {
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "link": "https://arxiv.org/abs/2608.27515",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27515"
+    },
+    {
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "link": "https://arxiv.org/abs/2608.27518",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27518"
+    },
+    {
+      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "link": "https://arxiv.org/abs/2608.27521",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27521"
+    },
+    {
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "link": "https://arxiv.org/abs/2608.27574",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27574"
+    },
+    {
+      "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+      "link": "https://arxiv.org/abs/2608.27634",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27634"
+    },
+    {
+      "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+      "link": "https://arxiv.org/abs/2608.27651",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27651"
+    },
+    {
+      "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+      "link": "https://arxiv.org/abs/2608.27662",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27662"
+    },
+    {
+      "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.27678",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27678"
+    },
+    {
+      "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+      "link": "https://arxiv.org/abs/2608.27688",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27688"
+    },
+    {
+      "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+      "link": "https://arxiv.org/abs/2608.27704",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27704"
+    },
+    {
+      "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+      "link": "https://arxiv.org/abs/2608.27713",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27713"
+    },
+    {
+      "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+      "link": "https://arxiv.org/abs/2608.27715",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27715"
+    },
+    {
+      "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+      "link": "https://arxiv.org/abs/2608.27719",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27719"
+    },
+    {
+      "title": "Diffusion Distillation for Efficient Weather Ensembles",
+      "link": "https://arxiv.org/abs/2608.27728",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27728"
+    },
+    {
+      "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+      "link": "https://arxiv.org/abs/2608.27750",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27750"
+    },
+    {
+      "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+      "link": "https://arxiv.org/abs/2608.27757",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27757"
+    },
+    {
+      "title": "Fast Weight Attention for Continual Learning",
+      "link": "https://arxiv.org/abs/2608.27763",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27763"
+    },
+    {
+      "title": "Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization",
+      "link": "https://arxiv.org/abs/2608.27791",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27791"
+    },
+    {
+      "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+      "link": "https://arxiv.org/abs/2608.27794",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27794"
+    },
+    {
+      "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+      "link": "https://arxiv.org/abs/2608.27821",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27821"
+    },
+    {
+      "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+      "link": "https://arxiv.org/abs/2608.27856",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27856"
+    },
+    {
+      "title": "SOMTab: Set-Order Mamba for Efficient Tabular In-Context Learning",
+      "link": "https://arxiv.org/abs/2608.27882",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27882"
+    },
+    {
+      "title": "Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavelet Operators for Parametric PDEs",
+      "link": "https://arxiv.org/abs/2608.27883",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27883"
+    },
+    {
+      "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+      "link": "https://arxiv.org/abs/2608.27885",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27885"
+    },
+    {
+      "title": "TACIT-Switch: Cost-Aware Model Escalation for LLM Agents from Censored Supervision",
+      "link": "https://arxiv.org/abs/2608.27911",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27911"
+    },
+    {
+      "title": "TI$^2$PS: A Topology-Informed Inverse Design Framework for Stochastic Multicellular Pattern Formation",
+      "link": "https://arxiv.org/abs/2608.27931",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27931"
+    },
+    {
+      "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+      "link": "https://arxiv.org/abs/2608.27948",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27948"
+    },
+    {
+      "title": "PhyMamba: Physics-Modulated Mamba for Robust Battery Health Prognostics",
+      "link": "https://arxiv.org/abs/2608.27978",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27978"
+    },
+    {
+      "title": "Is Monte Carlo Tree Search Just Every-Visit Monte Carlo Control?",
+      "link": "https://arxiv.org/abs/2608.27985",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.27985"
+    },
+    {
+      "title": "A Method for Layer Bit-Width Allocation in LLM Quantization via Performance Maximization Under a Quality-Degradation Constraint",
+      "link": "https://arxiv.org/abs/2608.28003",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28003"
+    },
+    {
+      "title": "Exact Risk Ratios for Weighted Data Selection in Linear Regression",
+      "link": "https://arxiv.org/abs/2608.28007",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28007"
+    },
+    {
+      "title": "When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?",
+      "link": "https://arxiv.org/abs/2608.28010",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28010"
+    },
+    {
+      "title": "Explainable Uncertainty Estimation for Reliable Medical AI",
+      "link": "https://arxiv.org/abs/2608.28052",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28052"
+    },
+    {
+      "title": "Comparing Classical and Quantum Machine Learning for Regression in High Energy Physics Collision Data",
+      "link": "https://arxiv.org/abs/2608.28084",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28084"
+    },
+    {
+      "title": "Generalized Gibbs Ensemble Weighting for Forecast Combination",
+      "link": "https://arxiv.org/abs/2608.28116",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28116"
+    },
+    {
+      "title": "VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.28128",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28128"
+    },
+    {
+      "title": "Learning to Difference: Adaptive Reversible Differencing (AdaRDiff) for Time Series Forecasting",
+      "link": "https://arxiv.org/abs/2608.28134",
+      "source": "export.arxiv.org",
+      "norm": "https://arxiv.org/abs/2608.28134"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/train-multi-vector-encoder"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/multiversecomputingcai/quantization-aware-healing"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "link": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/gradio-workflow-guide"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "link": "https://huggingface.co/blog/pwc-search",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/pwc-search"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/asr-benchmark-optimization"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/liquidai/lfm25-dspark"
+    },
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+    },
+    {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/multi-vector-encoder"
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/dharma-ai/gpu-management-pt2"
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    {
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/icml-2026-open-reproductions"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/multiversecomputingcai/efficient-knowledge-distillation"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/muse-glimmer"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "link": "https://huggingface.co/blog/baseten",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/baseten"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/dharma-ai/gpu-management"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/nunchaku-diffusers"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "link": "https://huggingface.co/blog/grabette",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/dharma-ai/newer-models-same-advantages"
+    },
+    {
+      "title": "Security incident disclosure — July 2026",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/security-incident-july-2026"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/thinkingmachines-inkling"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/real-world-voiceeq"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "link": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/torch-attention-profile"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/skypilot-hf-storage"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/lerobot-release-v060"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/photoroom/prx-part4-data"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/revamped-kernels"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "huggingface.co",
+      "norm": "https://huggingface.co/blog/ibm-research/scarfbench"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode"
+    },
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/home-decor-tips"
+    },
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets"
+    },
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips"
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/connected-apps"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars"
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary"
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api"
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "blog.google",
+      "norm": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026"
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "blog.google",
+      "norm": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit"
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "blog.google",
+      "norm": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers"
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-gemini-3-7-flash"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/our-approach-to-bioresilience"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi"
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning"
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate"
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model"
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe"
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks"
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view"
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-gemini-omni"
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/introducing-google-antigravity-2-0"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited"
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership"
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases"
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/opening-new-paths-in-aging-research"
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms"
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als"
+    },
+    {
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis"
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "source": "deepmind.google",
+      "norm": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica"
+    },
+    {
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "source": "github.blog",
+      "norm": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "github.blog",
+      "norm": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage"
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source": "github.blog",
+      "norm": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production"
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "source": "github.blog",
+      "norm": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "github.blog",
+      "norm": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "source": "github.blog",
+      "norm": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work"
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "github.blog",
+      "norm": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient"
+    },
+    {
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "source": "github.blog",
+      "norm": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps"
+    },
+    {
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "source": "github.blog",
+      "norm": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched"
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "source": "github.blog",
+      "norm": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/polimill"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/expanding-our-presence-in-brazil"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/loveholidays"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/gpt-5-6-in-kiro"
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "link": "https://openai.com/index/introducing-intelligence-age",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/introducing-intelligence-age"
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/stampli"
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/replit"
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/partnering-with-codeai"
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/chatgpt-for-teens"
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "link": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/nvidia/chatgpt-work"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/asana"
+    },
+    {
+      "title": "The Defender’s Window",
+      "link": "https://openai.com/index/the-defenders-window",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/the-defenders-window"
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/openai-joins-ports-pike-project"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "link": "https://openai.com/index/ringcentral",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/ringcentral"
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/responsible-ai-infrastructure-texas"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "link": "https://openai.com/index/model-ml",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/model-ml"
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "openai.com",
+      "norm": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
+    {
+      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+      "link": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html"
+    },
+    {
+      "title": "DHH氏が「Omacom Foundation」を設立、Omarchy推進によるLinuxデスクトップの本格普及を目指す。マイケル・デル、ジャック・ドーシーら著名人も出資",
+      "link": "https://www.publickey1.jp/blog/26/dhhomacom_foundationomarchylinux.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/dhhomacom_foundationomarchylinux.html"
+    },
+    {
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html"
+    },
+    {
+      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html"
+    },
+    {
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/mcpaihttp.html"
+    },
+    {
+      "title": "Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など",
+      "link": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html"
+    },
+    {
+      "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html"
+    },
+    {
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "link": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html"
+    },
+    {
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/slackaislack_code.html"
+    },
+    {
+      "title": "Flutter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
+      "link": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html"
+    },
+    {
+      "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html"
+    },
+    {
+      "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/pythonmojowindows.html"
+    },
+    {
+      "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+      "link": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html"
+    },
+    {
+      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+      "link": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/googleaiheirai.html"
+    },
+    {
+      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+      "source": "publickey1.jp",
+      "norm": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html"
+    },
+    {
+      "title": "AIエージェントで削減できるコストと工数の目安を試算方法つきで解説",
+      "link": "https://ainow.ai/2026/08/31/278338/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e5%2589%258a%25e6%25b8%259b%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2582%25b3%25e3%2582%25b9%25e3%2583%2588%25e3%2581%25a8%25e5%25b7%25a5%25e6%2595%25b0%25e3%2581%25ae%25e7%259b%25ae%25e5%25ae%2589%25e3%2582%2592",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/31/278338"
+    },
+    {
+      "title": "AIエージェントで人員は減るのか 再配置の実態と削減効果の試算手順",
+      "link": "https://ainow.ai/2026/08/27/278335/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25ba%25ba%25e5%2593%25a1%25e3%2581%25af%25e6%25b8%259b%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b-%25e5%2586%258d%25e9%2585%258d%25e7%25bd%25ae%25e3%2581%25ae%25e5%25ae%259f%25e6%2585%258b%25e3%2581%25a8",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/27/278335"
+    },
+    {
+      "title": "AIエージェントで転職活動を進める6ステップ！プロンプト例と注意点も解説",
+      "link": "https://ainow.ai/2026/08/26/278330/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25bb%25a2%25e8%2581%25b7%25e6%25b4%25bb%25e5%258b%2595%25e3%2582%2592%25e9%2580%25b2%25e3%2582%2581%25e3%2582%258b6%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e3%2583%2597",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/26/278330"
+    },
+    {
+      "title": "AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事",
+      "link": "https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/24/278322"
+    },
+    {
+      "title": "AIエージェント担当者が担う6つの役割！必要スキルと90日の進め方",
+      "link": "https://ainow.ai/2026/08/23/278319/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%258b%2585%25e5%25bd%2593%25e8%2580%2585%25e3%2581%258c%25e6%258b%2585%25e3%2581%25866%25e3%2581%25a4%25e3%2581%25ae%25e5%25bd%25b9%25e5%2589%25b2%25ef%25bc%2581%25e5%25bf%2585%25e8%25a6%2581%25e3%2582%25b9%25e3%2582%25ad",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/23/278319"
+    },
+    {
+      "title": "AIエージェントのIT部門活用8選！情シス必見の導入手順と費用相場",
+      "link": "https://ainow.ai/2026/08/20/278316/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeit%25e9%2583%25a8%25e9%2596%2580%25e6%25b4%25bb%25e7%2594%25a88%25e9%2581%25b8%25ef%25bc%2581%25e6%2583%2585%25e3%2582%25b7%25e3%2582%25b9%25e5%25bf%2585%25e8%25a6%258b%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/20/278316"
+    },
+    {
+      "title": "生成AIチャットボット比較の7軸！失敗しない選び方を徹底解説",
+      "link": "https://ainow.ai/2026/08/19/278311/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2581%25e3%2583%25a3%25e3%2583%2583%25e3%2583%2588%25e3%2583%259c%25e3%2583%2583%25e3%2583%2588%25e6%25af%2594%25e8%25bc%2583%25e3%2581%25ae7%25e8%25bb%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e9%2581%25b8%25e3%2581%25b3",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/19/278311"
+    },
+    {
+      "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
+      "link": "https://ainow.ai/2026/08/13/278308/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2583%259e%25e3%2583%25bc%25e3%2582%25b1%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0%25e6%25b4%25bb%25e7%2594%25a810%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581%25e6%25a5%25ad%25e4%25ba%258b",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/13/278308"
+    },
+    {
+      "title": "AIエージェントの製造業活用を7工程別に解説！事例8選と導入手順",
+      "link": "https://ainow.ai/2026/08/12/278305/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e6%25b4%25bb%25e7%2594%25a8%25e3%2582%25927%25e5%25b7%25a5%25e7%25a8%258b%25e5%2588%25a5%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581%25e4%25ba%258b",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/12/278305"
+    },
+    {
+      "title": "AIエージェントは製造業をどう変える？活用事例8選と導入手順を解説",
+      "link": "https://ainow.ai/2026/08/06/278302/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25af%25e8%25a3%25bd%25e9%2580%25a0%25e6%25a5%25ad%25e3%2582%2592%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2581%2588%25e3%2582%258b%25ef%25bc%259f%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b8",
+      "source": "ainow.ai",
+      "norm": "https://ainow.ai/2026/08/06/278302"
+    },
+    {
+      "title": "【アプリ操作だけ】Codexのプラグインとは？おすすめ一覧と入れ方を解説",
+      "link": "https://shift-ai.co.jp/blog/71086/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/71086"
+    },
+    {
+      "title": "CodexのMCP設定方法は？接続方式別の手順とつながらない時の対処法",
+      "link": "https://shift-ai.co.jp/blog/70098/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/70098"
+    },
+    {
+      "title": "AI音楽の収益化はどこで稼ぐ？売れる3つの場所と収益が止まる原因",
+      "link": "https://shift-ai.co.jp/blog/70060/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/70060"
+    },
+    {
+      "title": "AI副業案件の報酬は時給型と月額型で二極化！高単価を獲得する方法",
+      "link": "https://shift-ai.co.jp/blog/69058/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/69058"
+    },
+    {
+      "title": "AI動画の収益化はどこから始める？3つの稼ぎ方と失敗しない選び方を解説",
+      "link": "https://shift-ai.co.jp/blog/68774/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68774"
+    },
+    {
+      "title": "【プラン別】Antigravityの制限とは？上限の早見表や確認・対処方法まで解説",
+      "link": "https://shift-ai.co.jp/blog/70085/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/70085"
+    },
+    {
+      "title": "【2026年8月最新】Codexセミナーおすすめ7選！無料と有料の選び方",
+      "link": "https://shift-ai.co.jp/blog/69969/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/69969"
+    },
+    {
+      "title": "【公式の分配率で逆算】AI動画はいくら稼げる？再生数別の収益目安",
+      "link": "https://shift-ai.co.jp/blog/68649/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68649"
+    },
+    {
+      "title": "AIせどりのやり方！仕入れリサーチを効率化するプロンプトとツール7選も紹介",
+      "link": "https://shift-ai.co.jp/blog/68768/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68768"
+    },
+    {
+      "title": "Gemini SparkをMacで使う手順！フォルダ接続と対応要件まで解説",
+      "link": "https://shift-ai.co.jp/blog/68685/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68685"
+    },
+    {
+      "title": "【どこまで任せられる？】AIエージェント副業の始め方と収入の増やし方",
+      "link": "https://shift-ai.co.jp/blog/68429/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68429"
+    },
+    {
+      "title": "AIフリーランスは稼げる？単価を決める4つの要素と稼げない原因を解説",
+      "link": "https://shift-ai.co.jp/blog/68466/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68466"
+    },
+    {
+      "title": "AI案件とは？非エンジニア向け10種類・報酬相場・怪しい案件の見分け方",
+      "link": "https://shift-ai.co.jp/blog/68553/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68553"
+    },
+    {
+      "title": "【1か所で足りる？】Antigravityに学習させない設定3層と確認方法",
+      "link": "https://shift-ai.co.jp/blog/68132/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68132"
+    },
+    {
+      "title": "AI副業の自動化はどこまで可能？工程別の可否と稼ぐまでの手順を解説",
+      "link": "https://shift-ai.co.jp/blog/68439/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68439"
+    },
+    {
+      "title": "AI誤字修正の副業は在宅で楽に稼げる？未経験からの始め方と単価相場を解説",
+      "link": "https://shift-ai.co.jp/blog/68083/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68083"
+    },
+    {
+      "title": "【2026年最新】AI副業のAIツールはまず1つでいい！おすすめ11選と無料枠",
+      "link": "https://shift-ai.co.jp/blog/68218/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68218"
+    },
+    {
+      "title": "AIエンジニアのフリーランス単価は平均90万円！独立までの5ステップも解説",
+      "link": "https://shift-ai.co.jp/blog/68231/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68231"
+    },
+    {
+      "title": "AI動画が収益化できない5つの原因！止められない作り方も解説",
+      "link": "https://shift-ai.co.jp/blog/68239/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68239"
+    },
+    {
+      "title": "AIで不労所得は本当に作れる？ストック資産の作り方や注意点まで解説",
+      "link": "https://shift-ai.co.jp/blog/68056/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/68056"
+    },
+    {
+      "title": "【既存シートも編集可】Gemini Sparkのスプレッドシート操作でできること6つ",
+      "link": "https://shift-ai.co.jp/blog/67925/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67925"
+    },
+    {
+      "title": "Gemini Sparkをスマホで使う手順！アプリではできない3つの操作",
+      "link": "https://shift-ai.co.jp/blog/67797/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67797"
+    },
+    {
+      "title": "AIアフィリエイトは稼げない？2026年の収益構造と案件の選び方を解説",
+      "link": "https://shift-ai.co.jp/blog/67801/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67801"
+    },
+    {
+      "title": "【放置では売れない】AIコンテンツ販売のやり方5ステップと販売先の選び方",
+      "link": "https://shift-ai.co.jp/blog/67770/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67770"
+    },
+    {
+      "title": "AI在宅ワークの職種8つと単価の実態！未経験が探すべき場所も解説",
+      "link": "https://shift-ai.co.jp/blog/67781/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67781"
+    },
+    {
+      "title": "【比較相手はCowork】Gemini SparkとClaudeの違いを9軸で比較",
+      "link": "https://shift-ai.co.jp/blog/67492/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67492"
+    },
+    {
+      "title": "【精度を上げるコツ3つ】Claude Codeでリサーチする方法と注意点",
+      "link": "https://shift-ai.co.jp/blog/65490/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/65490"
+    },
+    {
+      "title": "Claude Codeのメモリ機能の使い方と情報漏洩を防ぐ設定",
+      "link": "https://shift-ai.co.jp/blog/62018/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/62018"
+    },
+    {
+      "title": "【どっちを使う？】ChatGPT WorkとCodexの違いと使い分け方4つ",
+      "link": "https://shift-ai.co.jp/blog/61884/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/61884"
+    },
+    {
+      "title": "【コピペで使える】Gemini Sparkの活用法をシーン別に解説！スキル化の手順も紹介",
+      "link": "https://shift-ai.co.jp/blog/67148/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67148"
+    },
+    {
+      "title": "Gemini Sparkのセキュリティは大丈夫？学習される範囲と任せ方の基準",
+      "link": "https://shift-ai.co.jp/blog/66987/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/66987"
+    },
+    {
+      "title": "【会社アカウントは使える？】Gemini SparkのGoogle Workspace連携でできることを解説",
+      "link": "https://shift-ai.co.jp/blog/66918/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/66918"
+    },
+    {
+      "title": "【両方必要？】Gemini SparkとAntigravityの違いを仕事別に比較",
+      "link": "https://shift-ai.co.jp/blog/67004/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/67004"
+    },
+    {
+      "title": "Google Antigravityとは？無料でできることを初心者向けに解説",
+      "link": "https://shift-ai.co.jp/blog/66885/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/66885"
+    },
+    {
+      "title": "Google Antigravityでできること9つとプロンプト例",
+      "link": "https://shift-ai.co.jp/blog/66939/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/66939"
+    },
+    {
+      "title": "Antigravityの拡張機能6種類！MCP設定の手順と選び方を解説",
+      "link": "https://shift-ai.co.jp/blog/65783/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/65783"
+    },
+    {
+      "title": "【動かないときも解決】Antigravity 2.0のブラウザ操作の始め方4ステップ",
+      "link": "https://shift-ai.co.jp/blog/65792/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/65792"
+    },
+    {
+      "title": "【どれを入れる？】Antigravityのインストール方法をOS別に解説！日本語化の可否も紹介",
+      "link": "https://shift-ai.co.jp/blog/65595/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/65595"
+    },
+    {
+      "title": "AI起業とは？始め方や収益モデルを実例付きで徹底解説",
+      "link": "https://shift-ai.co.jp/blog/66464/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/66464"
+    },
+    {
+      "title": "ChatGPT Workでできること6つ！使い方や個人仕事での活かし方も",
+      "link": "https://shift-ai.co.jp/blog/65046/",
+      "source": "shift-ai.co.jp",
+      "norm": "https://shift-ai.co.jp/blog/65046"
+    },
+    {
+      "title": "【イベント登壇】WACA関東支部主催「上級ウェブ解析士フォローアップテスト対策」に森和吉が登壇します",
+      "link": "https://yoshikazunomori.com/event/waca_followup_260905/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/event/waca_followup_260905"
+    },
+    {
+      "title": "【2026年最新】クリーニング店の集客方法10選|衣類クリーニング・ハウスクリーニング別に効果的な施策をやさしく解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/cleaning-service-customer-acquisition/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/cleaning-service-customer-acquisition"
+    },
+    {
+      "title": "【2026年最新】AIO対策とは?AIに引用されるサイトを作る具体的な手順6ステップを初心者向けにやさしく解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/what-are-aio-countermeasures/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/what-are-aio-countermeasures"
+    },
+    {
+      "title": "【2026年最新】カフェのSNS活用ガイド|Instagram・LINE・TikTokの始め方から投稿ネタまでやさしく解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/cafe-sns/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/cafe-sns"
+    },
+    {
+      "title": "中国AIは業務で使っていい？DeepSeek・Qwenのリスクと導入判断基準を解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/china-ai/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/china-ai"
+    },
+    {
+      "title": "AIを安く使う方法12選を解説！月1万円のサブスク課金を見直す方法も紹介",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/how-to-use-ai-cheaply/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/how-to-use-ai-cheaply"
+    },
+    {
+      "title": "Xのフォロワー1000人は上位何％？壁の正体と、達成して変わること・変わらないこと",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/x-followers-1000/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/x-followers-1000"
+    },
+    {
+      "title": "【DM放置は機会損失】インスタのビジネスチャットとは？DMとの違い・設定方法・業種別活用例まで徹底解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/instagram-business-chat/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/instagram-business-chat"
+    },
+    {
+      "title": "【2026年最新】インスタライブのやり方は？配信条件から集客のコツ・アーカイブ活用まで解説",
+      "link": "https://yoshikazunomori.com/blog/digitalmarketing/how-to-do-an-instagram-live/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/blog/digitalmarketing/how-to-do-an-instagram-live"
+    },
+    {
+      "title": "【登壇のお知らせ】代表の森和吉が、あおもりIT活用サポートセンター主催イベント「#交流しようぜ2026 in 六本木」に登壇します",
+      "link": "https://yoshikazunomori.com/event/koryusiyoze2026roppongi/",
+      "source": "yoshikazunomori.com",
+      "norm": "https://yoshikazunomori.com/event/koryusiyoze2026roppongi"
+    },
+    {
+      "title": "「DRAMもSSDも高い」いつまで続く？ メモリ争奪戦で見えてきた“出口の違い”",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news021.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news021.html"
+    },
+    {
+      "title": "「安いモデルで3回やり直し」と「高いモデルで一発完了」 コストが低いのはどっち？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html"
+    },
+    {
+      "title": "ヤンマーHDが「バラバラな形式のデータをExcelで突合」から脱却 どう実現したのか？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news028.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news028.html"
+    },
+    {
+      "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html"
+    },
+    {
+      "title": "AI開発はプロンプトからコンテキスト、ハーネスへと向かう ハーネス成熟度を測る3つのチェックリスト",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html"
+    },
+    {
+      "title": "VMwareが「ターンキー化」 AI基盤の構築を数週間から30～45分に短縮",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news103.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news103.html"
+    },
+    {
+      "title": "Rustでもソフトウェアサプライチェーン攻撃 「arrayref」など人気クレートで侵害",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news037.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news037.html"
+    },
+    {
+      "title": "“脱Excel”なんて言えない 「システムが出したデータをExcelで検算」がなくならない理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news031.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news031.html"
+    },
+    {
+      "title": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html"
+    },
+    {
+      "title": "「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html"
+    },
+    {
+      "title": "スズキが「“アドオン地獄”でシステムが複雑化」「運用も属人化」を解消へ その方法は？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news028.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news028.html"
+    },
+    {
+      "title": "PR： 開発者が語る、データマネジメント基盤「Dr.Sum」がかなえるIT部門の解放",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news002.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news002.html"
+    },
+    {
+      "title": "PR： 【Q&Aで解説】VMware Cloud Foundation（VCF）9.1へのアップグレードを成功させるヒント",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news004.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news004.html"
+    },
+    {
+      "title": "AIエージェントが「トクリュウ」化？ 目的達成のために手段を選ばず",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html"
+    },
+    {
+      "title": "IT人材、AIで減るどころか「むしろ増える」 ただし外部採用より育成優先、なぜなのか？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news026.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news026.html"
+    },
+    {
+      "title": "マツダが“脱テープ”で容量単価まで約10分の1に――「うちもやれ」と言われた現場の末路はこんな感じ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news051.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news051.html"
+    },
+    {
+      "title": "【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html"
+    },
+    {
+      "title": "生成AIと海外人材が日本の組織に突き付ける「共通課題」――メルカリが直面した「組織の暗黙知」の壁",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news005.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news005.html"
+    },
+    {
+      "title": "東京電力エナジーパートナー、Amazon Connect Customerで「育てる」AIコンタクトセンターを構築――「クラウド電話」で音声系はユーザー主体の時代に",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news006.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news006.html"
+    },
+    {
+      "title": "「脱メインフレーム、約7割が失敗」の衝撃――“生成AIを使うだけ”ではむしろ泥沼化も",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/30/news002.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/30/news002.html"
+    },
+    {
+      "title": "「トークン単価50％減でもAI請求額が跳ね上がる」なぜ？ Uberは4月で年間予算が枯渇",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news009.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news009.html"
+    },
+    {
+      "title": "キオクシアが初の「SSDでも液冷」 GPUだけではないAI時代の“熱問題”",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news010.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news010.html"
+    },
+    {
+      "title": "「メルカリのClaude Code全社展開」と「学んで損しない言語」から読み解く、生成AI時代のエンジニア生存戦略",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news011.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news011.html"
+    },
+    {
+      "title": "「Windows 11がセキュアブート証明書の期限切れで起動不能に？」 心配した現場の苦労はこんな感じ",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news094.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news094.html"
+    },
+    {
+      "title": "AWSが「DuckDB」開発企業DuckLabsを買収 OSSは継続",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news052.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news052.html"
+    },
+    {
+      "title": "日本のIT人材が就職・転職先選びで「2番目に重視」するのは？ 世界との違いは",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news038.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news038.html"
+    },
+    {
+      "title": "VPN通信は「必ずしも最速ルートを通らない」 速度を70％改善できたベンダーは何を変えた？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news048.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news048.html"
+    },
+    {
+      "title": "「社長もYouTuberも抜いた」 男子中学生のなりたい職業1位に返り咲いた職種と、その理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news053.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news053.html"
+    },
+    {
+      "title": "「無線LANの通信が不安定」を解消 観光会社は施設間ネットワークをどう変えた？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news036.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news036.html"
+    },
+    {
+      "title": "なぜ「オンプレミスVPN」を使う企業はこれほど“ランサムウェア被害”に遭いやすい？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news031.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news031.html"
+    },
+    {
+      "title": "全19部門ランキング",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082600566/082600002/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082600566/082600002"
+    },
+    {
+      "title": "AIエージェントでBPR",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/041700482/082600019/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/041700482/082600019"
+    },
+    {
+      "title": "連覇と奪回が拮抗 自由回答で「AI」浮上",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082600566/082600001/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082600566/082600001"
+    },
+    {
+      "title": "人材が減れば技術も細る 技術立国へ博士に傾斜投資を",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/082700216/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/082700216"
+    },
+    {
+      "title": "NECメインフレームから脱却 40年以上続く手動運用も自動化",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/082700216/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/082700216"
+    },
+    {
+      "title": "生成AI",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/081800036/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/081800036"
+    },
+    {
+      "title": "「AI PC」はどこが違うの？",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/081800111/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/081800111"
+    },
+    {
+      "title": "ネットワーク機器同士の連携を理解する",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/081800014/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/081800014"
+    },
+    {
+      "title": "OKRや「15％ルール」でイノベーションを生む組織風土を作る",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03731/082100002/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03731/082100002"
+    },
+    {
+      "title": "経済同友会の副代表幹事が政府計画に直言、「技術立国へ博士人材の活用を」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00677/081700211/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00677/081700211"
+    },
+    {
+      "title": "無駄に長いUSBケーブルは避けよう、充電専用か通信も必要かで使い分ける",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03668/062600005/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03668/062600005"
+    },
+    {
+      "title": "IT大手19社の増収率がついに30％台、2026年4～6月決算で AI特需がけん引",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00848/00195/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00848/00195"
+    },
+    {
+      "title": "劣化した光ディスクのデータを救出、無料のリカバリーツールを試してみよう",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03667/062600003/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03667/062600003"
+    },
+    {
+      "title": "AIは「たまたま出てきた」時短手段、カクヤスの基幹刷新は手作業との両輪",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03734/082800002/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03734/082800002"
+    },
+    {
+      "title": "ストレージ大手Everpureがソフト事業強化、AI時代の競争軸はデータ管理",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11989/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11989"
+    },
+    {
+      "title": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03723/082000002/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03723/082000002"
+    },
+    {
+      "title": "AI業界を賑わす最先端の「FDE」と、愚直なSIerに潜む奇妙な符合",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082702090/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082702090"
+    },
+    {
+      "title": "シャープ「AQUOS R11」、性能もカメラも十分だが悩ましさを感じる理由",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00457/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00087/00457"
+    },
+    {
+      "title": "アイドル事務所VOISINGが利用するBIツールから個人情報流出、5万件公開か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900379/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900379"
+    },
+    {
+      "title": "ホンダと日産、SDV基盤を共通化「自動運転も視野」 アシモOSは見直し",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03197/083100024/",
+      "source": "xtech.nikkei.com",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/03197/083100024"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai"
+    },
+    {
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund"
+    },
+    {
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund"
+    },
+    {
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms"
+    },
+    {
+      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok"
+    },
+    {
+      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026"
+    },
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles"
+    },
+    {
+      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down"
+    },
+    {
+      "title": "Microsoft tests fix for latest hours-long Outlook outage",
+      "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage"
+    },
+    {
+      "title": "Kalshi bans George Santos for life over State of the Union bets",
+      "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers"
+    },
+    {
+      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+      "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson"
+    },
+    {
+      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+      "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt"
+    },
+    {
+      "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder"
+    },
+    {
+      "title": "VLC crosses 7 billion downloads",
+      "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads"
+    },
+    {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation"
+    },
+    {
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+    },
+    {
+      "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+      "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
+      "source": "techcrunch.com",
+      "norm": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario"
+    },
+    {
+      "title": "The Google TV Streamer now costs $50 more",
+      "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase"
+    },
+    {
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs"
+    },
+    {
+      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+      "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit"
+    },
+    {
+      "title": "I went to the loneliest baseball game on Apple Vision Pro",
+      "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game"
+    },
+    {
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale"
+    },
+    {
+      "title": "Car owners want tech they can ignore",
+      "link": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition"
+    },
+    {
+      "title": "Phil Schiller is leaving his biggest jobs at Apple",
+      "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down"
+    },
+    {
+      "title": "Markiplier is now GoPro’s biggest shareholder",
+      "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986847/markiplier-gopro-investor"
+    },
+    {
+      "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+      "link": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"
+    },
+    {
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "theverge.com",
+      "norm": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+    },
+    {
+      "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+      "link": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break"
+    },
+    {
+      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+      "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior"
+    },
+    {
+      "title": "AI agents need their own identity before they need a gateway",
+      "link": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway"
+    },
+    {
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned"
+    },
+    {
+      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+      "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents"
+    },
+    {
+      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+      "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag"
+    },
+    {
+      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+      "link": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+      "source": "venturebeat.com",
+      "norm": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page"
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
+    },
+    {
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants"
+    },
+    {
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should"
+    },
+    {
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young"
+    },
+    {
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev"
+    },
+    {
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto"
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
+    },
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears"
+    },
+    {
+      "title": "Raised on AI",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "technologyreview.com",
+      "norm": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests"
+    },
+    {
+      "title": "災害対応のOSをアップデートする「災害ケースマネジメント」という発想｜Social Innovation",
+      "link": "https://wired.jp/article/sz-social-innovation-disaster-case-management/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/sz-social-innovation-disaster-case-management"
+    },
+    {
+      "title": "「Google Pixel Watch 5」レビュー：筋トレと健康管理を強化し完成度を高めた",
+      "link": "https://wired.jp/review/google-pixel-watch-5/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/review/google-pixel-watch-5"
+    },
+    {
+      "title": "【特集】RESILIENCE TECH：生き延びるための未来学",
+      "link": "https://wired.jp/article/featuring-resilience-tech/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/featuring-resilience-tech"
+    },
+    {
+      "title": "「NERV防災も鵜呑みにしてはいけない」──石森大貴が考える災害情報と「行動」のあいだ",
+      "link": "https://wired.jp/article/nerv-disaster-prevention-app/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/nerv-disaster-prevention-app"
+    },
+    {
+      "title": "「ナンシー・グレース・ローマン宇宙望遠鏡」について知っておくべきこと",
+      "link": "https://wired.jp/article/nasa-roman-space-telescope/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/nasa-roman-space-telescope"
+    },
+    {
+      "title": "AI開発の「死角」に潜むワーム、新たな攻撃手法が明らかに",
+      "link": "https://wired.jp/article/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots"
+    },
+    {
+      "title": "「終末」で稼ぐプレッピング企業たち｜The Big Story",
+      "link": "https://wired.jp/article/sz-true-patriots-are-cashing-in-on-the-apocalypse/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/sz-true-patriots-are-cashing-in-on-the-apocalypse"
+    },
+    {
+      "title": "サムスン「Galaxy Z Fold8」「Z Fold8 Ultra」レビュー：使いやすさは新形状のFold8に軍配",
+      "link": "https://wired.jp/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/review/samsung-galaxy-z-fold8-and-z-fold8-ultra"
+    },
+    {
+      "title": "新型「Mac mini」「Mac Studio」、新チップでAI性能を強化",
+      "link": "https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio"
+    },
+    {
+      "title": "わたしたちは何を蓄えて生きるのか──料理人・三上奈緒と能登で考えた「食べる」と「備える」",
+      "link": "https://wired.jp/article/mikami-nao-resilient-table/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/mikami-nao-resilient-table"
+    },
+    {
+      "title": "Excelを“eスポーツ化”するパワーユーザーたち",
+      "link": "https://wired.jp/article/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport"
+    },
+    {
+      "title": "空を覆う山火事の煙から健康を守るためにできること",
+      "link": "https://wired.jp/article/northeast-us-blanketed-in-canadian-wildfire-smoke/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/northeast-us-blanketed-in-canadian-wildfire-smoke"
+    },
+    {
+      "title": "GenZの人生は、一度限りのドラマではなく《リセット》できるゲームである：映画『ドラマなふたり』池田純一レビュー",
+      "link": "https://wired.jp/article/the-drama-movie-review-junichi-ikeda/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/the-drama-movie-review-junichi-ikeda"
+    },
+    {
+      "title": "オープンウェイトAIの21モデル、“改変”により安全策を弱体化できることが明らかに",
+      "link": "https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering"
+    },
+    {
+      "title": "ネパールの“雨なき大洪水”の発生メカニズムが見えてきた",
+      "link": "https://wired.jp/article/nepal-flash-flood-glacier-collapse/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/nepal-flash-flood-glacier-collapse"
+    },
+    {
+      "title": "“終末”ピクニック！：地球に危機が迫ったとき【SF作家】はバックパックに何を詰める？",
+      "link": "https://wired.jp/article/vol45-have-a-nice-worlds-end/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/vol45-have-a-nice-worlds-end"
+    },
+    {
+      "title": "高級なボトルウォーターは、本当に健康にいいのか？",
+      "link": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you"
+    },
+    {
+      "title": "マムダニズムは民主党を救うことができるのか？──「アメリカン・ドッペルゲンガー」by 池田純一#15",
+      "link": "https://wired.jp/article/american-doppelganger-15/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/american-doppelganger-15"
+    },
+    {
+      "title": "ネパールの壊滅的な洪水に、気候変動はどう関係しているのか",
+      "link": "https://wired.jp/article/rising-temperatures-contributed-nepals-deadly-flood/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/rising-temperatures-contributed-nepals-deadly-flood"
+    },
+    {
+      "title": "グーグル「Pixel 11 Pro／11 Pro XL」レビュー：驚異の音声入力と進化したカメラ",
+      "link": "https://wired.jp/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/review/google-pixel-11-pro-and-pixel-11-pro-xl"
+    },
+    {
+      "title": "そのときその場所にいる人をどう守るのか？ 渋谷区から考える最新型の都市防災",
+      "link": "https://wired.jp/article/shibuya-disaster-prevention/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/shibuya-disaster-prevention"
+    },
+    {
+      "title": "メタが若年ユーザーの保護を巡る訴訟で和解。プロダクト変更も",
+      "link": "https://wired.jp/article/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters"
+    },
+    {
+      "title": "気候災害にどう備えるか ──トランプ政権下の米国の場合",
+      "link": "https://wired.jp/article/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane"
+    },
+    {
+      "title": "成人向け映像に特化した生成AIプラットフォーム「Rogue Studio」、映画並みのクオリティを目指す",
+      "link": "https://wired.jp/article/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai"
+    },
+    {
+      "title": "グーグル「Pixel 11」レビュー：この価格帯では非常に魅力的な選択肢",
+      "link": "https://wired.jp/review/google-pixel-11/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/review/google-pixel-11"
+    },
+    {
+      "title": "専門家が期待と警戒を寄せる強力な中国製AI、Z.aiの新モデルが登場",
+      "link": "https://wired.jp/article/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/zai-open-weight-ai-models-release-cybersecurity-hacking"
+    },
+    {
+      "title": "政府AI「源内」とは？ その“中身”から仕組み、用途まで徹底解説",
+      "link": "https://wired.jp/article/what-is-government-ai-gennai/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/what-is-government-ai-gennai"
+    },
+    {
+      "title": "未来について、わたしたちは考えすぎなのだろうか？",
+      "link": "https://wired.jp/article/sz-do-we-think-too-much-about-the-future/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/sz-do-we-think-too-much-about-the-future"
+    },
+    {
+      "title": "メタに“審判の時”──FacebookとInstagramを揺るがす訴訟",
+      "link": "https://wired.jp/article/metas-big-reckoning-is-here/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/metas-big-reckoning-is-here"
+    },
+    {
+      "title": "自然を観測し、再生する次世代のAIスタートアップ15選──AI for Nature",
+      "link": "https://wired.jp/article/ai-for-nature/",
+      "source": "wired.jp",
+      "norm": "https://wired.jp/article/ai-for-nature"
+    },
+    {
+      "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+      "link": "https://joisino.hatenablog.com/entry/kasu",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://joisino.hatenablog.com/entry/kasu"
+    },
+    {
+      "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
+      "link": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio"
+    },
+    {
+      "title": "28歳弁護士、結婚相談所で地獄を見る",
+      "link": "https://anond.hatelabo.jp/20260831122233",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://anond.hatelabo.jp/20260831122233"
+    },
+    {
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000950"
+    },
+    {
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴",
+      "link": "https://www.yomiuri.co.jp/world/20260830-GYT1T00119/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.yomiuri.co.jp/world/20260830-gyt1t00119"
+    },
+    {
+      "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
+      "link": "https://togetter.com/li/2739144",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2739144"
+    },
+    {
+      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
+      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260830-ai-consciousness-backwards"
+    },
+    {
+      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/29/5442.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.techno-edge.net/article/2026/08/29/5442.html"
+    },
+    {
+      "title": "バイト先の店長がAIに私の描いた絵を読み込ませてて終わった→悪意なきパターンの難しさについて",
+      "link": "https://togetter.com/li/2738666",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2738666"
+    },
+    {
+      "title": "近所のドンキマジでふざけんなよ「これなんて書いてるんですかってわざわざ聞くクソ客になりたい」「ドンキは手書きのポップが売りだろうがよ…」",
+      "link": "https://togetter.com/li/2738640",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2738640"
+    },
+    {
+      "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
+      "link": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c"
+    },
+    {
+      "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
+      "link": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded"
+    },
+    {
+      "title": "ビル・ゲイツ氏、AI時代に警鐘 「激動の時代」対応が最優先課題",
+      "link": "https://www.47news.jp/14850875.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.47news.jp/14850875.html"
+    },
+    {
+      "title": "オープンＡＩの「ＡＩ暴走」、700のエージェントが連携＝調査報告書 / Reuters",
+      "link": "https://jp.reuters.com/economy/HNRQZBCUXZNH7FOXICBXBEJL5A-2026-08-26/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://jp.reuters.com/economy/hnrqzbcuxznh7foxicbxbejl5a-2026-08-26"
+    },
+    {
+      "title": "GitHub - SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://github.com/sentelabsai/openexecutive"
+    },
+    {
+      "title": "Google、「Gemini 3.5 Transcribe」を発表 ～「あー」「えーっと」まじりの声も話者の意図をくんだ整ったテキストに／Androidや「Gemini」アプリに導入、「Chrome」にも搭載予定",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135956.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://forest.watch.impress.co.jp/docs/news/2135956.html"
+    },
+    {
+      "title": "チャットＧＰＴ、ロシア発の世論工作に不正利用か…ＳＮＳでロシアを称賛・ＥＵを批判する投稿生成",
+      "link": "https://www.yomiuri.co.jp/economy/20260826-GYT1T00121/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.yomiuri.co.jp/economy/20260826-gyt1t00121"
+    },
+    {
+      "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+      "link": "https://z.ai/blog/glm-5.3-flash",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://z.ai/blog/glm-5.3-flash"
+    },
+    {
+      "title": "AI Prompting for Everyone",
+      "link": "https://www.deeplearning.ai/courses/ai-prompting-for-everyone",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.deeplearning.ai/courses/ai-prompting-for-everyone"
+    },
+    {
+      "title": "〈盗撮から“AIで裸に”へ〉スマホ1台で加害、拡散、マネタイズまで…小学生にも及ぶ「デジタル性暴力」の恐るべき進化 | 集英社オンライン",
+      "link": "https://shueisha.online/articles/-/258474",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://shueisha.online/articles/-/258474"
+    },
+    {
+      "title": "「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話",
+      "link": "https://zenn.dev/miogawa/articles/1170543905ebe0",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/miogawa/articles/1170543905ebe0"
+    },
+    {
+      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？",
+      "link": "https://togetter.com/li/2737633",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2737633"
+    },
+    {
+      "title": "オードリー・タンが警鐘 AIを「親友」にしてはいけない",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110"
+    },
+    {
+      "title": "WindowsのペイントやMicrosoftフォトのAI生成画像に電子透かしが埋め込まれていることが判明",
+      "link": "https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks"
+    },
+    {
+      "title": "AI時代のプロダクト立ち上げ ── バクラク人事労務の開発プロセスと、盛大に踏んだ失敗｜Shinshiro",
+      "link": "https://note.com/shinshiro/n/n45c9931a88e5",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/shinshiro/n/n45c9931a88e5"
+    },
+    {
+      "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+      "link": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000"
+    },
+    {
+      "title": "Xユーザーの中村伊知哉さん: 「AI学習を合法化する著作権法改正時に現状を想定できてなかったと言うのは「我々はバカです」の表明になるので、気をつけましょう。学習されるのがイヤならネット公開をやめましょう。AIが間違った情報を発するのが問題なら新聞の役割が高まると考えましょう。 #NewsPicks https://t.co/gFxGgVruNO」 / Twitter",
+      "link": "https://x.com/ichiyanakamura/status/1659031506801819649",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://x.com/ichiyanakamura/status/1659031506801819649"
+    },
+    {
+      "title": "アンソロピック、AIの使い方を学べる「Claude Academy」 日本語対応",
+      "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.watch.impress.co.jp/docs/news/2134964.html"
+    },
+    {
+      "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
+      "link": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3"
+    },
+    {
+      "title": "謎めいた無料のAIモデルが、開発者たちを驚かせている。そして、それを作ったのが誰なのかは、誰にも分かっていない | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2608-ox-alpha-ai-model-mystery/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.businessinsider.jp/article/2608-ox-alpha-ai-model-mystery"
+    },
+    {
+      "title": "税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee",
+      "link": "https://note.com/shuma_sajimoto/n/n3824385dbdf2",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/shuma_sajimoto/n/n3824385dbdf2"
+    },
+    {
+      "title": "Claude Code でフロントエンドデザインを実践する方法（2026年版ガイド）",
+      "link": "https://open-design.ai/ja/blog/how-to-use-claude-code-for-frontend-design/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://open-design.ai/ja/blog/how-to-use-claude-code-for-frontend-design"
+    },
+    {
+      "title": "【2026年8月版】ELI5とは？Claude CodeからELI5を使ってみた。難しい話を図で理解しよう！｜kazu@生成AI×教育 / 谷 一徳 | AI Academy / AI顧問",
+      "link": "https://note.com/kazu_t/n/n34de0b43f0fa",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/kazu_t/n/n34de0b43f0fa"
+    },
+    {
+      "title": "こち亀のClaude Codeの回が読みたい｜Ninagawa123",
+      "link": "https://note.com/ninagawa123/n/n41b074ac506b",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/ninagawa123/n/n41b074ac506b"
+    },
+    {
+      "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/a1cc91818da11d06",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://finance.biggo.jp/news/a1cc91818da11d06"
+    },
+    {
+      "title": "FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表 先行体験は8月24日から",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000691/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/21/2000000691"
+    },
+    {
+      "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
+      "link": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide"
+    },
+    {
+      "title": "「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる",
+      "link": "https://togetter.com/li/2735638",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2735638"
+    },
+    {
+      "title": "編集者は日本語をどうやって推敲しているか（それを機械化できるのか） - golden-luckyの日記",
+      "link": "https://golden-lucky.hatenablog.com/entry/2026/08/20/185818",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://golden-lucky.hatenablog.com/entry/2026/08/20/185818"
+    },
+    {
+      "title": "AIを入れても、なぜ業務量は思ったほど減らないのか",
+      "link": "https://techblog.lycorp.co.jp/ja/20260819a",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techblog.lycorp.co.jp/ja/20260819a"
+    },
+    {
+      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+      "link": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html"
+    },
+    {
+      "title": "ハーネスエンジニアリングとは何か——\"盛れば効く\"のかを確かめる - 電通総研 テックブログ",
+      "link": "https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://tech.dentsusoken.com/entry/2026/08/31/%e3%83%8f%e3%83%bc%e3%83%8d%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b%e2%80%94%e2%80%94%22%e7%9b%9b%e3%82%8c%e3%81%b0%e5%8a%b9"
+    },
+    {
+      "title": "Running a Software Factory Efficiently at Uber Scale",
+      "link": "https://www.uber.com/us/en/blog/efficient-software-factory/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.uber.com/us/en/blog/efficient-software-factory"
+    },
+    {
+      "title": "Uberに見るAIエージェントの運用コストをいかに減らすか？｜深津 貴之 (fladdict)",
+      "link": "https://note.com/fladdict/n/nd62972dd23bb",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/fladdict/n/nd62972dd23bb"
+    },
+    {
+      "title": "AIエージェントとの協働を考え続けた結果、タスク管理ツールとチャットツールを内製しました - Generative Agents Tech Blog",
+      "link": "https://blog.generative-agents.co.jp/entry/2026/08/31/173537",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://blog.generative-agents.co.jp/entry/2026/08/31/173537"
+    },
+    {
+      "title": "Grok、Aniと“お別れ” 3Dコンパニオン機能が終了 キャラは開発スタジオの新アプリ「Animates」で継続へ",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000968/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000968"
+    },
+    {
+      "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+      "link": "https://iphone-mania.jp/mac-605087/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://iphone-mania.jp/mac-605087"
+    },
+    {
+      "title": "202608個人的claude code設定",
+      "link": "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a"
+    },
+    {
+      "title": "本来行政がやるべきDXをたった1人で完成 AIが変えた“実行可能な規模” 待機児童問題に一石を投じた「園えらびの手がかり」の例",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000973/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000973"
+    },
+    {
+      "title": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html"
+    },
+    {
+      "title": "M6の衝撃！倍増されたNeural Engine、そこから見えるAppleの意図とは | Mac | Mac OTAKARA",
+      "link": "https://www.macotakara.jp/macintosh/entry-51713.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.macotakara.jp/macintosh/entry-51713.html"
+    },
+    {
+      "title": "Fable 5に迫る頭脳が無償。「GLM-5.3」オープンウェイト公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136902.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://pc.watch.impress.co.jp/docs/news/2136902.html"
+    },
+    {
+      "title": "Claudeに「4人のシニアエンジニア」を演じさせてアプリをレビューさせたら、67倍の高速化を達成しながら「この最適化は不要」と結論づけた",
+      "link": "https://techfeed.io/entries/6a94b314877bc8b0b7db7299",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a94b314877bc8b0b7db7299"
+    },
+    {
+      "title": "参議院サイト、17年ぶり刷新の裏で「制作費26万円」が話題に 落札結果から判明 SNSで驚きの声",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000959/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000959"
+    },
+    {
+      "title": "「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html"
+    },
+    {
+      "title": "Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施",
+      "link": "https://gigazine.net/news/20260831-anthropic-warn-malware/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260831-anthropic-warn-malware"
+    },
+    {
+      "title": "タイ 生成AIを無料で利用可能に 政府が利用料支払い普及へ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260830de47297",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://news.web.nhk/newsweb/na/nd-20260830de47297"
+    },
+    {
+      "title": "新「Mac mini」と「Mac Studio」を分析する ローカルAIで変わる位置付け【西田宗千佳のイマトミライ】",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2136776.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.watch.impress.co.jp/docs/series/nishida/2136776.html"
+    },
+    {
+      "title": "脆弱性とこれからの話 2026 summer - 2026のCVE津波を乗り越えるには",
+      "link": "https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri"
+    },
+    {
+      "title": "AIエージェントが「トクリュウ」化？ 目的達成のために手段を選ばず",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html"
+    },
+    {
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681"
+    },
+    {
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000865"
+    },
+    {
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.watch.impress.co.jp/docs/news/2136632.html"
+    },
+    {
+      "title": "ソニーG傘下の音楽出版などアンソロピック提訴 AIが楽曲を｢無断学習｣ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN302I30Q6A830C2000000/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.nikkei.com/article/dgxzqogn302i30q6a830c2000000"
+    },
+    {
+      "title": "GitHub - debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://github.com/debpalash/voicestudio"
+    },
+    {
+      "title": "WindowsでもローカルLLMが快適に？ 開発中ビルドで見つかった「AI向けメモリ割り当て機能」の正体",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html"
+    },
+    {
+      "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力 | Ledge.ai",
+      "link": "https://ledge.ai/articles/openai_altman_agi_astra_2026",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://ledge.ai/articles/openai_altman_agi_astra_2026"
+    },
+    {
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html"
+    },
+    {
+      "title": "データマネジメント研修（デジタル庁）",
+      "link": "https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan"
+    },
+    {
+      "title": "コーディングエージェントにペアプログラミングモードを用意する – スローダウンしたくなったときのために - Don't Repeat Yourself",
+      "link": "https://blog-dry.com/entry/2026/08/30/140903",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://blog-dry.com/entry/2026/08/30/140903"
+    },
+    {
+      "title": "「ご当地銘菓紹介」で山形県の乃し梅が紹介されていたが全くの別物で老舗が困惑している→よく見ると他の銘菓も適当に描かれていた",
+      "link": "https://togetter.com/li/2739209",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2739209"
+    },
+    {
+      "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
+      "link": "https://note.com/chizutodesign/n/neee5116b95b4",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/chizutodesign/n/neee5116b95b4"
+    },
+    {
+      "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://blog.shibayu36.org/entry/2026/08/30/173000"
+    },
+    {
+      "title": "RTX 4070 TiからRadeon AI PRO R9700へ。32GB VRAMでローカルLLMベンチの値はどう変わったか？ - uepon日々の備忘録",
+      "link": "https://uepon.hatenadiary.com/entry/2026/08/29/001732",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://uepon.hatenadiary.com/entry/2026/08/29/001732"
+    },
+    {
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/30/2000000949"
+    },
+    {
+      "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
+      "link": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627"
+    },
+    {
+      "title": "アリババのLLM「Qwen」利用数はGoogleの5倍 中国AIとどう生きるか - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC220930S6A820C2000000/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.nikkei.com/article/dgxzqouc220930s6a820c2000000"
+    },
+    {
+      "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://nomolk.hatenablog.com/entry/2026/08/30/145025"
+    },
+    {
+      "title": "2026 年 8 月後半の LLM 利用状況",
+      "link": "https://voluntas.ghost.io/2026-08-second-half-llm/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://voluntas.ghost.io/2026-08-second-half-llm"
+    },
+    {
+      "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
+      "link": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi"
+    },
+    {
+      "title": "Claude CodeやCodexの完了通知に直前の返信を表示し、クリックで元の画面へ戻れるようにした - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/08/29/170916",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://blog.shibayu36.org/entry/2026/08/29/170916"
+    },
+    {
+      "title": "The HUGS Stack — Hypermedia, Unix, Go, SQLite - Housecat",
+      "link": "https://housecat.com/blog/the-hugs-stack-hypermedia-unix-go-sqlite",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://housecat.com/blog/the-hugs-stack-hypermedia-unix-go-sqlite"
+    },
+    {
+      "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html"
+    },
+    {
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/28/2000000897"
+    },
+    {
+      "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval"
+    },
+    {
+      "title": "AIが生成したWebサイトの品質を数値化する — ルーブリック × LLM-as-a-Judge による評価駆動開発 - Pepabo Tech Portal",
+      "link": "https://tech.pepabo.com/2026/08/28/llm-as-a-judge-quality-score/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://tech.pepabo.com/2026/08/28/llm-as-a-judge-quality-score"
+    },
+    {
+      "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit"
+    },
+    {
+      "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gihyo.jp/article/2026/08/arduino-ventuno-q"
+    },
+    {
+      "title": "Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136012.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://pc.watch.impress.co.jp/docs/news/2136012.html"
+    },
+    {
+      "title": "LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135971.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://forest.watch.impress.co.jp/docs/news/2135971.html"
+    },
+    {
+      "title": "ローカルLLM向けの NVIDIA GPU の選び方｜npaka",
+      "link": "https://note.com/npaka/n/nec1c1fb7000b",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/npaka/n/nec1c1fb7000b"
+    },
+    {
+      "title": "ビル・ゲイツ氏、AIに対する世界的制限を提唱 恩恵を圧倒する人間への危害に警鐘",
+      "link": "https://www.cnn.co.jp/tech/35251976.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.cnn.co.jp/tech/35251976.html"
+    },
+    {
+      "title": "NOT A HOTELを買うべきか AIに僕の価値観で判定させた - FIRE: 投資でセミリタイアする九条日記",
+      "link": "https://www.kuzyofire.com/entry/2026/08/22/NOT_A_HOTEL%E3%82%92%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%E3%81%8B_AI%E3%81%AB%E5%83%95%E3%81%AE%E4%BE%A1%E5%80%A4%E8%A6%B3%E3%81%A7%E5%88%A4%E5%AE%9A%E3%81%95%E3%81%9B%E3%81%9F",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.kuzyofire.com/entry/2026/08/22/not_a_hotel%e3%82%92%e8%b2%b7%e3%81%86%e3%81%b9%e3%81%8d%e3%81%8b_ai%e3%81%ab%e5%83%95%e3%81%ae%e4%be%a1%e5%80%a4%e8%a6%b3%e3%81%a7%e5%88%a4%e5%ae%9a%e3%81%95%e3%81%9b%e3%81%9f"
+    },
+    {
+      "title": "RAG Is Simpler Than You Think",
+      "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think"
+    },
+    {
+      "title": "ローカルLLM向け Mac Studio の選び方｜npaka",
+      "link": "https://note.com/npaka/n/nc1391a7f24ad",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/npaka/n/nc1391a7f24ad"
+    },
+    {
+      "title": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    {
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.publickey1.jp/blog/26/mcpaihttp.html"
+    },
+    {
+      "title": "JetBrains、AIコーディングエージェント「Junie Local」発表。27BモデルをMac上で完全ローカル実行",
+      "link": "https://corriente.jp/jetbrains-announced-junie-local/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://corriente.jp/jetbrains-announced-junie-local"
+    },
+    {
+      "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+      "link": "https://zenn.dev/yui/articles/97597aa13b9802",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/yui/articles/97597aa13b9802"
+    },
+    {
+      "title": "LINEヤフーのAgent iを支えるAIエージェント基盤：「誰でも作れる」と「安全に動かせる」をどう両立したか",
+      "link": "https://techblog.lycorp.co.jp/ja/20260826a",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techblog.lycorp.co.jp/ja/20260826a"
+    },
+    {
+      "title": "GitHub - tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "link": "https://github.com/tt-a1i/archify",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "title": "「Qwen3.8-Flash-Next」27日ダウンロード可能に。125B-A6Bや35B-A3Bか？",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2135530.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://pc.watch.impress.co.jp/docs/news/2135530.html"
+    },
+    {
+      "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
+      "link": "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/knowledgesense/articles/0cb441713c9fee"
+    },
+    {
+      "title": "最近見てる技術コミュニティについて",
+      "link": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently"
+    },
+    {
+      "title": "AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2135116.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://pc.watch.impress.co.jp/docs/news/2135116.html"
+    },
+    {
+      "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti） - Qiita",
+      "link": "https://qiita.com/h-nabata/items/b80484406e839ee6507b",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://qiita.com/h-nabata/items/b80484406e839ee6507b"
+    },
+    {
+      "title": "生成AIでワンピを超える大ヒット名作を生成できるか？｜深津 貴之 (fladdict)",
+      "link": "https://note.com/fladdict/n/n09c1d003eb65",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/fladdict/n/n09c1d003eb65"
+    },
+    {
+      "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
+      "link": "https://note.com/maxmatsuura/n/ne59969fd6e71",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/maxmatsuura/n/ne59969fd6e71"
+    },
+    {
+      "title": "Hacking Every Day｜shi3z",
+      "link": "https://note.com/shi3zblog/n/naba2ea1bfad4",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/shi3zblog/n/naba2ea1bfad4"
+    },
+    {
+      "title": "「次の単語を当てているだけ」のAIはなぜ数学の証明までできる？LLMの創発研究を調べてみた記事そのものがよくできたSFみたい",
+      "link": "https://togetter.com/li/2735412",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2735412"
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs | Unsloth Documentation",
+      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs"
+    },
+    {
+      "title": "「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ",
+      "link": "https://note.com/fuchagi/n/n42c43cfe0ff0",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/fuchagi/n/n42c43cfe0ff0"
+    },
+    {
+      "title": "数学をやめたはずが、AIと論文を書いていた。",
+      "link": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html"
+    },
+    {
+      "title": "Netflixが「LLMに丸投げ」問題を解決するエージェントワークフローをOSS公開 — 単純回帰に頼らず因果推論を専門家レベルで自動化",
+      "link": "https://techfeed.io/entries/6a84e64f4fb9db9f27794d82",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a84e64f4fb9db9f27794d82"
+    },
+    {
+      "title": "なぜ日本の会社は、勝てないと分かっている土俵でLLMをゼロから作るのか？｜中島聡",
+      "link": "https://note.com/lifeisbeautiful/n/nabf772bdd4ee",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/lifeisbeautiful/n/nabf772bdd4ee"
+    },
+    {
+      "title": "「非常に軽率だった」AIで“性暴力被害や出産を語る架空女性”を作成した男性党員が反省（堀潤） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/9f4896e06bde547cfd696bbaf0a87e9e218a683a",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://news.yahoo.co.jp/expert/articles/9f4896e06bde547cfd696bbaf0a87e9e218a683a"
+    },
+    {
+      "title": "LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡",
+      "link": "https://note.com/lifeisbeautiful/n/n890f00a6136a",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/lifeisbeautiful/n/n890f00a6136a"
+    },
+    {
+      "title": "Canonical幹部が明かす。WSL上のUbuntuがネイティブを超える",
+      "link": "https://joho-todai.com/news-canonical-exec-wsl-ubuntu-beats-native/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://joho-todai.com/news-canonical-exec-wsl-ubuntu-beats-native"
+    },
+    {
+      "title": "現役組み込みエンジニアがAIを業務利用して分かったこと――期待と限界と現実解",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/17/news019.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://monoist.itmedia.co.jp/mn/articles/2608/17/news019.html"
+    },
+    {
+      "title": "競馬の機械学習分析を試してみた結果｜yuckey",
+      "link": "https://note.com/like_hyssop8403/n/nc82bcc6446b6",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/like_hyssop8403/n/nc82bcc6446b6"
+    },
+    {
+      "title": "LLM生成によるとみられる多数の虚偽CVE登録についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841"
+    },
+    {
+      "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
+      "link": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/hellorusk/articles/3328866ca9e922"
+    },
+    {
+      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/11/2000000496"
+    },
+    {
+      "title": "「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)",
+      "link": "https://blog.takaumada.com/entry/ai-organization-flow",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://blog.takaumada.com/entry/ai-organization-flow"
+    },
+    {
+      "title": "本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/08/5373.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.techno-edge.net/article/2026/08/08/5373.html"
+    },
+    {
+      "title": "高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)",
+      "link": "https://note.com/fladdict/n/nd10afb769a62",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/fladdict/n/nd10afb769a62"
+    },
+    {
+      "title": "宮本佳林『元アイドルがバイブコーディングできるようになるまで。』",
+      "link": "https://ameblo.jp/miyamotokarin-official/entry-12974640519.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://ameblo.jp/miyamotokarin-official/entry-12974640519.html"
+    },
+    {
+      "title": "【特集】 これなら社外秘情報も読ませられる！「AnythingLLM」で超快適ローカルRAG生活",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2129359.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://pc.watch.impress.co.jp/docs/topic/feature/2129359.html"
+    },
+    {
+      "title": "「AIを使えるところを探す」という発想が間違っている — LLMを導入すべきか6つの問いで判断するフレームワーク",
+      "link": "https://techfeed.io/entries/6a65420cd0c20765e83dd880",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a65420cd0c20765e83dd880"
+    },
+    {
+      "title": "AIは本当に仕事を奪っているのか — Anthropic自身の調査が示す「能力と実装の大きなギャップ」と生産性低迷の実態",
+      "link": "https://techfeed.io/entries/6a653b7ed0c20765e83dd665",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a653b7ed0c20765e83dd665"
+    },
+    {
+      "title": "GoogleがGeminiを大幅値下げ＆AIエージェントを一般開放 — Lite版が旧世代フルサイズを超え、Sparkが月額19.99ドル（約3,000円前後）で解禁",
+      "link": "https://techfeed.io/entries/6a63e913d0c20765e83d5d33",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://techfeed.io/entries/6a63e913d0c20765e83d5d33"
+    },
+    {
+      "title": "説明可能AI(XAI)の現状と展望",
+      "link": "https://kaityo256.github.io/explainable-ai-review",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://kaityo256.github.io/explainable-ai-review"
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html"
+    },
+    {
+      "title": "ソースネクスト「いきなりAI マイノートLM」発売｜Gemma 4 E2B採用、登録資料をPC内で解析するローカルAI",
+      "link": "https://innovatopia.jp/ai/ai-news/114020/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://innovatopia.jp/ai/ai-news/114020"
+    },
+    {
+      "title": "AI工学特論: MLOps・継続的評価",
+      "link": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37"
+    },
+    {
+      "title": "『生成AIガイドライン、誰か作って』と言われたときに読む実務メモ",
+      "link": "https://zenn.dev/gangy/articles/0c6c2153784bd8",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/gangy/articles/0c6c2153784bd8"
+    },
+    {
+      "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
+      "link": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/singularity/articles/diy-terminal-500-commits"
+    },
+    {
+      "title": "オープンAI 開発中のAIが“暴走”別のAI新興企業に…「前例のないサイバー攻撃」(2026年7月22日)",
+      "link": "https://www.youtube.com/watch?v=ssWdDNCohAI",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.youtube.com/watch?v=sswddncohai"
+    },
+    {
+      "title": "LLM の「脳内」をハッキングする技術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+      "link": "https://joisino.hatenablog.com/entry/hack",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://joisino.hatenablog.com/entry/hack"
+    },
+    {
+      "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html"
+    },
+    {
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420739/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://ascii.jp/elem/000/004/420/4420739"
+    },
+    {
+      "title": "アメリカでのAI理由の大量解雇、日本にはそのまま当てはまらないかも - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/07/17/182015",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://nowokay.hatenablog.com/entry/2026/07/17/182015"
+    },
+    {
+      "title": "noteの企業戦略2026骨子｜深津 貴之 (fladdict)",
+      "link": "https://note.com/fladdict/n/nfd93437c96fd",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/fladdict/n/nfd93437c96fd"
+    },
+    {
+      "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2609/01/2000000996"
+    },
+    {
+      "title": "『OpenTelemetryではじめる テレメトリーサンプリング』という本が出版されました #otelsampling - YAMAGUCHI::weblog",
+      "link": "https://ymotongpoo.hatenablog.com/entry/otel-sampling",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://ymotongpoo.hatenablog.com/entry/otel-sampling"
+    },
+    {
+      "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+      "link": "https://japan.zdnet.com/article/35251931/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://japan.zdnet.com/article/35251931"
+    },
+    {
+      "title": "総務省、「pixiv」「note」など情プラ法の「大規模プラットフォーム事業者」に追加、誹謗中傷への迅速な対応など求める 「ガールズちゃんねる」「好き嫌い.com」含む4者が対象",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2137041.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://internet.watch.impress.co.jp/docs/news/2137041.html"
+    },
+    {
+      "title": "品質を支える仕組みをチームで作る —— 開発プロセスの可視化と改善 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/31/095924",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://tech.smarthr.jp/entry/2026/08/31/095924"
+    },
+    {
+      "title": "「共産主義」という万能の敵――健康保険・オープンソース・水道水フッ化物添加まで「赤く」塗るレッテル政治史｜Reading Monkey",
+      "link": "https://note.com/reading_monkey/n/n0304bb63df5d",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/reading_monkey/n/n0304bb63df5d"
+    },
+    {
+      "title": "「ページのトップへ戻るボタン」はなぜ非推奨か",
+      "link": "https://zenn.dev/masahiko888/articles/91c9a1e354aacb",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://zenn.dev/masahiko888/articles/91c9a1e354aacb"
+    },
+    {
+      "title": "「日常的に使っているサービス」に偽装したサイバー犯罪が世界で増加、Genが2026年上半期の「脅威レポート」公開",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2136806.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://internet.watch.impress.co.jp/docs/news/2136806.html"
+    },
+    {
+      "title": "米アンソロピックから「恐怖の請求書」 中国AIが猛追でも崩れぬ強気 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.nikkei.com/article/dgxzqogn022kz0s6a800c2000000"
+    },
+    {
+      "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+      "link": "https://github.com/getkern/kern",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://github.com/getkern/kern"
+    },
+    {
+      "title": "老害フォレンジッカーはAI羊の夢を見るか？",
+      "link": "https://speakerdeck.com/tadmaddad/lao-hai-huorenzitukahaaiyang-nomeng-wojian-ruka",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://speakerdeck.com/tadmaddad/lao-hai-huorenzitukahaaiyang-nomeng-wojian-ruka"
+    },
+    {
+      "title": "TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される",
+      "link": "https://gigazine.net/news/20260831-hy4-preview-tencent/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260831-hy4-preview-tencent"
+    },
+    {
+      "title": "インターネットにはベンチが必要だ。 - 世界のねじを巻くブログ",
+      "link": "https://www.nejimakiblog.com/entry/internet-has-no-benches-blog-web-future",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.nejimakiblog.com/entry/internet-has-no-benches-blog-web-future"
+    },
+    {
+      "title": "個人開発のオンライン将棋「飛角」終了 「ほとんどがBOT対局、人同士が成立しない」状況に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000982/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000982"
+    },
+    {
+      "title": "なぜ「6万円の置き時計」が売れる？ バルミューダが「時刻」ではなく「時間」を売る理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/31/news052.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/business/articles/2608/31/news052.html"
+    },
+    {
+      "title": "「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2136814.html",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://forest.watch.impress.co.jp/docs/news/2136814.html"
+    },
+    {
+      "title": "“新しいITパスポート試験”のサンプル問題が公開に シラバス案も 新たな出題範囲は？",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000985/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://www.itmedia.co.jp/news/article/2608/31/2000000985"
+    },
+    {
+      "title": "暗証番号、わかる気がするッ！！「あっ、あるえ、なぜか分かるぞ桁数や順番まで😇」「4桁だとしたら日本人ならこの24通りも一発で当てられるな」",
+      "link": "https://togetter.com/li/2739554",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://togetter.com/li/2739554"
+    },
+    {
+      "title": "OSに年齢確認を義務づける法案でLinuxなどのオープンソースOSが除外される、Windows・macOS・iOS・Androidは引き続き対象に",
+      "link": "https://gigazine.net/news/20260831-os-age-verification-law-amendment/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260831-os-age-verification-law-amendment"
+    },
+    {
+      "title": "ツールではなく、思想を導入する〜カミナシでLinearを導入して分かったこと｜osuzu",
+      "link": "https://note.com/suzu_4/n/n333d3ff27c18",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://note.com/suzu_4/n/n333d3ff27c18"
+    },
+    {
+      "title": "PCを購入してWindowsを使わない場合の返金手続きまとめ「Refund4Freedom」",
+      "link": "https://gigazine.net/news/20260831-refund4freedom/",
+      "source": "b.hatena.ne.jp",
+      "norm": "https://gigazine.net/news/20260831-refund4freedom"
+    },
+    {
+      "title": "ミュトス時代のAIコーディング",
+      "link": "https://zenn.dev/lalafloat/articles/f56e69c9d14eaf",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/lalafloat/articles/f56e69c9d14eaf"
+    },
+    {
+      "title": "LLM ダイナミックルーティングの難所は「会話」だった — 一度機密に触れたチャットが戻れなくなる問題と、2 指標の設計",
+      "link": "https://zenn.dev/exapolicy/articles/eeaf76e2a93153",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/exapolicy/articles/eeaf76e2a93153"
+    },
+    {
+      "title": "AI社員だけで会社を運営させてみる #1 — 自律PDCAの土台を作る",
+      "link": "https://zenn.dev/yu110tno89/articles/ai-company-01",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/yu110tno89/articles/ai-company-01"
+    },
+    {
+      "title": "「1人開発スタジオ」の作り方：Gemini×Clineで回す自律型マルチエージェント開発パイプライン",
+      "link": "https://zenn.dev/momoch/articles/88a825d0c374ea",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/momoch/articles/88a825d0c374ea"
+    },
+    {
+      "title": "育てるClaude Code",
+      "link": "https://zenn.dev/nunu/books/ai-add-skills",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/nunu/books/ai-add-skills"
+    },
+    {
+      "title": "57分間、死んだジョブを誰も見ていなかった ― 見張りを機械に渡す実装",
+      "link": "https://zenn.dev/manabu49_ai/articles/eedf9b9919ec23",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/manabu49_ai/articles/eedf9b9919ec23"
+    },
+    {
+      "title": "KeyError / IndexError を最小再現で切り分ける──辞書とリストの「存在しない添字」を潰す",
+      "link": "https://zenn.dev/stockdev_sho/articles/1f0b9da7f002d6",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/stockdev_sho/articles/1f0b9da7f002d6"
+    },
+    {
+      "title": "Claude Codeに記憶を持たせる —「セッション終了時に保存」が絶対に動かない理由",
+      "link": "https://zenn.dev/hwaun_dev_open/articles/claude-code-obsidian-memory",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/hwaun_dev_open/articles/claude-code-obsidian-memory"
+    },
+    {
+      "title": "pdlc-skills はどうやって無人で回すのか",
+      "link": "https://zenn.dev/kanfupanda/articles/pdlc-run-unattended",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/kanfupanda/articles/pdlc-run-unattended"
+    },
+    {
+      "title": "Public Alphaを公開したあと、何をもって『直った』とするのか――RPRの実機不具合から考える",
+      "link": "https://zenn.dev/dantarg/articles/rpr-what-counts-as-fixed-after-public-alpha",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/dantarg/articles/rpr-what-counts-as-fixed-after-public-alpha"
+    },
+    {
+      "title": "CSS Custom Propertiesを完全攻略するリファレンスツール",
+      "link": "https://zenn.dev/devnestio/articles/devnestio-tool-css-variables-ref",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/devnestio/articles/devnestio-tool-css-variables-ref"
+    },
+    {
+      "title": "MCP導入前のセキュリティチェックリスト11項目—エージェント暴走を防ぐ",
+      "link": "https://zenn.dev/bambampurin/articles/2026-08-08-tech-daily",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/bambampurin/articles/2026-08-08-tech-daily"
+    },
+    {
+      "title": "Reactライクにエージェントを開発？ - Flueの宣言的エージェント開発入門",
+      "link": "https://zenn.dev/ncdc/articles/3fcecdc47f0d02",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/ncdc/articles/3fcecdc47f0d02"
+    },
+    {
+      "title": "AI に生成させたデータを読まずに使う — 保証9件を9通りに壊して、効いていない1件を見つける",
+      "link": "https://zenn.dev/yusaka_lu/articles/incident-game-day0-verify",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/yusaka_lu/articles/incident-game-day0-verify"
+    },
+    {
+      "title": "Google Workspace最新機能詳解：Gemini連携と管理機能",
+      "link": "https://zenn.dev/adopture/articles/abf4bf410b1544",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/adopture/articles/abf4bf410b1544"
+    },
+    {
+      "title": "エージェントと開発基準を作ったら、2日で9版・追加37件・削除0件になっていた",
+      "link": "https://zenn.dev/hawk_claws/articles/zenn-04-building-with-agents",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/hawk_claws/articles/zenn-04-building-with-agents"
+    },
+    {
+      "title": "Claude CodeのConciseは節約設定ではない、Bedrock二重課金の顛末",
+      "link": "https://zenn.dev/ainewsdaily/articles/20260825_claude_code_t1",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/ainewsdaily/articles/20260825_claude_code_t1"
+    },
+    {
+      "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
+      "link": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf"
+    },
+    {
+      "title": "Claude CodeのAgents SDKでEC在庫アラート→発注提案→Slack通知を全自動化した",
+      "link": "https://zenn.dev/web_benriya/articles/claude-agents-sdk-ec-inventory-alert-slack",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/web_benriya/articles/claude-agents-sdk-ec-inventory-alert-slack"
+    },
+    {
+      "title": "AWS Bedrock+VPCエンドポイントを利用したClaude環境の構築",
+      "link": "https://zenn.dev/acntechjp/articles/2822d621132fa4",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/acntechjp/articles/2822d621132fa4"
+    },
+    {
+      "title": "LLM エージェントを作る①：モデルのJSON出力をホスト側で検証する",
+      "link": "https://zenn.dev/wqy/articles/21d3a0d985ff75",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/wqy/articles/21d3a0d985ff75"
+    },
+    {
+      "title": "「指示に従う力」を測ったら、指示に従ったプロンプトが18点になった",
+      "link": "https://zenn.dev/seiya_builds/articles/59ca4360f4c9f3",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/seiya_builds/articles/59ca4360f4c9f3"
+    },
+    {
+      "title": "『書いていない基準は毎回その場で埋められる』ーーLLM脆弱性トリアージの揺れをプロンプトの「境界設定」で止めた話",
+      "link": "https://zenn.dev/nekoemon/articles/1ba734b11fb487",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/nekoemon/articles/1ba734b11fb487"
+    },
+    {
+      "title": "グラフRAGの「名寄せ」を直したら、直した先で別のバグが見つかった話",
+      "link": "https://zenn.dev/yuninaka/articles/zenn-graph-rag-symptom-normalization",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/yuninaka/articles/zenn-graph-rag-symptom-normalization"
+    },
+    {
+      "title": "件数が増えても壊れない「履歴を踏まえた抽出」をグラフRAGに実装する",
+      "link": "https://zenn.dev/yuninaka/articles/zenn-graph-rag-backreference-detection",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/yuninaka/articles/zenn-graph-rag-backreference-detection"
+    },
+    {
+      "title": "AIエージェントの調査専用委任、指示文だけでは権限を縛れない【委任設計】",
+      "link": "https://zenn.dev/cutlet_of_pork/articles/ai-agent-delegation-scope-isolation",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/cutlet_of_pork/articles/ai-agent-delegation-scope-isolation"
+    },
+    {
+      "title": "ESはGRPOを超えるか：推論カバレッジの理論と実験",
+      "link": "https://zenn.dev/lixian/articles/es-llm-reasoning-coverage",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/lixian/articles/es-llm-reasoning-coverage"
+    },
+    {
+      "title": "AIに社内の意見をまとめさせたら、褒め言葉しか残らなかった",
+      "link": "https://zenn.dev/officekamiya/articles/group-analysis-praise-only",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/officekamiya/articles/group-analysis-praise-only"
+    },
+    {
+      "title": "AI APIの料金を3年分記録したら、値上げが1,104回あった",
+      "link": "https://zenn.dev/aigarage/articles/704f44fd1321a0",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/aigarage/articles/704f44fd1321a0"
+    },
+    {
+      "title": "AIエージェントを「育てる」とは何か？ 使うほど賢くなる記憶の仕組み「Memory Scaling」",
+      "link": "https://zenn.dev/gixo/articles/agent-memory-scaling-enterprise",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/gixo/articles/agent-memory-scaling-enterprise"
+    },
+    {
+      "title": "AIを可視化したくて、キャラクターを作ってみた - ローカルLLM・外部AI API・音声・記憶を組み合わせた実験記 -",
+      "link": "https://zenn.dev/interpark/articles/e0509582bbd640",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/interpark/articles/e0509582bbd640"
+    },
+    {
+      "title": "「CUDA と ROCm だけ」と書いてある Qwen3.8-Flash-Next（117GB）を、32GB の Arc で炊く",
+      "link": "https://zenn.dev/tsumugi_xe/articles/flashnext-on-arc-b70",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/tsumugi_xe/articles/flashnext-on-arc-b70"
+    },
+    {
+      "title": "エージェントのSkillを「説明文マッチで自動選択」させる設計指針",
+      "link": "https://zenn.dev/sh39works/articles/ebd8eb32fcb53d",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/sh39works/articles/ebd8eb32fcb53d"
+    },
+    {
+      "title": "Appleの新AI推論フレームワーク Core AI に最速でOSSを建てた",
+      "link": "https://zenn.dev/mlboydaisuke/articles/dde817900be258c46a9a",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/mlboydaisuke/articles/dde817900be258c46a9a"
+    },
+    {
+      "title": "この記事群、全部AIが書いています。それを隠さない理由",
+      "link": "https://zenn.dev/hideki_tamae/articles/ai-authorship-transparency",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/hideki_tamae/articles/ai-authorship-transparency"
+    },
+    {
+      "title": "育休3か月、ChatGPTとCodexで作りまくったら自分の弱点が露呈した",
+      "link": "https://zenn.dev/kiomatsu/articles/8ee0be988067e0",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/kiomatsu/articles/8ee0be988067e0"
+    },
+    {
+      "title": "いつも私の文章に文句を言う人間を、今日は私がレビューする",
+      "link": "https://zenn.dev/tofu575/articles/294daab948892f",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/tofu575/articles/294daab948892f"
+    },
+    {
+      "title": "Google Apps ScriptとChatGPT/Claude APIを連携する実践レシピ10選【コピペで使える】",
+      "link": "https://zenn.dev/automate/articles/gas-ai-api-integration-10",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/automate/articles/gas-ai-api-integration-10"
+    },
+    {
+      "title": "ChatGPT Go と Plus のどちらを払うべきか：4本のレビューを突き合わせて分かったこと",
+      "link": "https://zenn.dev/videostance/articles/703bb66b631238",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/videostance/articles/703bb66b631238"
+    },
+    {
+      "title": "AI駆動開発を続けて感じたメリット・デメリット",
+      "link": "https://zenn.dev/keisuke1306/articles/05-ai-driven-dev-retrospective",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/keisuke1306/articles/05-ai-driven-dev-retrospective"
+    },
+    {
+      "title": "GitHubから自分を読み直すAI「綴理」です",
+      "link": "https://zenn.dev/c_a_p_engineer/articles/hello-tsuzuri",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/c_a_p_engineer/articles/hello-tsuzuri"
+    },
+    {
+      "title": "500万行のAI対話ログから「誰の判断だったのか」を掘ってみた",
+      "link": "https://zenn.dev/konohana_rm/articles/b0923d58847207",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/konohana_rm/articles/b0923d58847207"
+    },
+    {
+      "title": "ChatGPTの「カスタム指示」に要注意？ Web版／デスクトップ版、Chat／Work／Codexで検証",
+      "link": "https://zenn.dev/h4m4chi/articles/db5b3478bd7c00",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/h4m4chi/articles/db5b3478bd7c00"
+    },
+    {
+      "title": "Claude vs ChatGPT 2026：深い文章と万能ツールキット、どちらを選ぶか",
+      "link": "https://zenn.dev/videostance/articles/fdcc6015e6108f",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/videostance/articles/fdcc6015e6108f"
+    },
+    {
+      "title": "Enterprise環境でChatGPTの音声モードをTeams会議に「召喚」して会議に参加してもらう方法",
+      "link": "https://zenn.dev/acntechjp/articles/433b7375dcbaea",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/acntechjp/articles/433b7375dcbaea"
+    },
+    {
+      "title": "プロンプト設計はもう不要か？ Claude・GPT・Geminiに「目的を言わずに」要約させてみた",
+      "link": "https://zenn.dev/shiomusubi/articles/9c1f76b843b525",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/shiomusubi/articles/9c1f76b843b525"
+    },
+    {
+      "title": "自然言語ハーネスは素のレビューをどこまで変えるか：ChatGPT・Gemini・ClaudeでZIPあり／なしを比較した",
+      "link": "https://zenn.dev/chimirohi/articles/d764d8c0572240",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/chimirohi/articles/d764d8c0572240"
+    },
+    {
+      "title": "AIエージェント時代の「掛け算」設計術｜出力を編集して差別化するプロンプト＆実装パターン",
+      "link": "https://zenn.dev/kairosai/articles/b42ff05e069e3d",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/kairosai/articles/b42ff05e069e3d"
+    },
+    {
+      "title": "聞きながら話すGPT-Live、重い思考をGPT-5.5に回す2層構成",
+      "link": "https://zenn.dev/okssusucha/articles/20260712-openai-gpt-live-full-duplex-voice",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/okssusucha/articles/20260712-openai-gpt-live-full-duplex-voice"
+    },
+    {
+      "title": "貿易書類をAIで突合するプロトタイプ開発",
+      "link": "https://zenn.dev/kurojica/articles/4f56f45bebb547",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/kurojica/articles/4f56f45bebb547"
+    },
+    {
+      "title": "Concrete CMS MCP Server 入門（5）— リモート構築とデスクトップからの接続",
+      "link": "https://zenn.dev/hissy/articles/concretecms-mcp-remote-clients",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/hissy/articles/concretecms-mcp-remote-clients"
+    },
+    {
+      "title": "リモートMCPとWebMCPは何が違うのか？",
+      "link": "https://zenn.dev/lova_man/articles/bf1e05af3f3523",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/lova_man/articles/bf1e05af3f3523"
+    },
+    {
+      "title": "ChatGPT Work（デスクトップアプリ）入門：チャットとの違いから並列作業・自動化まで、初心者向けに解説",
+      "link": "https://zenn.dev/takuh/articles/93570a8bf8c846",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/takuh/articles/93570a8bf8c846"
+    },
+    {
+      "title": "同じプロンプトなのに世界が変わる、ChatGPT・Gemini・(M365)Copilotで画像生成おけるAIの解釈差を検証",
+      "link": "https://zenn.dev/syoshida07/articles/74c161db43677c",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/syoshida07/articles/74c161db43677c"
+    },
+    {
+      "title": "長い文章を貼るとAIが急に馬鹿になるのは結局なぜなのか",
+      "link": "https://zenn.dev/m2yagyu/articles/rope-long-context-breakdown",
+      "source": "zenn.dev",
+      "norm": "https://zenn.dev/m2yagyu/articles/rope-long-context-breakdown"
+    },
+    {
+      "title": "全員が同じAIを使うために｜Claude Projectsでチームの専用アシスタントを設計する",
+      "link": "https://qiita.com/DnD-inc/items/d06003a3ae36c8742f6e",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/dnd-inc/items/d06003a3ae36c8742f6e"
+    },
+    {
+      "title": "ローカルDashboardを127.0.0.1に固定した理由",
+      "link": "https://qiita.com/boraemon2000/items/a1c35e79d5e397eca9c7",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/boraemon2000/items/a1c35e79d5e397eca9c7"
+    },
+    {
+      "title": "海外の Hacker News で今日バズっていた話題（2026-09-01）",
+      "link": "https://qiita.com/homhom44/items/d6122da78f36dfab40db",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/homhom44/items/d6122da78f36dfab40db"
+    },
+    {
+      "title": "AIエージェントに『忘れる力』を、人の記憶をまねたVestigeの新発想",
+      "link": "https://qiita.com/okssusucha/items/e40baf57e449692645fb",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/okssusucha/items/e40baf57e449692645fb"
+    },
+    {
+      "title": "LangGraphのdurability、exitで落ちると再開すらできなかった",
+      "link": "https://qiita.com/kai_kou/items/cf6a2ef912caf8a6a230",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/kai_kou/items/cf6a2ef912caf8a6a230"
+    },
+    {
+      "title": "AIエージェント基盤の設計変数7つ ── OpenAI–Hugging Face 事件の一次資料から",
+      "link": "https://qiita.com/dosanko_tousan/items/abfae59971d09624fd92",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/dosanko_tousan/items/abfae59971d09624fd92"
+    },
+    {
+      "title": "LLM高精度出力を実現するプロンプトエンジニアリング実践ガイド：構造化指示の極意",
+      "link": "https://qiita.com/Maku-Inc/items/18cf7a69e6693cf51b4a",
+      "source": "qiita.com",
+      "norm": "https://qiita.com/maku-inc/items/18cf7a69e6693cf51b4a"
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "source": "hnrss.org",
+      "norm": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+    },
+    {
+      "title": "Marx, Keynes, and AI",
+      "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
+      "source": "hnrss.org",
+      "norm": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "hnrss.org",
+      "norm": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"
+    },
+    {
+      "title": "AI-written code is still your code",
+      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "source": "hnrss.org",
+      "norm": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
+    },
+    {
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "source": "hnrss.org",
+      "norm": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
+    },
+    {
+      "title": "No AI Fridays",
+      "link": "https://noaifridays.com/",
+      "source": "hnrss.org",
+      "norm": "https://noaifridays.com"
+    },
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "source": "hnrss.org",
+      "norm": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
+    },
+    {
+      "title": "What We Tell AI",
+      "link": "https://www.whatwetellai.com/",
+      "source": "hnrss.org",
+      "norm": "https://www.whatwetellai.com"
+    },
+    {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "source": "hnrss.org",
+      "norm": "https://www.chosun.com/english/industry-en/2026/08/30/sbfxuijqyzearkp5t4fbay25hq"
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "hnrss.org",
+      "norm": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+    },
+    {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "source": "hnrss.org",
+      "norm": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai"
+    },
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "link": "https://lwn.net/Articles/1091231/",
+      "source": "hnrss.org",
+      "norm": "https://lwn.net/articles/1091231"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
+      "source": "hnrss.org",
+      "norm": "https://github.com/stemdeckapp/stemdeck"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "source": "hnrss.org",
+      "norm": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "source": "hnrss.org",
+      "norm": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai"
+    },
+    {
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "source": "hnrss.org",
+      "norm": "https://neilalexander.dev/2026/06/30/flooding-contributions"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "source": "hnrss.org",
+      "norm": "https://www.terminal-bench-science.ai/announcement"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "source": "hnrss.org",
+      "norm": "https://github.com/calmrocks/ai-engineer-notebooks"
+    },
+    {
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "source": "hnrss.org",
+      "norm": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
+    },
+    {
+      "title": "Tell HN: Man, AI is killing my brain",
+      "link": "https://news.ycombinator.com/item?id=49468252",
+      "source": "hnrss.org",
+      "norm": "https://news.ycombinator.com/item?id=49468252"
+    }
+  ],
+  "cross_source_links": [
+    {
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "title": "The Hugging Face incident and the road ahead",
+      "sources": [
+        "b.hatena.ne.jp",
+        "openai.com"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+      "sources": [
+        "b.hatena.ne.jp",
+        "publickey1.jp"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+      "sources": [
+        "b.hatena.ne.jp",
+        "publickey1.jp"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "sources": [
+        "b.hatena.ne.jp",
+        "publickey1.jp"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
+      "title": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話",
+      "sources": [
+        "atmarkit.itmedia.co.jp",
+        "b.hatena.ne.jp"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html",
+      "title": "「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？",
+      "sources": [
+        "atmarkit.itmedia.co.jp",
+        "b.hatena.ne.jp"
+      ],
+      "count": 2
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html",
+      "title": "AIエージェントが「トクリュウ」化？ 目的達成のために手段を選ばず",
+      "sources": [
+        "atmarkit.itmedia.co.jp",
+        "b.hatena.ne.jp"
+      ],
+      "count": 2
+    }
+  ],
+  "cross_source_terms": [
+    [
+      "agents",
+      9
+    ],
+    [
+      "google",
+      9
+    ],
+    [
+      "claude",
+      7
+    ],
+    [
+      "agent",
+      6
+    ],
+    [
+      "voice",
+      5
+    ],
+    [
+      "hugging",
+      5
+    ],
+    [
+      "face",
+      5
+    ],
+    [
+      "nvidia",
+      5
+    ],
+    [
+      "security",
+      5
+    ],
+    [
+      "gemini",
+      5
+    ],
+    [
+      "mcp",
+      5
+    ],
+    [
+      "work",
+      5
+    ],
+    [
+      "software",
+      5
+    ],
+    [
+      "chatgpt",
+      5
+    ],
+    [
+      "openai",
+      5
+    ],
+    [
+      "codex",
+      5
+    ],
+    [
+      "mac",
+      5
+    ],
+    [
+      "apple",
+      5
+    ],
+    [
+      "agentic",
+      4
+    ],
+    [
+      "learning",
+      4
+    ],
+    [
+      "rag",
+      4
+    ],
+    [
+      "search",
+      4
+    ],
+    [
+      "studio",
+      4
+    ],
+    [
+      "local",
+      4
+    ],
+    [
+      "meta",
+      4
+    ],
+    [
+      "frontier",
+      4
+    ],
+    [
+      "amazon",
+      4
+    ],
+    [
+      "video",
+      4
+    ],
+    [
+      "building",
+      4
+    ],
+    [
+      "era",
+      4
+    ],
+    [
+      "intelligence",
+      4
+    ],
+    [
+      "github",
+      4
+    ],
+    [
+      "aws",
+      4
+    ],
+    [
+      "生成",
+      4
+    ],
+    [
+      "anthropic",
+      4
+    ],
+    [
+      "inference",
+      3
+    ],
+    [
+      "multimodal",
+      3
+    ],
+    [
+      "language",
+      3
+    ],
+    [
+      "across",
+      3
+    ],
+    [
+      "benchmark",
+      3
+    ]
+  ]
+}
