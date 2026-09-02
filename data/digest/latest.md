@@ -1,6 +1,6 @@
-# ネタ帳 2026-09-01
+# ネタ帳 2026-09-02
 
-フィード 36本成功 / 3本失敗　記事 938件
+フィード 36本成功 / 3本失敗　記事 949件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
@@ -8,46 +8,38 @@
 
 - **2媒体** [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
   　`b.hatena.ne.jp / openai.com`
-- **2媒体** [DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援](https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html)
-  　`b.hatena.ne.jp / publickey1.jp`
 - **2媒体** [MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力](https://www.publickey1.jp/blog/26/mcpaihttp.html)
   　`b.hatena.ne.jp / publickey1.jp`
-- **2媒体** [AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ](https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html)
-  　`atmarkit.itmedia.co.jp / b.hatena.ne.jp`
-- **2媒体** [AI開発はプロンプトからコンテキスト、ハーネスへと向かう ハーネス成熟度を測る3つのチェックリスト](https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html)
-  　`atmarkit.itmedia.co.jp / b.hatena.ne.jp`
-- **2媒体** [Google提唱の「SKILL.state」について。プロンプトに型の概念を導入](https://zenn.dev/knowledgesense/articles/ad123283bdea26)
-  　`b.hatena.ne.jp / zenn.dev`
 
 ## 複数の情報源が使っている語
 
 | 語 | 情報源の数 |
 |---|---|
 | google | 10 |
-| claude | 10 |
+| claude | 9 |
 | gemini | 8 |
+| openai | 8 |
+| world | 7 |
 | agent | 7 |
-| agents | 7 |
-| work | 7 |
-| chatgpt | 7 |
-| agentic | 6 |
-| apple | 6 |
-| studio | 6 |
-| software | 6 |
-| openai | 6 |
+| agentic | 7 |
+| intelligence | 7 |
+| flash | 7 |
+| local | 6 |
+| mcp | 6 |
+| work | 6 |
+| chatgpt | 6 |
+| aws | 6 |
 | mac | 6 |
-| anthropic | 6 |
+| safety | 5 |
+| training | 5 |
+| workspace | 5 |
+| agents | 5 |
+| system | 5 |
+| studio | 5 |
+| nvidia | 5 |
 | making | 5 |
 | frontier | 5 |
-| system | 5 |
-| intelligence | 5 |
-| era | 5 |
-| world | 5 |
-| local | 5 |
-| face | 5 |
-| hugging | 5 |
 | amazon | 5 |
-| api | 5 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -59,88 +51,88 @@
 - [AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事](https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595)
 
 ### atmarkit.itmedia.co.jp
-- [【Pythonで学ぶデータ分析】相関があるかどうかをベイズ統計で調べる ～ 年齢と原付事故死傷者数に関係はあるのか？](https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news002.html)
-- [転職dodaの基幹システム「DC廃止→AWS移行前倒し」を“無事故で”どう実現？ コスト予測も高精度に](https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news014.html)
-- [OpenClawが事実上の「2.0」にアップデート、1.6万PRでAIエージェントを「使う」から「育てる」へ](https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news090.html)
-- [量子コンピュータ時代に「暗号を交換できない」企業は危ない PQC移行の現実](https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news035.html)
-- [AIインフラ支出、ついに「推論」が「学習」を上回る――背景についてGartnerが解説](https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news032.html)
+- [茨城県鹿嶋市は「公式Web×Claude」で市民対応をどう変えた？ Claude Codeで内製化も](https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html)
+- [セキュリティ対策は「足す」より「減らす」 開発者と共有したい5つの設計原則](https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news015.html)
+- [「強制アップデートは必須」 モバイルアプリ開発で事前に知っておきたいポイント10選](https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news008.html)
+- [ドラゴンクエストX AI機能実装の舞台裏 賢いだけのAIはゲームの「相棒」になれない](https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news018.html)
+- [1社100万円で非エンジニアをAI人材に ホリエモンAI学校が法人貸切プラン](https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news037.html)
 
 ### b.hatena.ne.jp
+- [委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響](https://www.itmedia.co.jp/news/article/2609/02/2000001082/)
+- [Google、AI画像生成および編集ツール「Google Pics」を一般提供](https://ai.watch.impress.co.jp/docs/news/2137676.html)
+- [「AIが勝手にやった」は通用しない？ AIエージェントにも“社員証”と“委任状”が要るワケ 今からできる対策も解説](https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/)
 - [「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan](https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/)
-- [米アンソロピックから「恐怖の請求書」 中国AIが猛追でも崩れぬ強気 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/)
-- [LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/kasu)
-- [OpenAIが数万台のMac miniとMac Studioを買い占め](https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/)
-- [28歳弁護士、結婚相談所で地獄を見る](https://anond.hatelabo.jp/20260831122233)
+- [「ChatGPT Work」の仕組みに関する考察](https://gigazine.net/news/20260901-understanding-chatgpt-work/)
 
 ### blog.google
+- [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/)
 - [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/)
 - [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/)
 - [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/)
 - [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/)
-- [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/)
 
 ### deepmind.google
+- [Proactive cyber defense for governments and enterprises](https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/)
+- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)
 - [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/)
 - [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/)
 - [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
-- [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
-- [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/)
 
 ### export.arxiv.org
-- [DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation](https://arxiv.org/abs/2608.28590)
-- [Expert-validated STEM QA](https://arxiv.org/abs/2608.28591)
-- [A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making](https://arxiv.org/abs/2608.28592)
-- [Statutory AI: Aligning Large Language Models With Legal Norms](https://arxiv.org/abs/2608.28593)
-- [From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics](https://arxiv.org/abs/2608.28594)
+- [HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models](https://arxiv.org/abs/2609.00002)
+- [I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models](https://arxiv.org/abs/2609.00003)
+- [Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing](https://arxiv.org/abs/2609.00004)
+- [Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models](https://arxiv.org/abs/2609.00005)
+- [Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls](https://arxiv.org/abs/2609.00012)
 
 ### github.blog
+- [Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/)
+- [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/)
 - [OpenClaw went viral. Meet the maintainers building and securing it.](https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/)
 - [GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/)
 - [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)
-- [Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/)
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 
 ### hnrss.org
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
-- [Dwarf Fortress' creator says the industry's in shambles over AI](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
-- [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
-- [AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
-- [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
+- [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+- [The Post-AI Internet Doesn't Look Great](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
+- [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+- [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
 
 ### huggingface.co
+- [Real-Time Intelligence with IBM Time Series Models on Confluent](https://huggingface.co/blog/ibm-research/real-time-intelligence)
 - [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
 - [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels)
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
-- [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)
 
 ### news.google.com
-- [複数の生成AIサービスを無料で利用可能に タイ（ABEMA TIMES） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5lNTFHMDJ4N0p4SVgwLW5Dc3dVbF9PSXYxS3M4YnZjODRHZDZFUVFNUi1iZFlKNjlUTncxTldYR0J3M1UyY3ZXQnhiUVpGSVVBR0Z6ZDFGSm5pbDhObXVPX195X3dTcWV4VWJHeTdhX2hHUDFtSDQwQXdxcU9LajQ?oc=5)
-- [タイ 生成AIを無料で利用可能に 政府が利用料支払い普及へ | NHKニュース | タイ、生成AI・人工知能、IT・ネット - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VOVNuSDhhVUpYMkZKTDFxZVk5dzJ0WUc3cC0yYXJSQXNiOGRWcGtZYm85N3dJRklXcG9mMnlTZndiNXlmMlFhejFBUWtQeU85bHFjSEV5T1VzbHQzNDZB?oc=5)
-- [複数の生成AIサービスを無料で利用可能に タイ - ABEMA TIMES](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Jc3RTQTRQbG9naktEbG5uNlNqSmlhdDZxLWdoU0IyMlRPck1IbDNSRWZoZnF4Tnh0UUJYNURqd283a05sbFlEeW1NWkc3Y21zRnI0VQ?oc=5)
-- [保護者の2割、子どもの学習に生成AI「使わせたくない」 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KQTEtWU9aTkx6dnRxdVZubXc3bk1aemNieUYzbUFJZmtzU09OUTh2M194WGt6d09pS3N5b1IwU01zY0szbmh3TU1sd3FiQVIxcnJoeHFiS2htS3RwSV8taHhwQU9sZ0dL?oc=5)
-- [生成AI画像はなぜ“キショい”のか 消費者が抱く違和感の正体 広報のプロが解説（ITmedia NEWS） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5fVWNLaXFpVVo3UGl6TDhaUHFyRXdfRHRackZhbDhxcGwxQTR1Q245NE12UTdvcGhILUQ3S29RdHQyZ2p3dDlyeFdQNEx1SG1ZbTczajlEdlZFdlA4QVFoejlFU1FSZTI0Y3NpYnBuRUlMTFJwZzdmZVB3T004UzQ?oc=5)
+- [「論文の査読」に生成ＡＩ活用、時短メリットはあるけれど…丸投げなら「架空の文献提示」など誤情報リスク - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SDBNcE5UX2lCMTJKZ2hCSlY3UHAtLWNSY2c1V1Fsby1YMkFaRThPQlU1VWljTEs2U3ZFMTdCbmNwTGwyMFdjNW9WaVJnNTVxZ2VneU53Qnd6X0ZsS3ZxRk0tZDVkZw?oc=5)
+- [法人向け生成AI eラーニングを個人でも。全19講座・90章以上を学べる「みんなのAI相談室 Solo」を9月3日より提供開始 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1kU0RxNVl0TktKY1VjdW9yYXU3V3lzT1pvc1E3YlVCbzRsX1lkbGVja0wxOVBTalFYY1U0cVU4UTZMdl9JZlVHcWhnYTBWZ2s0N3NHY2M2bXg0V09uYTVIaWZNUWZXcmNUQ0E?oc=5)
+- [【保存版】Claude Codeの「AI部下」が新人→即戦力に…“記憶”を育てる「神ワザ」7選 連載：きょうから使える生成AI仕事術 - ビジネス+IT](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZk9SNHRIZ1BqUkdobkJ5bFM2Y1dhWUhaY3JndGxiSEp1cmNZYm5aclBfNjEzbGwzM3pEbDZ5LThJbTZPRFE4QmU5SGZpZ3ZVbHNF?oc=5)
+- [＜産経抄＞生成AIに「使われぬ」ためには、小中に「情報」学習 - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5kR1BOVUtELXNTRi1Jc2tIMVVqbVdPb3R6VWlVd0ExRWkwT1hsQnJHSVNVZlJJYjVpdGloVXZjUVlPNGRoUWhvWXRoN0ZjQ3hYblk1dFlzMUhsNkVhMk5jR2c0aU9QTmJzdWZZNm5hVEpkR1JFN3c?oc=5)
+- [「食欲無くなる」AI生成の“激キモメニュー画像”が飲食店で急増のワケ “実際の食品で再現”YouTuberが衝撃投稿 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Jd0dvbzJlM0hPQWFrU2VOamtaWm1UNGk4ZWpRRjlRWm8taWlUajNaSTM5YmtKWmpXQzNaZVluYnZjREhzRGFVczBfaXFsZDFzaFl4Qkp6bzFzYklfUWJWbHp2RUZsTnZsWVRQbFpFX1pQTzJBcGprckJub0x0ZzQ?oc=5)
 
 ### openai.com
 - [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows)
 - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra)
 - [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
+- [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin)
 - [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)
-- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)
 
 ### publickey1.jp
+- [AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め](https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html)
+- [AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート](https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html)
+- [ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表](https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html)
+- [ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現](https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html)
 - [AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合](https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html)
-- [VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装](https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html)
-- [DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援](https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html)
-- [DHH氏が「Omacom Foundation」を設立、Omarchy推進によるLinuxデスクトップの本格普及を目指す。マイケル・デル、ジャック・ドーシーら著名人も出資](https://www.publickey1.jp/blog/26/dhhomacom_foundationomarchylinux.html)
-- [JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中](https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html)
 
 ### qiita.com
-- [AIエージェントとは何か — チャットボットとの違いを初心者向けに整理する](https://qiita.com/YushiYamamoto/items/4cdd392b8556a488a84b)
-- [How AI Is Transforming Modern Online Games](https://qiita.com/jerrykims/items/794ed59278feae89ba74)
-- [AI Daily Digest 2026-09-02：AstraがCritical到達、Fable 5.1公開、欧州初ヒューマノイド・ユニコーン](https://qiita.com/lhjjjk4/items/25bd7d034ee635508217)
-- [Claude Code v2.1.257｜auto モードの自動承認が縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/74317aca2bd592a109a6)
-- [豊洲の「フィジカルAIファウンドリ」が作るのは機体ではなくデータ。400〜500人の手袋でロボットに動きを教える計画](https://qiita.com/quotidia/items/b69eb28200993a3ba558)
+- [AIへの指示、「いつもの一言」を変えるだけで精度が上がる理由](https://qiita.com/syun136_616/items/e87eca96f226dd44db14)
+- [Qiitaで何が読まれるかを3,478本から探した ― 106通り掃いて、残ったのは6つだけだった](https://qiita.com/manabu49-ai/items/d78a5aeaecf8d7f3f20b)
+- [ReActパターンとツール呼び出しの基礎 — Thought→Action→Observationを初心者向けに整理する](https://qiita.com/YushiYamamoto/items/6ee7244e3186fb72a081)
+- [AI Daily Digest 2026-09-03：BroadcomがAI売上記録、Gemini 3.8 Flash公開、Cognition 470億ドル](https://qiita.com/lhjjjk4/items/af6beb1a5e7b9c066b9c)
+- [Gemini 3.8 Flash が一般提供開始 - 自律エージェント向け最上位Flashモデル](https://qiita.com/picnic/items/f8cb5b8be20fb4381d93)
 
 ### shift-ai.co.jp
 - [【アプリ操作だけ】Codexのプラグインとは？おすすめ一覧と入れ方を解説](https://shift-ai.co.jp/blog/71086/)
@@ -150,46 +142,46 @@
 - [AI動画の収益化はどこから始める？3つの稼ぎ方と失敗しない選び方を解説](https://shift-ai.co.jp/blog/68774/)
 
 ### techcrunch.com
-- [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
-- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/)
-- [Open AI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
-- [Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/)
-- [X says attackers are targeting user accounts after the launch of X Money](https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/)
+- [Palo Alto Networks paid $500M for Thrive-backed Console, sources say](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
+- [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
+- [Google spared from ad-business breakup, but judge orders changes to how it operates](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/)
+- [OpenAI’s new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+- [MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/)
 
 ### technologyreview.com
+- [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/)
+- [The Download: AI puzzles and a path to our nearest star system](https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/)
 - [How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)
 - [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/)
 - [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/)
-- [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/)
-- [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)
 
 ### theverge.com
-- [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)
-- [Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)
-- [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
-- [Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750](https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale)
-- [OpenAI delayed its new model’s development after the Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay)
+- [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)
+- [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+- [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
+- [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
+- [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
 
 ### venturebeat.com
+- [Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?](https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises)
+- [Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists](https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists)
+- [Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke](https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke)
+- [Forward-deployed engineering is how enterprise AI learns](https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns)
 - [Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer](https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer)
-- [Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.](https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open)
-- [Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads](https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads)
-- [Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud](https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud)
-- [AI is redefining the workforce — and most planning models aren’t ready](https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready)
 
 ### wired.jp
+- [月にも「宇宙ゴミ」が積もる時代がやってくる](https://wired.jp/article/moon-space-debris-era/)
+- [史上最大の「宇宙写真」が完成、40億の天体を捉えた5.6兆ピクセルの世界](https://wired.jp/article/desi-legacy-imaging-surveys-largest-sky-map/)
+- [ダイソン初のオーラルケア製品は電動歯ブラシ。「Dyson CameraJet」は何が新しい？](https://wired.jp/article/dyson-camerajet-toothbrush-unveil/)
 - [画面の外の第三者── 個人で働くというフィクションの先へ｜FUTURE of WORK](https://wired.jp/article/sz-future-of-work-parents-as-a-third-factor/)
 - [日本の火星衛星探査機「MMX」について知っておくべきこと](https://wired.jp/article/mmx-mars-moon-phobos-launch-2026/)
-- [「コレクションは思考のエンジンだ」──スペインの現代アーティスト、オリオール・ヴィラノヴァが語る収集と創造の関係](https://wired.jp/article/oriol-vilanova-interview/)
-- [災害対応のOSをアップデートする「災害ケースマネジメント」という発想｜Social Innovation](https://wired.jp/article/sz-social-innovation-disaster-case-management/)
-- [「Google Pixel Watch 5」レビュー：筋トレと健康管理を強化し完成度を高めた](https://wired.jp/review/google-pixel-watch-5/)
 
 ### xtech.nikkei.com
-- [被害企業の防止策 守りより「復旧力」へ](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082700567/082700004/)
-- [ランサム損失は28社 1年で倍の236億円に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082700567/082700003/)
-- [18社が損失計上 海外拠点が標的に](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082700567/082700002/)
-- [AIを取り巻くサイバー脅威を整理する](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/111900071/081800082/)
-- [67％がSCS評価制度の取り組み進行 業務システムの共同利用は約9割](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/082700232/)
+- [AWSの新ネットワーク「RNG」上陸 2026年内稼働の新拠点から](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701486/)
+- [IT大手4社、脱・人月へFDE拡充 日立は26年度内に国内1000人](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701492/)
+- [セブンがソフトバンクと資本業務提携 PayPay経済圏で問われる相乗効果](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701488/)
+- [著名人なりすまし広告を規制強化へ デジ庁ら7省庁がSNS大手5社に要請](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701490/)
+- [企業秘密を出さずにAIを使う 日本発の「秘匿AI」基盤が本格始動](https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701487/)
 
 ### yoshikazunomori.com
 - [Xコンサルの費用相場と選び方：依頼すべきか判断する5つの基準](https://yoshikazunomori.com/blog/digitalmarketing/x-consulting/)
@@ -199,8 +191,8 @@
 - [【2026年最新】カフェのSNS活用ガイド|Instagram・LINE・TikTokの始め方から投稿ネタまでやさしく解説](https://yoshikazunomori.com/blog/digitalmarketing/cafe-sns/)
 
 ### zenn.dev
-- [【月額0円構築】完全素人のポンコツ社長がAI社員に開発・SEO・広報を丸投げする「AI会社」を作った話](https://zenn.dev/autolab_app/articles/5de6af5a49bd95)
-- [失敗24件が書かせた、うちのCLAUDE.mdと検証Hookを公開する——AIの「できました」を物理で止める](https://zenn.dev/jadaq/articles/4a357ffea922b6)
-- [AIとの失敗記録24件から学んだ「検収の三層」——実行した・届いた・確かめた、はぜんぶ違う](https://zenn.dev/jadaq/articles/10ca09874290a8)
-- [【AI最前線】Python一強時代に風穴？ Mojo 1.0正式版、さらに全面オープンソース化](https://zenn.dev/aurostel/articles/9fe1d2f06f9608)
-- [Codexに作業を任せて外出したい ― PCを閉じても続ける方法](https://zenn.dev/boku_yaji/articles/c1d58e24077274)
+- [AIに同じ指示を繰り返すのをやめた。Issue駆動開発という最小運用](https://zenn.dev/kafka2306/articles/issue-driven-development)
+- [MicrosoftはなぜMAI‑Thinking‑1を一般宣伝しないのか？ M365 Copilotの頭脳として静かに動いている訳は](https://zenn.dev/syoshida07/articles/831df01f2c9170)
+- [AIは私を覚えているのか？――「前世の記憶」とコンテキストでわかる生成AIの仕組み](https://zenn.dev/kotakotahiro/articles/29094a998d7fae)
+- [AIで速く作れる時代に、作る量を増やすと組織が自滅する理由](https://zenn.dev/okssusucha/articles/20260714-raise-the-ambition-threshold)
+- [Claude Codeの完了通知をVOICEVOXで喋らせるまでの試行錯誤](https://zenn.dev/t_okubo/articles/3b2f1b880e3f9f)
