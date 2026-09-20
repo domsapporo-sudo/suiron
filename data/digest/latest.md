@@ -1,6 +1,6 @@
-# ネタ帳 2026-09-19
+# ネタ帳 2026-09-20
 
-フィード 33本成功 / 6本失敗　記事 762件
+フィード 35本成功 / 4本失敗　記事 811件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
@@ -8,38 +8,40 @@
 
 - **2媒体** [OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ](https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html)
   　`b.hatena.ne.jp / publickey1.jp`
-- **2媒体** [AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると](https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html)
-  　`b.hatena.ne.jp / publickey1.jp`
+- **2媒体** [Jev クローンの Laya をローカルで60fpsで動かせるか？](https://zenn.dev/mizchi/articles/laya-mlx-60fps)
+  　`b.hatena.ne.jp / zenn.dev`
+- **2媒体** [高速判断AI Jevのユースケースとオープン実装を雑にまとめる](https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations)
+  　`b.hatena.ne.jp / zenn.dev`
 
 ## 複数の情報源が使っている語
 
 | 語 | 情報源の数 |
 |---|---|
-| gemini | 8 |
+| google | 8 |
 | openai | 8 |
 | agents | 7 |
-| google | 7 |
-| chatgpt | 7 |
+| gemini | 7 |
 | mcp | 6 |
-| agent | 5 |
+| api | 6 |
+| foundation | 6 |
+| safety | 5 |
+| frontier | 5 |
+| human | 5 |
+| chatgpt | 5 |
 | claude | 5 |
-| safety | 4 |
+| とは | 5 |
+| agent | 4 |
+| across | 4 |
+| coding | 4 |
+| training | 4 |
 | introducing | 4 |
+| language | 4 |
 | run | 4 |
-| lab | 4 |
-| human | 4 |
+| studio | 4 |
+| build | 4 |
 | building | 4 |
+| game | 4 |
 | online | 4 |
-| github | 4 |
-| rust | 4 |
-| astra | 4 |
-| gpt-6 | 4 |
-| codex | 4 |
-| api | 4 |
-| foundation | 4 |
-| anthropic | 4 |
-| microsoft | 4 |
-| iphone | 4 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -58,11 +60,11 @@
 - [AI開発を支える中国175万人 若手の58％が標準採用する「クラウドネイティブ」の実態](https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news042.html)
 
 ### b.hatena.ne.jp
+- [AIバブルはこうして終わる 金利高と収穫逓減「死の交差」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/)
+- [C#の現在地 進化の歴史と、AI時代の.NET Everywhere](https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere)
+- [アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス](https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794)
 - [【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z](https://note.com/shi3zblog/n/n6d4fbe03218e)
-- [出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求：朝日新聞](https://www.asahi.com/articles/ASV9L4338V9LUCVL00JM.html)
-- [肖像画をChatGPTに読み込ませて出力→加工して納品 委託先による著作権侵害で、小学館「サライ.jp」が謝罪](https://www.itmedia.co.jp/news/article/2609/18/2000001645/)
-- [セキュリティ担当者のための生成AIセキュリティ | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/ai-security.html)
-- [ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待](https://www.itmedia.co.jp/news/article/2609/18/2000001618/)
+- [爆速で爆安。判定専用AI「JEV」を徹底解説 ― 使い方・料金・実例と、実際に作った4つのプロダクトの裏側](https://agi-labo.com/articles/n746a127b4074)
 
 ### blog.google
 - [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/)
@@ -85,6 +87,13 @@
 - [GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)
 - [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
 
+### hnrss.org
+- [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
+- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- [Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it](https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2)
+- [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+- [Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
+
 ### huggingface.co
 - [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
 - [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
@@ -93,11 +102,11 @@
 - [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
 
 ### news.google.com
+- [生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間 - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5jemMxWEdEQVhmYjAtX280Z0xQUUJMWlFMZ3p5ZS0zdmpDbFdaMGpJRUwwRERMSlFiWDc1cEh0dmd6T0xPdkxrSXdVX3lPTWNza1Jva296YjRTY3VmaHYzMmVYNTlaY1dwUXllWGw4YWJqMTVOX3c?oc=5)
 - [グーグルの生成AI サイバー能力試験中に他社のシステムに侵入 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00OXVWN3VGZkVKNnBSeTZ5ZWF0c2lILUZWdjVpTEJ6UVY0Tng1R2NJM0RvNnU4V0tVYWVsbHpqbDBPX2ttOURZTUZKZjlpcFBOelNnRVJURzBCWmVUWlZn?oc=5)
-- [生成AI「Gemini」試験中に企業3社のシステムに侵入（2026年9月19日掲載）｜日テレNEWS NNN - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpwQ2ZwZFVLcnNJU3dHVGgyemFNVDVHYzIzYU9hT3FfUzFReTY3aENidEJUN3dtNWV5NTVsT0Z3VVBIV0RSOVY4Ni12bGN3SE45RzlGWk1sUGRSQzdMOWhJOG1oS1hzZ01waDFnSndNWGdHUXZGYUtoS0FsRy1QNlFZZ2o?oc=5)
-- [生成AI「Gemini」試験中に企業3社のシステムに侵入 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFB1Nkg2LV9CVDFCR3NUdUtjcDFjQ19uck5fcHRQblBJcnV3Sk5IUlRfRF9DNFZJTU9XNnJlV2JSSEMtMzV1ekpFVTRMOUNONjZVZ1dXT2YwTVh2enRzX05reVJJN1BWVy1YbDhYVG9R?oc=5)
-- [東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち：TGS2026 - ITmedia](https://news.google.com/rss/articles/CBMiakFVX3lxTFB2aFdNbEhuaGN4M2ZxSW9CSU1GZTFCQV9wRHhDLXdsTEFhWW9Uc0NxX3Y0LTR6N0s4REhoSmYyU3NJcHdvZkdGZ0Z6WXpDWWNadHdHQUZzQWZBYVJ0MnROdmh2SjVwT1pLUFE?oc=5)
-- [AI誤報で米軍が中国船を臨検寸前に、核部品を搭載という「幻の報告」はなぜ国防総省で信じられたのか - JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WjZ0b1Iwal9qQU1EMERjeml6bjdocGlOdlhXVU5fa1JKTnBwT3k4U3FFMDNhNWd5WWh1VkVKUTlZSlBmQ2hkd0NCR2tYWWw4UWx2akpB?oc=5)
+- [AIの危険は“間違った答え”だけではない…AIエージェントに「任せてはいけない領域」（ビジネス＋IT） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZ3JMZjg0YVBLQlYtWUNfeXBHX1BHVHlKVFhnVnFZVTcwV3dxRlpPblFSUm40dE9LQWI5ejhTMnJzY3ZJZ20tTFdIVDFOTXRJVVdYZEV6U3hRWTBhWWR0WFhHRURQcWJlX05XVnUwWllhZUgxQTRJY1pHR0ZWd0k?oc=5)
+- [【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応 - PC Watch](https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWndkT25aTHd2SXhRV0dDNGZFSEpIMVFaS1drOHhnQXd6U0JXNnlnd3BSdU1iLXdZLXZ2THdBTE5FUXdkYXQ5S2g0V01ZLXhBc2hRRk5qaW1xMGozMGtNNllrdTRLYmZqdGxJYXpoTi1mM2s?oc=5)
+- [手元のPCで「CM動画」制作！仕上げ「約720円」の衝撃…“コスパ最強”AI活用術 - ビジネス+IT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UYzlMWnFBblpJb1Vwa1BldTBScVVySHE4c2g3RXp2VURZZGlBUXhvVUp5WG91Z1NKN3VOZEI4OE9KQ0xoc1lVR0ZiT3lRa21qUm5r?oc=5)
 
 ### openai.com
 - [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint)
@@ -114,11 +123,11 @@
 - [オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして](https://www.publickey1.jp/blog/26/javaai.html)
 
 ### qiita.com
-- [AIコーディング「Claude Code」体験](https://qiita.com/shanxiaxionger28/items/32f2cfa074e01ecc6922)
-- [毎日投稿を止めたあと、手動公開をどう再開したか](https://qiita.com/boraemon2000/items/197fe53347617c96ca84)
-- [OpenAI×OATSの高齢者向け無料ChatGPT講座、米10地域・対象1,000人・55歳以上のメッセージ割合6%→10%近く](https://qiita.com/quotidia/items/ec24c2da21232d2af6f9)
-- [Jevは「確度付きIF文」— テキストを生成しないAIモデルの使いどころ](https://qiita.com/Xim2jp/items/8d2ab099438d6986c838)
-- [ゼロから構築！RAG性能を最大化するチャンキングとベクトルDB選定の深層](https://qiita.com/fd_ai_teacher/items/704648dc4d7a97ac0053)
+- [WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、](https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb)
+- [AI記事作成パイプラインの流れと6ステップ](https://qiita.com/miyoki_labs/items/c279352d210a5e7141d6)
+- [AI Daily Digest 9.21：NscaleがNYSE上場を申請、FAAがAI空域管理を稼働、Step 5が600B MoEを公開](https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07)
+- [Cloudflareの「Disallow AI Training」設定、混合用途クローラー36.6%・検索遮断1%未満・学習制限17%](https://qiita.com/quotidia/items/fad4f22b4cbaa131b478)
+- [LLM自律エージェントの誤動作！Agentic RAGのツール連携失敗と評価基準](https://qiita.com/fd_ai_teacher/items/1bc1d6edf52d32ae92cd)
 
 ### shift-ai.co.jp
 - [【2026年最新】Claudeのモデル4種の違いは？作業別の選び方も解説](https://shift-ai.co.jp/blog/75804/)
@@ -128,11 +137,11 @@
 - [【初心者向け】Claude Codeでホームページを作成・公開する方法](https://shift-ai.co.jp/blog/75195/)
 
 ### techcrunch.com
-- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
-- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
-- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
-- [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
-- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
+- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
+- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
+- [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
+- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
+- [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
 
 ### technologyreview.com
 - [The Download: AI’s extinction risk and bioweapons threat](https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/)
@@ -142,18 +151,18 @@
 - [Meet the innovators under 35 shaping climate tech](https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/)
 
 ### theverge.com
-- [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
-- [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)
-- [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music)
-- [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
+- [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
+- [No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
+- [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
+- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)
+- [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
 
 ### wired.jp
+- [AIの数学的ブレイクスルーに「心底、恐怖を感じる」──数学者たちの警告](https://wired.jp/article/sz-mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/)
+- [急増する脂肪肝。その予防にAIが役立つかもしれない](https://wired.jp/article/fatty-liver-disease-ai-detection-cancer/)
+- [宇宙の2大ミステリー、ダークマターとダークエネルギーを結びつけるかもしれない「ダークディメンション」とは](https://wired.jp/article/dark-energy-matter-may-have-own-dimension/)
 - [“世界最悪”の仕事をAIが引き受け始めた](https://wired.jp/article/sz-ai-takes-over-debt-collection/)
 - [「AI俳優」ティリー・ノーウッドと実のある会話はできるのか？](https://wired.jp/article/ai-actor-tilly-norwood-told-me-that-all-lives-matter/)
-- [うつ病を電気刺激で治療するヘッドセットが米国で登場](https://wired.jp/article/flow-neuroscience-headset-help-depression-available-in-us/)
-- [AIが最適解を導く時代にデザイナーは何をするのか────『惑星のためのファッション』刊行記念トークイベント【後編】](https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-2/)
-- [ファッションは、この時代からおもしろくなる────『惑星のためのファッション』刊行記念トークイベント【前編】](https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-1/)
 
 ### xtech.nikkei.com
 - [iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に](https://xtech.nikkei.com/atcl/nxt/column/18/03764/091800001/)
@@ -170,8 +179,8 @@
 - [【イベント登壇】WACA関東支部主催「上級ウェブ解析士フォローアップテスト対策」に森和吉が登壇します](https://yoshikazunomori.com/event/waca_followup_260905/)
 
 ### zenn.dev
-- [Jevを企業で使うなら？規約・安全性・導入方法を調べてみた](https://zenn.dev/yamato_snow/articles/jev-enterprise-security-guide)
-- [Claude Codeへの入力をJevで分類して、Action Hintを足す](https://zenn.dev/khasegawa/articles/688b1414740a81)
-- [文章を書かないAI「Jev」を試してみた。AI Agentの判断係として使える？](https://zenn.dev/makicoc/articles/d3a3fd4f4ac2c2)
-- [個人のWeb制作にAIをどう組み込んでいるか｜LP制作の実際の工程を公開](https://zenn.dev/arpeda/articles/532f1d4a902c97)
-- [Claude Codeにrm -rf ~/を打たせない。Jevで実行前に審査する](https://zenn.dev/mistletoe/articles/jev-claude-code-guard)
+- [Jev, Gemini, DistilBERT, LightGBMの分類性能を比較してみた](https://zenn.dev/xxkuboxx/articles/e232d267a76f43)
+- [長尺Podcastの視聴ハードルを下げる！「キーワード動画」の全自動生成する方法](https://zenn.dev/henteko/articles/6388707c0973b3)
+- [AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた](https://zenn.dev/tonbi_attack/articles/ai-coding-jis-us-keyboard-layout)
+- [AIエージェントを「クラウド＋手元PC」の二層で回すときの競合防止設計（実測つき）](https://zenn.dev/mamedougu/articles/two-layer-cloud-local-agent)
+- [TypeSafe AIの「Jev」をCloud Runで試したら、30件のログ分類は一致しても判断の迷いが残った](https://zenn.dev/hogehogetaro/articles/typesafe-jev-log-classification)
