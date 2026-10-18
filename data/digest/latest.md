@@ -1,4 +1,4 @@
-# ネタ帳 2026-10-17
+# ネタ帳 2026-10-18
 
 フィード 34本成功 / 5本失敗　記事 773件
 
@@ -12,36 +12,38 @@
   　`b.hatena.ne.jp / publickey1.jp`
 - **2媒体** [Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ](https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html)
   　`b.hatena.ne.jp / publickey1.jp`
+- **2媒体** [「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html)
+  　`atmarkit.itmedia.co.jp / b.hatena.ne.jp`
 
 ## 複数の情報源が使っている語
 
 | 語 | 情報源の数 |
 |---|---|
-| chatgpt | 7 |
-| anthropic | 7 |
-| web | 7 |
-| agent | 6 |
+| agent | 7 |
+| openai | 7 |
+| claude | 7 |
 | google | 6 |
-| openai | 6 |
-| claude | 6 |
-| meta | 5 |
-| agents | 5 |
-| language | 5 |
-| codex | 5 |
-| microsoft | 5 |
-| とは | 5 |
+| web | 6 |
+| とは | 6 |
+| chatgpt | 5 |
 | jev | 5 |
 | muse | 4 |
+| meta | 4 |
+| agents | 4 |
 | introducing | 4 |
 | training | 4 |
-| built | 4 |
+| mcp | 4 |
+| better | 4 |
+| language | 4 |
 | gemini | 4 |
 | watch | 4 |
-| team | 4 |
 | building | 4 |
-| work | 4 |
-| windows | 4 |
+| codex | 4 |
+| anthropic | 4 |
+| microsoft | 4 |
+| gpu | 4 |
 | 生成 | 4 |
+| nvidia | 4 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -53,18 +55,18 @@
 - [AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ](https://ainow.ai/2026/10/10/278427/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e9%2580%25b2%25e3%2582%2581%25e6%2596%25b98%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e8%25b2%25bb%25e7%2594%25a8)
 
 ### atmarkit.itmedia.co.jp
+- [「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由](https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html)
+- [メインフレーム脱却、なぜ「2027年が締め切り」に？ ベンダー撤退より先に来る“人の期限”](https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news003.html)
 - [「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html)
 - [SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html)
 - [「ダークWebで個人情報を検出しました」 アカウント“流出”の原因と、その予防策](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news006.html)
-- [ソースネクストで2251万件超の情報流出 ユーザーパスワードも漏えい](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news010.html)
-- [「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知](https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news008.html)
 
 ### b.hatena.ne.jp
+- [亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針](https://japan.cnet.com/article/35253656/)
 - [SNSでバズった「壁をパンチして脱出するゲーム」発表の翌日、そっくり作品がRobloxに登場─蔓延するAI使用クローンゲーム。「アイデア公開すべきではない」との声も | Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2026/10/16/173695.html)
 - [Claude Mods 入門 @_nogu66](https://speakerdeck.com/nogu66/claude-code-nyuumon)
 - [日経平均3318円安 「コアウィーブ・ショック」で下げ幅歴代3位 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB150HLTV11C26A0000000/)
 - [PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
-- [音声対話AI「Grok Voice 3.0」が登場、OpenAIやGoogleのモデルを上回る性能でベンチマーク首位に](https://gigazine.net/news/20261015-grok-voice-3/)
 
 ### blog.google
 - [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/)
@@ -81,11 +83,11 @@
 - [GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)
 
 ### hnrss.org
+- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+- [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
+- [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund)
+- [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 - [Amazon uses AI to monitor union risk in UK warehouses](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
-- [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
-- [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
-- [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
-- [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
 
 ### huggingface.co
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
@@ -95,11 +97,11 @@
 - [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3)
 
 ### news.google.com
-- [再現ドラマにも生成AIを使用、俳優の仕事はどうなる？ テレビ番組のAI化はどこまで進むのか #エキスパートトピ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG02S0hUbDgzLVhXM0RuWVFDbFBfdzg3RXBsRVlFYWhuTnR1RmR3alh5MDk1LXgyTjBiVHpoNkFhM01haG1hYWFMV3RXZm5aRk1RUTdoYTlVSUtqTUQxbEttdmU5bWZ0bDZVNmJ6amd5UFZPaDZ2MzF6ejR3U1ZuT1A3UEJMdUZF?oc=5)
 - [声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース | 文化・芸術・エンタメ、ＡＩ・ネット・ＩＴ、メディア - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVGVyaUJoZDd3MFlzUkFQeDl4YWxqTlZORTBYaWJPZUp2S29kUDFpRHpiU2hxS3lWVWVyZ0VrWTg5UmVpYlFVaXBUeE5CUkZLdGI3bjRiNW9SZS01YVRv?oc=5)
-- [【日本俳優連合】生成AI時代における声の権利を守り、健全な業界発展を導く「音声に関する生成AI利用ガイドライン」を発表 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTDM0ejF2cmdldER1N3lHU0lGM25hSXJNTzdrLWpRQ2NRRldlNmJ3cHEtcDZvbXJ6MjFEMVRqMG5Ta2wzaXdEenNLVUdPN3dDYVlRb0RNa0dkT2FsSUMxS21IekVNNnlTa0E?oc=5)
-- [ドラゴンボール声優“無断生成AI”に「時間が経つにつれ怒り」…実演家団体が初の“指針”策定、違反業者に「売上相当額」のペナルティも - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5RR3c1VGJHTzFFQ2MzQVVkMTVHbkluc3NEZEY2bzNoZkVJVlBoa1A3bng2VUN5dDRhVFlnUVlZS1B0Q3J2Y18yUm14TkNVcktXQ2JicDFvVWVZOHFJQmpmcmx0YjJBb1lrNlFQUmFyWWhNQlRnZWpWa1ZhTFhVWkU?oc=5)
-- [「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由：「AIに支配されそう」の声も - ITmedia](https://news.google.com/rss/articles/CBMickFVX3lxTFBCMUVJcnZRQkExZ2daQWJaMG5BZEo4MDVwMEY3MUNmXzR0Wm9YZ1FtM0xaZHNzaWV2TFFTamhkdVVoWHhoNGVRNGxJeXNJWkVfTzF2ZDFCdGZKZmdIbGI1MWhlek90MU1UallncFpoZm84dw?oc=5)
+- [再現ドラマにも生成AIを使用、俳優の仕事はどうなる？ テレビ番組のAI化はどこまで進むのか #エキスパートトピ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG02S0hUbDgzLVhXM0RuWVFDbFBfdzg3RXBsRVlFYWhuTnR1RmR3alh5MDk1LXgyTjBiVHpoNkFhM01haG1hYWFMV3RXZm5aRk1RUTdoYTlVSUtqTUQxbEttdmU5bWZ0bDZVNmJ6amd5UFZPaDZ2MzF6ejR3U1ZuT1A3UEJMdUZF?oc=5)
+- [英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dUtHN2N6T1JWdEpZblJpMHNzZUpYQnc1V0Q2NkdzeGJjN3pQZm8wN2VvaGFDb0t4RFZEaUVZZ0VrcXVJbXF1elptSG5QdEhJNkxrNDE3ZTJiX1BSanZPXzhTQjVkWVdRbXN0Zw?oc=5)
+- [【2026年10月版】生成AI主要8サービス料金早見表 ―― 上位モデル「GPT 6 Astra」や「Gemini 4 Argon」が登場 - Business Insider Japan](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0t4dzRMWGU2Sk5NS1lTV1gwWHl2Zlc1SkVna0xydXRKNmhHS19NTlA1a0s4TUpvcjQ0WDZDQnM5bmRYRzV5bTVSRHYzWXY2OXVpeDJreEdBcjRMY0lobXhUTWwxYmxJYWZfaUIwWTJiRnRwMzJGTjM1cng3aUJjVzlTdm5mcnNZM0RXZ3Z1RWJRVlJy?oc=5)
+- [小売業にAIを適用する「エージェンティック・コマース」が迫る変革【第109回】 - デジタルクロス](https://news.google.com/rss/articles/CBMieEFVX3lxTE1GTVI1UWUyb01ROXpBYnJ1QzdlOWF6blBneThURHNBRXg5MnZhRGFOS2wxeElmdHV3X0FMdUNpakIwNXltRUlkYTlMMl94UnRQZDEzWTlUZEdUU3V0WE1qaERrUmRKUnQxczRjZ2RSYWtzeHNqUDBLVQ?oc=5)
 
 ### openai.com
 - [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)
@@ -109,18 +111,18 @@
 - [Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
 
 ### publickey1.jp
+- [マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能](https://www.publickey1.jp/blog/26/netdotnetupnet.html)
 - [Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性](https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html)
 - [AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で](https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html)
 - [Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ](https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html)
 - [Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など](https://www.publickey1.jp/blog/26/websveltekit_3vite.html)
-- [「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP 2026［PR］](https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html)
 
 ### qiita.com
-- [AI日報 2026-10-18：Reflectionが501BモデルをApache 2.0で公開、Anthropicがgitを自社製に置換、TSMCが最高益](https://qiita.com/lhjjjk4/items/58d1f20ca2ad3c957d2b)
-- [小型AIモデルはIoT機器で自己複製できるか：Anthropic Frontier Red Teamの実験](https://qiita.com/quotidia/items/a25b5db0654c1b0c2470)
-- [Codex CLIに.envを読ませない設定：公式例の "**/*.env" だけでは .env.local と深い階層が読めた（codex 0.163.0で確認）](https://qiita.com/supportapp3/items/949794973a65fa5aac11)
-- [ダイの剣理論 ― 最強の剣を手にしたら、次に強くするのは自分自身と剣の鞘だ](https://qiita.com/NaokiIshimura/items/5c3de90ebd82630d26c8)
-- [長時間AIエージェントは「何を覚えるか」より「いつ思い出させるか」が重要になる](https://qiita.com/mhamadajp/items/2c58b41e59c658399928)
+- [AI日報 2026-10-19：OpenAIがエージェント越界4事例を公表、主要サイトがエージェントを封鎖、CohereがAISLE買収へ](https://qiita.com/lhjjjk4/items/0ea3a67eca08427a381a)
+- [Claude Code v2.1.299〜v2.1.302｜54 分の放置で idle compaction が走る｜週刊Changelog解説](https://qiita.com/moha0918_/items/8075926f722e7cd5fca3)
+- [AIが進歩してもプログラマはなくならない。数は大きく減る。](https://qiita.com/567000/items/a3c53e20b96e83910d5c)
+- [FDE型AI導入をPoCで止めないための実務設計](https://qiita.com/BearGateLove/items/1ff5ad24e45dbe1f468f)
+- [無料LLM APIを実際に試して比較してみた（2026年10月版）](https://qiita.com/fastoolster/items/f3d4b0c3f80c6b465914)
 
 ### shift-ai.co.jp
 - [【無料で試せる】AIでファイル整理する3つの方法！ツール比較と安全手順](https://shift-ai.co.jp/blog/77033/)
@@ -130,11 +132,11 @@
 - [【チャットで足りる？】Claude Codeの日常生活での活用事例8選](https://shift-ai.co.jp/blog/76756/)
 
 ### techcrunch.com
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
-- [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
-- [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
+- [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
+- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
+- [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+- [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)
 
 ### technologyreview.com
 - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
@@ -144,25 +146,25 @@
 - [Can’t bear to say goodbye to your pet? Biotech’s got you covered.](https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/)
 
 ### theverge.com
-- [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
-- [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
-- [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
-- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)
-- [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)
+- [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
+- [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
+- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
+- [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
+- [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)
 
 ### wired.jp
-- [ルッキズムと闘うために何をすべきか？](https://wired.jp/article/sz-should-we-do-more-to-fight-lookism/)
-- [見ごろを迎えるオリオン座流星群とは？](https://wired.jp/article/orionid-meteor-shower-halleys-comet-fragments/)
-- [ザ・ノース・フェイス、60年の重みと終わらない探求](https://wired.jp/article/thenorthface-60-neverstopexploringexhibition/)
-- [メタ、「Muse Wonder」で再びAIの最前線へ](https://wired.jp/article/muse-wonder-puts-meta-back-at-the-ai-frontier/)
-- [テック富裕層が支援する「Praxis」、AGI時代を見据えた都市開発をウルグアイで計画](https://wired.jp/article/a-community-of-millionaires-plans-to-build-its-first-ai-backed-tech-libertarian-autonomous-nation-in-uruguay/)
+- [それでもAI開発を一時停止しないのはなぜか？](https://wired.jp/article/sz-if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/)
+- [iPhone DuoとAIの融合から、“ポストスマートフォン”のかたちが見えてきた](https://wired.jp/article/iphone-duo-ai-post-smartphone/)
+- [スーパー・エルニーニョと温暖化が重なると、何が起きるのか？](https://wired.jp/article/super-el-nino-climate-change-connections/)
+- [アマゾンの新しい「Kindle」シリーズは、軽く、薄く、よりメタリックに](https://wired.jp/article/amazon-kindle-paperwhite-colorsoft-2026-refresh/)
+- [「太陽光を遮る」机上演習。その結末は想像以上に深刻だった](https://wired.jp/article/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
 
 ### xtech.nikkei.com
-- [タイムズカー、本人確認書類画像を10月末までに全削除 確認後に即時消去](https://xtech.nikkei.com/atcl/nxt/news/24/03428/)
-- [IDCFクラウド障害、194組織のデータが取り出し可能に 侵入経路は特定](https://xtech.nikkei.com/atcl/nxt/column/18/03790/101600006/)
-- [緊急地震速報取り消し「サイバー攻撃ではない」、マグニチュードを過大推定](https://xtech.nikkei.com/atcl/nxt/news/24/03427/)
-- [ラクスがシステム構築の新事業、「楽楽クラウド」のノウハウ生かす](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12097/)
-- [レノボ、AI環境の構築支援で新プログラム サーバーなどを最短15日で出荷](https://xtech.nikkei.com/atcl/nxt/news/24/03426/)
+- [2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10](https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/)
+- [冗長化技術はネスペ試験での出題多数、STPやVRRPなど4技術を解説する](https://xtech.nikkei.com/atcl/nxt/column/18/03791/100700005/)
+- [TCPとUDPはなぜ必要なの？ IPだけでは解決できない3つの困りごと](https://xtech.nikkei.com/atcl/nxt/column/18/03797/101300001/)
+- [仕様駆動開発で鍵を握る「変化と一貫性の両立」と「プロジェクト憲章」](https://xtech.nikkei.com/atcl/nxt/column/18/03563/100600010/)
+- [発火事故が相次ぐモバイルバッテリー、容易に廃棄できる環境に必要なこと](https://xtech.nikkei.com/atcl/nxt/column/18/00086/00423/)
 
 ### yoshikazunomori.com
 - [【これでOK】Xで予約投稿ができない？スマホから確実に予約投稿する方法を解説](https://yoshikazunomori.com/blog/digitalmarketing/x-scheduled-post/)
@@ -172,8 +174,8 @@
 - [【2026年最新】旅館のマーケティング戦略10選|OTA依存から脱却し自社予約を増やす方法を初心者向けにやさしく解説](https://yoshikazunomori.com/blog/digitalmarketing/hotel-marketing/)
 
 ### zenn.dev
-- [中学生でもわかる Lean 4 #25｜AI時代の「確かめ方」](https://zenn.dev/dantarg/articles/lean4-ai-age-verification)
-- [対話イベントを変換するとき、欠落と訂正をどう記録するか？](https://zenn.dev/kotanpolin/articles/topodialogue-event-conversion-audit)
-- [【残業ゼロへのヒント】Google最新AI「Gemini 4」で仕事は速くなる？ なのに「文字入力」だけ渋滞していませんか](https://zenn.dev/keyro/articles/gemini-4-argon-input-bottleneck)
-- [Data Engineering Agentで既存パイプラインを改修・移行する](https://zenn.dev/web_benriya/articles/bigquery-data-engineering-agent-migration)
-- [hook で Claude Code に .env や鍵ファイルを消させない](https://zenn.dev/husenn/articles/claude-code-secret-guard-hook)
+- [AIに「一人でWebサービスを運営して」と任せてみた：時差対応の日程調整ツール「あうとき」](https://zenn.dev/autoki_app/articles/0308c3d300f0c9)
+- [40年計算機と向き合ってきた元半導体屋が、AI時代の「エンジニア教育の空洞化」に本気で鳴らす警笛](https://zenn.dev/maskedridersys/articles/ddde1a1cc07d95)
+- [ライブイベントの映像オペレーターが現場の課題をコードで解決するために作ったOSS・ツール群](https://zenn.dev/seventhwell/articles/eac72f3f2d4c75)
+- [生成に成功しても、受取とGPU停止は別に確かめる](https://zenn.dev/bricks/articles/verify-video-receipt-and-release)
+- [判断特化モデルの比較: Decisions API・Jev・Clef](https://zenn.dev/bocek/articles/5e1ba6fae7e7d6)
