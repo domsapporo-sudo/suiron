@@ -1,6 +1,6 @@
-# ネタ帳 2026-10-31
+# ネタ帳 2026-11-02
 
-フィード 34本成功 / 5本失敗　記事 831件
+フィード 34本成功 / 5本失敗　記事 800件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
@@ -8,7 +8,11 @@
 
 - **2媒体** [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
   　`b.hatena.ne.jp / openai.com`
+- **2媒体** [GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
+  　`b.hatena.ne.jp / publickey1.jp`
 - **2媒体** [bliki: LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
+  　`b.hatena.ne.jp / hnrss.org`
+- **2媒体** [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
   　`b.hatena.ne.jp / hnrss.org`
 - **2媒体** [Survival LLM: an AI that still works when the internet doesn't](https://www.brangus.io/survival-llm)
   　`b.hatena.ne.jp / hnrss.org`
@@ -17,31 +21,31 @@
 
 | 語 | 情報源の数 |
 |---|---|
-| agents | 8 |
 | google | 8 |
-| agent | 7 |
-| openai | 7 |
-| anthropic | 7 |
+| agents | 7 |
+| aws | 6 |
+| agent | 6 |
 | gemini | 6 |
-| pro | 6 |
+| openai | 6 |
+| anthropic | 6 |
 | claude | 6 |
-| research | 5 |
-| world | 5 |
+| build | 5 |
+| mcp | 5 |
 | games | 5 |
-| without | 5 |
 | building | 5 |
+| game | 5 |
+| world | 5 |
 | api | 5 |
-| とは | 5 |
-| 生成 | 5 |
-| training | 4 |
-| decisions | 4 |
-| web | 4 |
-| agentic | 4 |
-| understanding | 4 |
+| pro | 5 |
 | making | 4 |
 | introducing | 4 |
-| build | 4 |
-| trust | 4 |
+| research | 4 |
+| frontier | 4 |
+| spark | 4 |
+| enterprise | 4 |
+| coding | 4 |
+| built | 4 |
+| future | 4 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -53,18 +57,18 @@
 - [無料で使えるAIエージェントおすすめ10選！無料枠の上限と業務で試すときの注意点](https://ainow.ai/2026/10/27/278478/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e4%25bd%25bf%25e3%2581%2588%25e3%2582%258bai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e6%259e%25a0)
 
 ### atmarkit.itmedia.co.jp
+- [「REST API→MCP化」で何が問題に？ オリックスが探った“認証・認可とトークン消費”への対処法](https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news018.html)
+- [毎週数十万人が使うターミナル型AIコーディングエージェント「Pi」が1.0に 何ができる？](https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news017.html)
+- [「個人情報ダダ漏れ」時代の自衛術：漏えい通知を受けたら確認すべきこと、やるべきこと](https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news009.html)
 - [「モバイル4社の5G速度、最大9倍の違い」「Wi-Fi 8は“つながらない”を改善へ」――無線通信のいま](https://atmarkit.itmedia.co.jp/ait/articles/2611/01/news001.html)
 - [「基本を忘れてはならない」 優先すべき4つのセキュリティ戦略をMicrosoftが提言](https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news014.html)
-- [“完全テレワーク時代の終わり”で出社、なのに結局「オンライン会議ばかり」――調査で見えた若手の不満](https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news007.html)
-- [「Pythonは今年も2位」 いま人とAIが“最も使える”言語とは――GitHub年次調査「Octoverse 2026」](https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news006.html)
-- [「ニトリがオンプレ脱却」「旧マルハニチロは販売計画を自動化」 インフラ刷新、AIと自動化のリアル](https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news004.html)
 
 ### b.hatena.ne.jp
+- [GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,](https://github.com/vercel-labs/agent-desktop)
+- [AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明](https://www.itmedia.co.jp/news/article/2611/01/2000002776/)
+- [いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/)
 - [OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/31/5657.html)
 - [小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞](https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html)
-- [文章のAIっぽさを抑えるプロンプト](https://imoz.jp/scraps/202610_humanizer.html)
-- [Alexa＋対応スマートクロック「Echo Time」超音波で眠りを検知。17980円の「Echo Dot」も](https://av.watch.impress.co.jp/docs/news/2152016.html)
-- [必要最低限の自分専用アプリをAIで作る](https://iwashi.co/2026/10/29/build-my-app)
 
 ### blog.google
 - [Our newest AI Quest: Mapping the human brain](https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/)
@@ -80,26 +84,19 @@
 - [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 - [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
 
-### export.arxiv.org
-- [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720)
-- [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](https://arxiv.org/abs/2610.37731)
-- [ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions](https://arxiv.org/abs/2610.37732)
-- [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](https://arxiv.org/abs/2610.37739)
-- [WebAnything: From the Wild Web to Scalable Agent Environments](https://arxiv.org/abs/2610.37786)
-
 ### github.blog
+- [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/)
 - [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/)
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
 - [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/)
 - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
-- [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)
 
 ### hnrss.org
-- [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
-- [Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites](https://news.ycombinator.com/item?id=50286306)
-- [MicroZig to Adopt Strict No LLM / No AI Policy](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+- [AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+- [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
+- [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+- [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
 
 ### huggingface.co
 - [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
@@ -109,11 +106,11 @@
 - [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
 
 ### news.google.com
-- [「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUldidHlMZUllLXhxaWdZZXRJelVpRGJwOFVrUEEwZC03eVM1a2FheVhJS1V0M2xabVRVYVB6QnkyS3pPNk9jcDVzT2M0N2lVbkJaTGVkT1RfeFBYOS0teEVGRC1vcFNOaktxN053czNHVUJSY2FFbjJTNUxERW8?oc=5)
-- [JSTQB（ソフトウェアテスト技術者資格認定組織）、Specialist シラバス 生成 AI を使用したテスト（CT-GenAI）Version 1.0 J01を公開 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1SOVYzaVR3YkdNcm1iOHBaX0UxYndYamNmV1o5QVJNbnhyY2E4TU5yWUQzX2xjOUxjMWxiM3ZJS3JURzdENWRxYzRtWV9CR3VPZ2pkQUVTclJQbzJUQmk0dVF2bEdrbWU3bVE?oc=5)
-- [ゲーム制作にかかる時間は30分で模倣作も次々登場､生成AIが変える開発現場と｢アイデアを先に出したら負ける｣時代 - 東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SUYzWUZwLUJLT2thbUstR3UxYnpnT1hnR1ZoVGhpUm93bG5lR05MX01MWkFEdW8xRmFTZkpmbk94bVlHRXFmRmRQMUJOb0FWcU96di1udExqS0E?oc=5)
-- [生成AIは買い物の「ドラえもん」に？「相談相手」から「買い物の代理人」へ - TBS NEWS DIG](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xVXNacHhUb1p3N3JpLVRGZlRuRElUZ0pzNXUyOWN0QVZYV3BkZmU3RzVCSEZyWEVGRE5QZm1FMVRFM1N1Zzd2RlI1dmtHS0lfWTJkTG1xd2RMdXhDVkRQLU1IWUZqMEtWcGxsNFdFSWFZQi1r?oc=5)
-- [米中間選挙、生成AI広告に巨額投入 敵対陣営のディープフェイク作成…対話型AI活用も - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE54STZzMWdZYlRkbnE2QnNaYVJZd1NIQ0FOSVo3NF9VM2NCeXpNTjA0eGY0aDVMbEtaSDZzVm5KNXVockFWc1N0SnlJR1dUOTBDZ0tYVGtRLWpBUGtwSVRfaGJGcDBEQnFBd2wydlAxMHY4anNjSnc?oc=5)
+- [「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5)
+- [AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5)
+- [生成AIを法務にどう活かすか悩むすべての法務パーソンへ。8つの事例で学ぶ実践書『事例ではじめる法務AI』11月2日（本日）発売 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVm1TNXNmdldyYkxzR1VGd2FCb3dzRFVmTzN0U2o5UEd0U095a09TQmdER1dLY0YzRXo5aDVBM0hhUlQwektienpPeFlxeFcxc1pIUzJzWW1aeTQ3LTFCQ3dxOGRIYmxLUHc?oc=5)
+- [「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5)
+- [JPX、取引システムでの監視アラートの対処に生成AI技術を本格適用 - デジタルクロス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdTBOSG1qOGlVTnhaVkg5T01GcUxrUUs4WXZIaWYxLWo2MVFTbEtQaDlXakh5YjB5cVhxX05oMUIta1VnWmM1VXdVYXpFYy1nODBiY29nMkN4RWlvZDM2eDBCRQ?oc=5)
 
 ### openai.com
 - [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
@@ -123,18 +120,18 @@
 - [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
 
 ### publickey1.jp
+- [GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
 - [オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026](https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html)
 - [Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026](https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html)
 - [JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能](https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html)
 - [AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む](https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html)
-- [「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など](https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html)
 
 ### qiita.com
-- [生成AIの著作権問題を実務者として整理する——2026年時点で知っておくべき3つの論点](https://qiita.com/Sidejob/items/a3874b09491ec82146d4)
-- [AIに「分からない」と言わせるプロンプト](https://qiita.com/maya-bot/items/9ff2336dfc0b0d8155ff)
-- [Claude Code の --safe-mode と --restricted は別物：「設定を切る」か「手足を縛る」かの使い分け](https://qiita.com/joinclass/items/85b615b453fe5af911b4)
-- [「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで](https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8)
-- [ログは残っているのに状態が分からない。マルチエージェントの実行記録を作り直した](https://qiita.com/Tachiuo/items/77638317f79d9dbcf2e3)
+- [「AIで何をすればいいかわからない」から卒業しよう。身近な業務から始めるAI活用](https://qiita.com/tky529/items/857f0db0e8e9a743be94)
+- [Agent Skills が財団へ移った週に、手持ちのSKILL.md 83本を公開仕様と照合した](https://qiita.com/kusarikakemron/items/ff92abab667ca0613cca)
+- [大企業と個人でAI自動化を続けて気づいた3つのギャップ](https://qiita.com/Sidejob/items/6ea5d2e3ddb9066ba502)
+- [非エンジニアでもデプロイナウで毎日デプロイできる体制の作り方――AI利用履歴から組み立てた実践運用](https://qiita.com/boraemon2000/items/28b70a47fcbb57642ffe)
+- [無料のテキストモデルで動画プロンプトを作り、Seedance 2 Mini で下書きまで回す（Node.js・1ファイル）](https://qiita.com/beatapi/items/7a530a7598e4a7c0b34a)
 
 ### shift-ai.co.jp
 - [【Solとどう違う？】GPT-6.1 Terraとは？特徴・料金・使い方](https://shift-ai.co.jp/blog/77277/)
@@ -144,11 +141,11 @@
 - [【無料で足りる？】AIアンケート分析の5ステップ！コピペ用プロンプト付き](https://shift-ai.co.jp/blog/77124/)
 
 ### techcrunch.com
-- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
-- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
-- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
-- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
-- [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
+- [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
+- [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
+- [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
+- [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+- [Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/)
 
 ### technologyreview.com
 - [The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/)
@@ -158,36 +155,29 @@
 - [Our climate models have a big, dangerous blind spot](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/)
 
 ### theverge.com
-- [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
-- [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
-- [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-- [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
-- [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
+- [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+- [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
+- [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
+- [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
+- [North Korea linked to massive Binance crypto heist](https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist)
 
 ### wired.jp
-- [検出が極めて難しい「ジオニュートリノ」が、地球内部の新たな地図を描き出す](https://wired.jp/article/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/)
-- [高等教育の未来、8つの予測](https://wired.jp/article/sz-eight-predictions-for-the-future-of-higher-education/)
-- [iPhone 18 Proレビュー：“本気で撮りたい人”のためのデバイス](https://wired.jp/article/iphone-18-pro-review-camera/)
-- [CDコレクションの始め方](https://wired.jp/article/how-to-collect-cds/)
-- [イメージ向上を狙うデータセンター業界、子どもたちの社会科見学を後押し](https://wired.jp/article/data-center-industry-is-trying-to-woo-kids/)
+- [「トランプの米国」を離れたのに、帰りたい。欧州移住の理想と現実](https://wired.jp/article/they-fled-trumps-america-now-they-regret-it/)
+- [文学界に訪れた“レイヴ”の波](https://wired.jp/article/sz-the-strange-power-of-the-dance-floor-novel/)
+- [AIの「再帰的自己改善」に挑むスタートアップ、その最新モデルは驚くほど高性能だった](https://wired.jp/article/recursive-self-improvement-flint-latest-model-scary-good/)
+- [「トランプ vs オバマ」の因縁は永久に終わらない──「アメリカン・ドッペルゲンガー」by 池田純一#19](https://wired.jp/article/american-doppelganger-19/)
+- [コジマプロダクション10周年展からalter. 2026, Tokyoまで、注目のトピック5選【WIRED INSIDER】](https://wired.jp/article/insider-kojimaproductions-ecodrivephotoncitizen-kapok-alter-loropiana/)
 
 ### xtech.nikkei.com
-- [アクセンチュアがOpenAIのセキュリティー基盤導入を支援、中堅企業も照準](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12135/)
-- [ガバメントAI基盤「源内」、18万人に国会答弁作成支援アプリを試験提供](https://xtech.nikkei.com/atcl/nxt/news/24/03450/)
-- [Binanceで資金流出、影響額は推定1兆円規模 DevOpsエンジニアのPC侵害か](https://xtech.nikkei.com/atcl/nxt/news/24/03451/)
-- [富士ソフト子会社が新ERP「BizSaaS」、業界特化で差異化 最初はIT業界向け](https://xtech.nikkei.com/atcl/nxt/news/24/03449/)
-- [階層状のNICでポリシー策定 現場への影響を押さえよう](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900257/101900003/)
-
-### yoshikazunomori.com
-- [インスタのDM自動返信のやり方！無料の公式機能とツールの設定方法・解除まで解説](https://yoshikazunomori.com/blog/digitalmarketing/instagram-dm-automatic-reply/)
-- [X検索コマンド一覧！エゴサや競合調査に使える組み合わせ例も紹介](https://yoshikazunomori.com/blog/digitalmarketing/x-search-command/)
-- [X（旧Twitter）が凍結される原因は？ロックとの違いと解除方法、企業アカウントの予防策を解説](https://yoshikazunomori.com/blog/digitalmarketing/x-freezing-cause/)
-- [【メディア掲載】『N-Academy～Pre.STUDY』「GA4で改善すべきページを見つける方法｜離脱・CTA・内部リンクを分析」（2026年10月22日）](https://yoshikazunomori.com/media/pre-study_261022/)
-- [自治体のAI活用とは？事例と小さな市町村でもできる導入の進め方を解説](https://yoshikazunomori.com/blog/digitalmarketing/ai-municipality/)
+- [TCPの役割と動作を押さえる](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/071500225/101900016/)
+- [マルチキャスト](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900172/101900038/)
+- [eSIMって何？](https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800014/101900113/)
+- [INPEXがSAP ERPをクラウド版へ、業務効率化と移行リスク低減を両立](https://xtech.nikkei.com/atcl/nxt/column/18/00678/102300193/)
+- [60万人のTCSが挑むAI変革、アウトソーシングは「人月」から「成果」へ](https://xtech.nikkei.com/atcl/nxt/column/18/03076/102700032/)
 
 ### zenn.dev
-- [Claude Code の会話履歴が消える日数を4か所に別々に書いたら、--settings が勝った(既定は30日)](https://zenn.dev/numarn/articles/claude-cleanup-period-days-precedence-handson)
-- [「予約が止まった」理由も「漏えいはなかった」で終わった理由も ― 2つの不正アクセス事例に見る委託先管理の確認ポイント](https://zenn.dev/taichiendoh/articles/medical-reservation-outage-vendor-case-study)
-- [【今更聞けないLLM 後編】AIが画像を作る裏側は？Function Calling・オープンウェイト・蒸留をやさしく整理](https://zenn.dev/takumi_shida/articles/2026-11-01-zenn-llm-basics-part3-tools)
-- [Tech Watch 2026-11-01: 検証ループの設計](https://zenn.dev/laiken/articles/20261101-tech-watch)
-- [1つのキーで主要モデル70種に接続できるOSSのローカルAIボット「AnyModelBot」](https://zenn.dev/malachi_amb/articles/df4580505116b3)
+- [Kiro CLIとKiro Crewを改めて入門してAWSで動かすまで](https://zenn.dev/upgradetech/articles/2026-11-kiro-crew-api-key-intro)
+- [今日の市場ブリーフィング](https://zenn.dev/bambampurin/articles/2026-09-22-market-daily)
+- [Agent DX 〜 AI時代にフレームワークHonoは必要か](https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1)
+- [Unlimited-OCR-2で完全ローカルOCRワークベンチ構築：長文PDF・数式・表もVRAM一定で爆速解析](https://zenn.dev/lumichy/articles/unlimited-ocr-2-workbench-2026)
+- [Coding Agent の「作り直し」と「検証ミス」を減らす：Matt Pocock Skills × pstack](https://zenn.dev/ryodev/articles/469b436dee634a)
