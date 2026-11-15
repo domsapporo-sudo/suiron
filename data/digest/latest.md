@@ -1,17 +1,11 @@
-# ネタ帳 2026-11-14
+# ネタ帳 2026-11-15
 
-フィード 33本成功 / 6本失敗　記事 765件
+フィード 34本成功 / 5本失敗　記事 806件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
 ## 複数の情報源が扱っている記事（取材候補）
 
-- **2媒体** [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)
-  　`b.hatena.ne.jp / openai.com`
-- **2媒体** [Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける](https://www.publickey1.jp/blog/26/google_antigravityaiai.html)
-  　`b.hatena.ne.jp / publickey1.jp`
-- **2媒体** [AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース](https://www.publickey1.jp/blog/26/awsawsaws_1.html)
-  　`b.hatena.ne.jp / publickey1.jp`
 - **2媒体** [MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と](https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html)
   　`b.hatena.ne.jp / publickey1.jp`
 - **2媒体** [総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講 Pythonでのデータ分析が4週間で学べる](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html)
@@ -22,30 +16,30 @@
 | 語 | 情報源の数 |
 |---|---|
 | google | 11 |
+| agent | 7 |
+| agents | 7 |
 | nvidia | 7 |
-| agents | 6 |
-| agent | 6 |
 | gemini | 6 |
-| chatgpt | 6 |
-| build | 5 |
+| openai | 6 |
+| ceo | 6 |
+| engineering | 5 |
 | agentic | 5 |
 | cloud | 5 |
-| introducing | 5 |
 | aws | 5 |
 | mcp | 5 |
-| hydrogen | 5 |
-| antigravity | 5 |
+| chatgpt | 5 |
 | から | 5 |
 | claude | 5 |
-| microsoft | 5 |
 | 生成 | 5 |
-| generation | 4 |
-| face | 4 |
+| game | 4 |
+| frontier | 4 |
+| web | 4 |
 | software | 4 |
-| muse | 4 |
-| flash | 4 |
-| argon | 4 |
-| world | 4 |
+| introducing | 4 |
+| fast | 4 |
+| api | 4 |
+| team | 4 |
+| codex | 4 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -57,18 +51,18 @@
 - [AIエージェントとは？仕組みと種類から企業の導入手順まで解説](https://ainow.ai/2026/11/11/278509/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e7%25a8%25ae%25e9%25a1%259e%25e3%2581%258b%25e3%2582%2589%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5)
 
 ### atmarkit.itmedia.co.jp
+- [PHP重大脆弱性は「始まり」に過ぎない？ 2年前の兆候が示す“次の危機”](https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html)
 - [「PythonでもSQLでもない『最も使う言語』」「モバイル4社の5G速度・つながるエリアの違い」――技術の進化と変わらない課題](https://atmarkit.itmedia.co.jp/ait/articles/2611/14/news005.html)
 - [無印良品「21年で役目終えたクレカ番号全桁放置」「初動対応で油断」 形だけの防御の末路【記者会見を読む】](https://atmarkit.itmedia.co.jp/ait/articles/2611/14/news004.html)
 - [8割が「ダウンタイムで顧客を失った」 障害は復旧しても信用は戻らないならどうする？](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news083.html)
 - [Microsoft 365障害、Outlookだけではない DefenderやPurviewまで巻き込む広範囲の影響](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news080.html)
-- [徳丸氏やt-wada氏の講演も無料で“見放題” 「開発の実践知」が学べる動画・資料、約300件を一挙公開](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news033.html)
 
 ### b.hatena.ne.jp
+- [動いた農林中金、AI株を「底値買い」 長期で安定成長を期待 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/)
 - [エヌビディアCEOに愛人紹介した謎の実業家、正体は「夫」 - WSJ](https://jp.wsj.com/articles/a-mystery-businessman-introduced-jensen-huang-to-his-paramour-it-was-her-husband-0e4e28ee)
+- [「Steam審査が終わらない」多数のゲームで発売延期続出。待っている間にAIクローン発生、Steam上の露出機会も減少リスク - AUTOMATON](https://automaton-media.com/articles/newsjp/steams-20261112-478874/)
 - [【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間](https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html)
 - [【速報】政府、AI開発事業者に罰則検討](https://www.47news.jp/15215659.html)
-- [最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」](https://posfie.com/@kalofollow/p/kDMLpbM)
-- [Claude Codeで最近使っているTips【2026/11】](https://zenn.dev/oikon/articles/claude-code-recipe)
 
 ### blog.google
 - [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/)
@@ -77,12 +71,12 @@
 - [Experience the art and legacy of Dr. Esther Mahlangu](https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/)
 - [Gemini Intelligence: New features, on more devices](https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/)
 
-### deepmind.google
-- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
-- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
-- [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
+### export.arxiv.org
+- [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544)
+- [Cleaning an Agent's History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654)
+- [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681)
+- [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](https://arxiv.org/abs/2611.14736)
+- [SynthCorp: A Platform for Creating Benchmarks for Data Agents](https://arxiv.org/abs/2611.14765)
 
 ### github.blog
 - [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
@@ -90,6 +84,13 @@
 - [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/)
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
 - [Inside GitHub’s new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
+
+### hnrss.org
+- [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)
+- [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
+- [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)
 
 ### huggingface.co
 - [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
@@ -99,10 +100,10 @@
 - [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
 
 ### news.google.com
-- [12/25（金）中学・高校の先生のための生成AI活用・実践ワークショップ（オンライン）を開催 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE95c1F3Mm1rXzFDNS1IVXRBTkFtV2JUZFF6LTVYR2R3bE1kQzhmMWNKZjNyNnp1NFhFR2dRV0hKSkVnVXpXRjJVUXd1UWpqRHRDdi1UUjBZRGM2VWNYZ3ZIUmVYMFdZZjZnRFE?oc=5)
-- [【ヤフコメで話題】「生成AIによる宿題・課題の扱い」「教育現場でのAI活用の是非」 - 学校教育と生成AIの関係に多様な意見 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5teGhFT1lYZkVZN2dJSEwwaEJCT29ZRERXSHZ1RU55Y0FqM3dNN2RhU1FtUU1WNnFOWC1IWTlQX3phQmJSX3FIaXhkaHRLSTFQRDBJNkVDSnVEb2Q5QzRwSG9YeFRMZXo3TnZwZE5yd3hsYndEZVlRZk5GZXRKNkE?oc=5)
-- [“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5)
-- [「真言宗の開祖は親鸞」のような初歩的ミスも…受験勉強に“生成AI”活用の落とし穴をカリスマ講師が明かす「日本史はAIがもっとも苦手な分野です」（デイリー新潮） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1yc3JKMGo1VUxYSzU5V0lRWEZkNEZZQTB1aTBHbzJiaE9hTC1SNFNCTUN3eVdXbXFrVTVpR2czQVliWTRnWjF2MXFObkVCZnRrQ1k5aDdZQ0JSc0RFT09aeFBXQUpxSS0zWWticU1qd1FsRlBYVVBCWE5KTUR0ZmM?oc=5)
+- [ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている - GIGAZINE](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTdZdDRCVGJCeEc3bVlkbkhiUFh4M3huRTlKNkpRVEtyRVJEUDlOVXpDdURYdUdqWlNzTFhGRk5fWGwtTUZqOGFxZlhWZFJlcFNPd3BEY0VaeWtabF9SNG9kVGotZU5sMERxYXpoeG1wbHJuWF9FeC1xRFRESTV1S3Q1ZnhLczlE?oc=5)
+- [【生成AIやってみた！Gemini in Chrome編】WebブラウザがAIで超便利に！使わないともったいない!!（＠ＤＩＭＥ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9va1ZaYjNvaUxyVGhJN0xGZ29SdjA1NXhJM25DUENPZV82MTRLelEtYS1UWHlxaGNsUmJGM3lSWFBvODZ2aU9UQkhvUnNSU29MZndtdXJNazcwYUdVMWcwZnY0Yk45cThrMldTU180aGlPdnZfak1Ja2p0MFZUVkE?oc=5)
+- [「AIエージェント」普及期に 知的作業を代替、自律取引も 構造転換、問われる対応（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE53Q1dydTNwR3dwR0RUX1lKcDV6Qy1DdEtsWnFxa3A3cVVRUDFFSVRWalQyUTZDSjN0QmdIOVhoU2NBOTBoY1JaT3dzeFpIWFdqcEg5LTlqQ1E3c0JiUVVfS2kzWG0tbjZzTlJjb1Y4OWU1V2FmRkVHT2tCcmpqemc?oc=5)
+- [トレンドの生成AIで小学生がゲーム作成を体験 講師は大学生 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meEhUdVY3QldKVndtM3NlOER2clg3THNYS1VCNmMzd21FZGJUNWE0cVp4SEkxWWQxVGhBQmRHX2thRlh6cnI1SG9Pb0Z4QXNXbjRHV2hXME5lSmhhbEY1eE83NHc1YXF3?oc=5)
 - [「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5)
 
 ### openai.com
@@ -120,11 +121,11 @@
 - [ITエンジニアが選ぶ「ITエンジニア本大賞2027」投票スタート](https://www.publickey1.jp/blog/26/itit2027.html)
 
 ### qiita.com
-- [2026年11月14日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/d9fa6da5a42bf05867a3)
-- [AI に Pyxel 3 の 3D（pyxel.cube）を作らせてわかったこと ── ハマりどころの予防・検証ループ・3D素材の作り方](https://qiita.com/haruka_apps/items/5f376546737fbb37ad89)
-- [0。3回連続で拒否されてきた`git checkout -B main origin/main`を、今日2つのリポジトリに投げたら、拒否された回数はこの数字だった](https://qiita.com/Hideki_Tamae/items/d67159e5cde6132eab13)
-- [WordPressからCloudflareへの移行を見送った理由と、Docker×AI×XServerで作った開発環境](https://qiita.com/StayHomeLabNet/items/47b6cf929b828cda5184)
-- [語源英単語アプリ開発で、Claude Code のコスト削減のため、検証を TYPESAFE AI の Jev に任せてみた](https://qiita.com/emuyn/items/50bbed74e49e49198587)
+- [01Routerで動画・画像・音声・テキスト生成APIを1つのキーにまとめる](https://qiita.com/paidx2006/items/ad03cd0d5aab5e7c8ada)
+- [Happy Wan の制作機能 6 選：言葉と画像から動きのある物語へ](https://qiita.com/yoxi957/items/0d14324e1e388221cf5d)
+- [経済産業省BtoB-EC調査、2025年のEC化率45.9%。仕入先への発注業務がまだ電話・FAXなら整えたい発注管理の3ステップ｜見積書・納品書の手入力をなくす](https://qiita.com/DnD-inc/items/8aacbfa5bb80f498375f)
+- [Claude Code v2.1.325 セキュリティ修正の内容（2026年）](https://qiita.com/Sidejob/items/27fe982bf44cb9807aa5)
+- [同じ質問でも英語は軽く、他言語は重い——LLM推論の電力格差を読む](https://qiita.com/homhom44/items/55d89a5f9398ec123ec0)
 
 ### shift-ai.co.jp
 - [【無料で使える？】Gemini 4 Hydrogenとは？プラン別の料金と使い方](https://shift-ai.co.jp/blog/77420/)
@@ -134,11 +135,11 @@
 - [AI自動化とは？RPAとの違いと個人で無料から始める3つの方法](https://shift-ai.co.jp/blog/77337/)
 
 ### techcrunch.com
-- [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
-- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
-- [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
-- [This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)
-- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
+- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+- [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
+- [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
+- [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
 
 ### technologyreview.com
 - [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/)
@@ -148,18 +149,18 @@
 - [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/)
 
 ### theverge.com
-- [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
-- [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
-- [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
-- [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
-- [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
+- [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
+- [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
+- [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
+- [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
+- [The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
 
 ### wired.jp
+- [細胞の「若返り」はどう起こる？ 老化の謎に迫る新たな研究](https://wired.jp/article/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/)
+- [ホワイトカラーの仕事は、いつから色褪せ始めたのか？](https://wired.jp/article/sz-mutiny-noam-scheiber-book-review-yuppies-dylan-gottlieb/)
+- [大気圏再突入のスウィフト宇宙望遠鏡、約22年の歴史を振り返る](https://wired.jp/article/nasa-swift-telescope-reenters-after-rescue-mission-abandoned/)
+- [NASAの新型実験機「X-70 Fractal」──有人機では試されていない飛行を探る](https://wired.jp/article/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/)
 - [AIパワーユーザー向け。Linuxベースの新OS「KORA」、2027年に提供へ](https://wired.jp/article/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/)
-- [自宅でずっと暮らし続けたい──老父を見守るAIデバイス](https://wired.jp/article/sz-sensi-ai-seniors-home-care-aging-in-place/)
-- [「ボスを戻してくれ」──NVIDIAの従業員からジェンスン・フアンの復帰を求める声](https://wired.jp/article/nvidia-employees-petition-for-jensen-huangs-return/)
-- [NVIDIAのジェンスン・フアン辞任。暫定CEOに就任したコレット・クレスとは](https://wired.jp/article/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/)
-- [中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る](https://wired.jp/article/free-chinese-ai-models-are-getting-scary-good-at-hacking/)
 
 ### xtech.nikkei.com
 - [マイクロソフト障害で影響相次ぐ、佐川急便の一部サービスや政府にも波及](https://xtech.nikkei.com/atcl/nxt/news/24/03470/)
@@ -176,8 +177,8 @@
 - [【Kindle版発売】代表・森和吉の登壇内容が『自社サイトをコストで終わらせないために』に収録されました](https://yoshikazunomori.com/media/kindle_jisya72/)
 
 ### zenn.dev
-- [人間は0行、検証は4.2万行 ― Claude Code × Codex でスーファミ格闘ゲームを作った57日](https://zenn.dev/hawkymisc/books/human-zero-lines-snes-fighter)
-- [Antigravity CLIでコメントを監視する：セットアップと実データ](https://zenn.dev/everyinfra/articles/antigravity-cli-video-comment-monitoring)
-- [自分のサイトを12個のAIに審査させたら、人間度12から100まで全部出た話](https://zenn.dev/ray_9618/articles/6ec984248b8ee3)
-- [MCP 2026-07-28 仕様入門、既存サーバーの移行点は主要変更9項目](https://zenn.dev/kai_kou/articles/1288-mcp-2026-07-28-migration-checklist-guide)
-- [コードを書かずに、AIと3日でブラウザゲームを作って公開した話](https://zenn.dev/tosh1000950/articles/4cdef577c46451)
+- [GPTBotは0回、OAI-SearchBotは4,847回。AIクローラーを30日間観測して分かったこと](https://zenn.dev/rimonoa/articles/8974167fe581c2)
+- [Claude Codeに「公開」を押させない：CLAUDE.mdに書く「外に出す操作」の決まり5行](https://zenn.dev/tsugu_sukima/articles/2b19ac59da1b2a)
+- [【初投稿】僕の個人ウェブサイトを公開しました🌟](https://zenn.dev/kagam_io/articles/7bb21a81e14830)
+- [Does a “no-limit” image to video AI page mean unlimited free generatio](https://zenn.dev/sarabuilds/articles/2b106365722f4d)
+- [ClaudeはSAPの「外側」を取りに来た――SheetsとDataが示す、Jouleとの境界線](https://zenn.dev/dantarg/articles/claude-sheets-data-outside-sap)
