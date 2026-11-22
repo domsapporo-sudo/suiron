@@ -1,6 +1,6 @@
-# ネタ帳 2026-11-21
+# ネタ帳 2026-11-22
 
-フィード 32本成功 / 7本失敗　記事 829件
+フィード 33本成功 / 6本失敗　記事 750件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
@@ -8,38 +8,36 @@
 
 - **2媒体** [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
   　`b.hatena.ne.jp / openai.com`
-- **2媒体** [「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由](https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html)
-  　`atmarkit.itmedia.co.jp / b.hatena.ne.jp`
 
 ## 複数の情報源が使っている語
 
 | 語 | 情報源の数 |
 |---|---|
 | google | 10 |
-| anthropic | 8 |
+| anthropic | 7 |
 | nvidia | 6 |
-| claude | 6 |
+| introducing | 5 |
 | agentic | 5 |
+| aws | 5 |
 | agents | 5 |
+| gemini | 5 |
+| human | 5 |
 | agent | 5 |
-| cloud | 5 |
-| built | 4 |
-| engineering | 4 |
-| local | 4 |
-| human | 4 |
-| watch | 4 |
-| introducing | 4 |
+| ローカル | 5 |
 | frontier | 4 |
-| hugging | 4 |
-| face | 4 |
-| apple | 4 |
-| aws | 4 |
-| muse | 4 |
-| meta | 4 |
+| build | 4 |
+| cloud | 4 |
+| decisions | 4 |
 | work | 4 |
+| flash | 4 |
+| built | 4 |
+| games | 4 |
 | inside | 4 |
-| microsoft | 4 |
-| から | 4 |
+| openai | 4 |
+| copilot | 4 |
+| web | 4 |
+| ipo | 4 |
+| local | 3 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -51,18 +49,18 @@
 - [AIエージェントを人事・採用に活用！自動化できる4つの業務と注意点](https://ainow.ai/2026/11/14/278521/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e4%25ba%25ba%25e4%25ba%258b%25e3%2583%25bb%25e6%258e%25a1%25e7%2594%25a8%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25ef%25bc%2581%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b)
 
 ### atmarkit.itmedia.co.jp
+- [若手こそ「Linux」を学ぶべきなのはなぜ？ AI時代に「エンジニアとして生き残る方法」](https://atmarkit.itmedia.co.jp/ait/articles/2611/22/news001.html)
+- [パスワード、放置VPN、休眠ID……“初歩的な隙”ばかり？ 重要インフラへの攻撃パターンとその対策](https://atmarkit.itmedia.co.jp/ait/articles/2611/21/news009.html)
 - [「マルチエージェント設計“15のパターン”」「GoogleのSRE教科書、10年ぶり改訂」 AI時代の新たな常識](https://atmarkit.itmedia.co.jp/ait/articles/2611/21/news002.html)
 - [AIが脆弱性を探し、ランサムウェア構築を支援 5つのAI悪用手口と対策リスト](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news061.html)
 - [「パッチ適用を10分で完了」も夢じゃない 人間頼みの防御に引導を渡すキーワードは“AI管制塔”？](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news044.html)
-- [テスト環境に本番データを置く危うさ 楽天証券、最大約1125万口座の情報漏えいを報告 どうすれば防げたのか？](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news018.html)
-- [ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す 東京ガス系が実践したノウハウ継承術](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html)
 
 ### b.hatena.ne.jp
+- [トランプ氏、データセンターの国外建設認めず 建設すれば「莫大な税金」](https://www.afpbb.com/articles/-/3663558)
+- [トランプ大統領 米国外のデータセンター建設認めず 罰則も | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261121de79543)
+- [〒 しぼれ！郵便番号](https://zipcode.inuro.dev/)
 - [メタの「Muse」が許可なく予約した--早くも発覚するプライバシー侵害の数々](https://japan.zdnet.com/article/35255188/)
 - [NYダウ1100ドル安、5万ドル割れ アンソロピック上場で換金売り - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN19CX30Z11C26A1000000/)
-- [AIに悩みを相談する際に気をつけて欲しいこと｜SSC](https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/)
-- [「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測](https://ascii.jp/elem/000/004/452/4452982/)
-- [アンソロピックＩＰＯ、上場後の値動きに警戒感 | ロイター](https://www.reuters.com/jp/markets/japan/I6P4FZU7RBNJPLTF7THOB4ASEY-2026-11-19/)
 
 ### blog.google
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)
@@ -71,12 +69,12 @@
 - [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
 - [New Ask Maps features to help with holiday travel and prep](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/)
 
-### export.arxiv.org
-- [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322)
-- [Training Language Models for Introspective Oversight](https://arxiv.org/abs/2611.23365)
-- [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](https://arxiv.org/abs/2611.23375)
-- [HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs](https://arxiv.org/abs/2611.23398)
-- [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](https://arxiv.org/abs/2611.23410)
+### deepmind.google
+- [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
+- [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)
+- [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)
+- [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
 
 ### github.blog
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/)
@@ -86,11 +84,11 @@
 - [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
 
 ### hnrss.org
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- [Leaky AI supply chain is exposing secret user data at an alarming rate](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
+- [Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street](https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90)
 - [Google workers tell their employer not to punish schools that don't want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 - [AI is giving everyone the same advice](https://a90.com/experiments/same-advice/)
-- [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
-- [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 
 ### huggingface.co
 - [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)
@@ -101,10 +99,10 @@
 
 ### news.google.com
 - [「リーマン予想」生成AIが証明か - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5)
-- [RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される - GIGAZINE](https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRHFBVmpRM1JhQ3RNd0hpUDRhSjA3alRZZllPQXA1MExzeTIyMzlETGVacGRzMThRbmVwLUpfMnBSZERPMzFIRHRFWlNkU0RmQkxYb2E2NDNBQ2RxbUNhTHFKd2xjY0dRM1ZLOWpHRnJOZ1BQQjZZ?oc=5)
+- [生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ - 新潟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRE1mSk44Z0hpM3d0TVFSelRna041ZU8tekRQTER3Y2tLNGVlRlBQZU9LRXUzREdFQ1c3OFduU3RxX1d5bEtpM3Q3QzBzWlRvbnhuUFFpemhjdmkzakE?oc=5)
+- [【人工知能学会前会長・栗原聡インタビュー #4】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uX0FVYnYwZ3RrT3JRUlo5ampyNlNxYXhsLTJBc2l1cHh3TXVBVkNDakxGVGtGakpsSGNWbVRUQkVLZHo3WVVVWEYzYmpsVENv?oc=5)
+- [生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES） - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5)
 - [生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5)
-- [「生成AI」の進化で賞やコンテストはどうなる？（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UUGtJcGpKRmo0NWVMVlMzQjNOQkUteG9yR2k5WkFRVXp6VWRZV3pNOE8xZlJxVk05NW1CMTZpTktEeGxpQW5zUlVTeXBMMlAwU0dmRG5Lbw?oc=5)
-- [長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ](https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5)
 
 ### openai.com
 - [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
@@ -121,18 +119,18 @@
 - [［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表](https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html)
 
 ### qiita.com
-- [【2026年版】画像から3Dモデル生成AI 5種を徹底比較：Idol Max / Turbo・Tripo・Meshy・Hunyuan3D・TRELLISの料金・リギング・PBR・導入コスト](https://qiita.com/czmilo/items/c3da0648aeb973651b05)
-- [未解決を放置にしない――AIとの作業で「直さなかった理由」を公開記録へ残した話](https://qiita.com/boraemon2000/items/13102ca9ebd6e9b2c3f4)
-- [Claude Code 開発者が注目している5つのアップデート（v2.1.326 - v2.1.330）](https://qiita.com/NaokiIshimura/items/a75af610ec8c0d2ff699)
-- [Claude Code v2.1.326 - v2.1.330 リリースノートまとめ](https://qiita.com/NaokiIshimura/items/0b054c35b3c8b8aa5796)
-- [2026年11月21日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/641b9fa0de921b0ab8ba)
+- [AIに昨日の記録を探させたら57行ヒットした――1,865行の公開管理表から必要な1件だけを読む](https://qiita.com/boraemon2000/items/df2ee7a166f80d064b52)
+- [0。GitHub Copilot Fusionが『モデルではなく難易度を選ぶ』形で全プランに展開された日、自分の指示書がタスクの重さに応じてモデルを選び直していた回数はこの数字だった](https://qiita.com/Hideki_Tamae/items/c0e22f681c310d554441)
+- [撮影なしで、創業者が登場する1分46秒の動画をAIモデルで作ったときのハマりどころ5つ（音声・リップシンク・肌・BGM・AI判定）](https://qiita.com/wiroai/items/a7b781440cf9c4914518)
+- [Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装](https://qiita.com/joinclass/items/080927f3b092b9de46e6)
+- [RAGの回答精度が低い原因特定と段階的な改善チェックリスト](https://qiita.com/blinkgroup_jp/items/0fc3275d82705676261c)
 
 ### techcrunch.com
-- [Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
-- [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
-- [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
-- [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
-- [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
+- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+- [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+- [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
+- [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
 
 ### technologyreview.com
 - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
@@ -142,18 +140,18 @@
 - [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/)
 
 ### theverge.com
-- [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)
-- [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
-- [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
-- [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
-- [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
+- [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
+- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+- [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
+- [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
+- [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
 
 ### wired.jp
+- [『ニューロマンサー』がついに映像化。出演者と制作陣が語る舞台裏](https://wired.jp/article/exclusive-apple-tv-neuromancer-creator-interviews/)
+- [期末試験を対面にしたら成績が急降下──アイビーリーグのAI不正事情](https://wired.jp/article/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+- [日用品にたまごっちのような表情を。新たなAIデバイス「OAT」](https://wired.jp/article/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)
+- [AIにファクトチェックをどこまで任せられるか](https://wired.jp/article/fact-checking-ai/)
 - [「シリコンバレー流」の兵器開発は、防衛産業に何をもたらすのか](https://wired.jp/article/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/)
-- [史上初のテックバブルの教訓](https://wired.jp/article/sz-lessons-from-the-original-tech-bubble/)
-- [【先行セールは11月27日から】Amazonブラックフライデー2026 おすすめ目玉商品186選＆攻略法](https://wired.jp/article/amazon-blackfriday-2026-preparation-1/)
-- [Anthropicが史上最大規模のIPO。それでも残る成長への懸念](https://wired.jp/article/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)
-- [「ロマンティックなメディアとしてのアルバム、質という言葉に逃げられない現実」──渋谷慶一郎が最新アルバム『Threshold』で引いた一線](https://wired.jp/article/keiichiro-shibuya-threshold-interview/)
 
 ### xtech.nikkei.com
 - [デジ庁の政府向けファイル共有で漏洩の恐れ、7月末から第三者がアクセス](https://xtech.nikkei.com/atcl/nxt/news/24/03483/)
@@ -170,8 +168,8 @@
 - [【2026年最新】カフェのホームページの作り方|必須ページ・おしゃれなデザインのコツ・費用相場までやさしく解説](https://yoshikazunomori.com/blog/digitalmarketing/cafe-hp/)
 
 ### zenn.dev
-- [GodotのTileMapLayerにコリジョンを追加する方法と、それを2分でこなしたAI](https://zenn.dev/zivaengine/articles/3ef376d444e9a7)
-- [AIでWebサイトを低コストに自動運用するには？ 7日で49記事を出した新聞の仕組みと実習](https://zenn.dev/veripsa/articles/ai-newspaper-editorial-pipeline)
-- [AI の曲と画像で BGM 動画をほぼ毎日出していたら、「量産は収益化できないおそれがある」と指摘された](https://zenn.dev/claire_ai/articles/ryousan-iriguchi)
-- [アルゴリズムバイアス【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-algorithm-bias-tech)
-- [Claude Code のログを分析する仕組みを作ったら、hook の問題から Claude Code の不具合 2 件まで切り分けられた](https://zenn.dev/murooka_az/articles/failure-scan-two-claude-code-bugs)
+- [Zenn Book『ベンチマークを信じるな — AIエージェント評価の実務』を公開しました](https://zenn.dev/kazu1/articles/benchmark-evals-book-intro)
+- [1回85%でも4回連続成功は52% — pass@kでは本番の信頼性は測れない](https://zenn.dev/kazu1/articles/pass-at-k-reliability)
+- [一致率90%でもkappaは0 — LLMジャッジは校正しないとノイズ](https://zenn.dev/kazu1/articles/llm-judge-calibration-noise)
+- [SWE-bench『80.9%』を割り引いて読む — 公開ベンチマークの読み方](https://zenn.dev/kazu1/articles/how-to-read-benchmarks)
+- [ベンチマークを信じるな — AIエージェント評価の実務](https://zenn.dev/kazu1/books/benchmark-evals)
