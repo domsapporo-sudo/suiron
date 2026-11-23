@@ -1,6 +1,6 @@
-# ネタ帳 2026-11-22
+# ネタ帳 2026-11-23
 
-フィード 33本成功 / 6本失敗　記事 750件
+フィード 34本成功 / 5本失敗　記事 762件
 
 > ここから引用しないこと。リンク先の一次情報にあたって、自分の言葉で書く。
 
@@ -13,31 +13,31 @@
 
 | 語 | 情報源の数 |
 |---|---|
-| google | 10 |
-| anthropic | 7 |
-| nvidia | 6 |
+| google | 11 |
+| openai | 6 |
 | introducing | 5 |
+| frontier | 5 |
 | agentic | 5 |
+| apple | 5 |
 | aws | 5 |
 | agents | 5 |
 | gemini | 5 |
+| flash | 5 |
 | human | 5 |
-| agent | 5 |
-| ローカル | 5 |
-| frontier | 4 |
+| nvidia | 5 |
+| anthropic | 5 |
+| claude | 5 |
+| inkling | 4 |
 | build | 4 |
-| cloud | 4 |
+| software | 4 |
 | decisions | 4 |
-| work | 4 |
-| flash | 4 |
+| meta | 4 |
+| api | 4 |
 | built | 4 |
 | games | 4 |
+| agent | 4 |
+| security | 4 |
 | inside | 4 |
-| openai | 4 |
-| copilot | 4 |
-| web | 4 |
-| ipo | 4 |
-| local | 3 |
 
 ## 新着（情報源ごとに5件まで）
 
@@ -56,11 +56,11 @@
 - [「パッチ適用を10分で完了」も夢じゃない 人間頼みの防御に引導を渡すキーワードは“AI管制塔”？](https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news044.html)
 
 ### b.hatena.ne.jp
-- [トランプ氏、データセンターの国外建設認めず 建設すれば「莫大な税金」](https://www.afpbb.com/articles/-/3663558)
-- [トランプ大統領 米国外のデータセンター建設認めず 罰則も | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261121de79543)
-- [〒 しぼれ！郵便番号](https://zipcode.inuro.dev/)
-- [メタの「Muse」が許可なく予約した--早くも発覚するプライバシー侵害の数々](https://japan.zdnet.com/article/35255188/)
-- [NYダウ1100ドル安、5万ドル割れ アンソロピック上場で換金売り - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN19CX30Z11C26A1000000/)
+- [【TLA+】AIにテストケースを書かせるな。ルールを書け](https://zenn.dev/karamage/articles/73027ee36796dc)
+- [Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中](https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/)
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- ["リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元](https://note.com/katobungen/n/n9c2bb939b9c7)
+- [グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に](https://k-tai.watch.impress.co.jp/docs/news/2157164.html)
 
 ### blog.google
 - [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)
@@ -84,11 +84,11 @@
 - [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
 
 ### hnrss.org
-- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
-- [Leaky AI supply chain is exposing secret user data at an alarming rate](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
-- [Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street](https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90)
-- [Google workers tell their employer not to punish schools that don't want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
-- [AI is giving everyone the same advice](https://a90.com/experiments/same-advice/)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
+- [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
+- [AI Supply Chain Security: What Canary Tokens Found](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
 
 ### huggingface.co
 - [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)
@@ -99,17 +99,17 @@
 
 ### news.google.com
 - [「リーマン予想」生成AIが証明か - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5)
+- [『GetBackers -奪還屋-』告知映像で謝罪 生成AI使用のアニメ表現 YouTubeボイスコミックシリーズ説明不足で騒動（オリコン） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BeU5ZWm1mWXVOOU5sdllsZVIxQkNMbzU0WDc5QUE1NXo0Zjc0djQ2VE0zTXRRdTNtVk9TeGNPeWJKMzB6dG5WX2xUeEpob3NtM0xMTU1xa3RNSndDNkhhdUlPSHdvRmgxdXd5X21KTzl2RDJQQV9aVXNkbUhfRDA?oc=5)
+- [『GetBackers 奪還屋』コミックアニメ、生成AI使用に謝罪。新作アニメの制作や、生成AIによるアニメ化ではない - 電撃オンライン](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Z1l0bVU5cW0td2NHbl80RTYteFBrb3RqVXdlOVcyXzA2ei1XcGhOc2NMbnFmSkpZWnVvN1p0bXNRa0FCWVR4MG9CSGFSV18zQkFhaG1LR1p5Zw?oc=5)
+- [GetBackers公式YouTubeが生成AI使用で謝罪 本編は従来通り - X](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSVFPcTkwcHRfZEQ0cTJrVWZjbmVxTnFWaHBWYkRQZk1Ea2FWVE5Vc09yQjZUcVdQOF9OYmx2b012N0JyeUc4UG8wMUVpYldWMVpGcGV1TQ?oc=5)
 - [生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ - 新潟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRE1mSk44Z0hpM3d0TVFSelRna041ZU8tekRQTER3Y2tLNGVlRlBQZU9LRXUzREdFQ1c3OFduU3RxX1d5bEtpM3Q3QzBzWlRvbnhuUFFpemhjdmkzakE?oc=5)
-- [【人工知能学会前会長・栗原聡インタビュー #4】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uX0FVYnYwZ3RrT3JRUlo5ampyNlNxYXhsLTJBc2l1cHh3TXVBVkNDakxGVGtGakpsSGNWbVRUQkVLZHo3WVVVWEYzYmpsVENv?oc=5)
-- [生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES） - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5)
-- [生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5)
 
 ### openai.com
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)
 - [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation)
 - [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia)
 - [Can AI help scientists identify promising drug candidates?](https://openai.com/index/introducing-medchembench)
 - [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
-- [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo)
 
 ### publickey1.jp
 - [マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も](https://www.publickey1.jp/blog/26/database_hubai.html)
@@ -119,18 +119,18 @@
 - [［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表](https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html)
 
 ### qiita.com
-- [AIに昨日の記録を探させたら57行ヒットした――1,865行の公開管理表から必要な1件だけを読む](https://qiita.com/boraemon2000/items/df2ee7a166f80d064b52)
-- [0。GitHub Copilot Fusionが『モデルではなく難易度を選ぶ』形で全プランに展開された日、自分の指示書がタスクの重さに応じてモデルを選び直していた回数はこの数字だった](https://qiita.com/Hideki_Tamae/items/c0e22f681c310d554441)
-- [撮影なしで、創業者が登場する1分46秒の動画をAIモデルで作ったときのハマりどころ5つ（音声・リップシンク・肌・BGM・AI判定）](https://qiita.com/wiroai/items/a7b781440cf9c4914518)
-- [Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装](https://qiita.com/joinclass/items/080927f3b092b9de46e6)
-- [RAGの回答精度が低い原因特定と段階的な改善チェックリスト](https://qiita.com/blinkgroup_jp/items/0fc3275d82705676261c)
+- [「AIの構造を語る前に ― なぜ私はコードを出さず、数学と設計だけを残すのか」](https://qiita.com/mouad-tarif/items/5e6b54e6b3cc42ed83e3)
+- [機密かどうかを AI に聞く前に、自前の regex で伏せる ── 判断モデルを比べた結果と、本番への組み込み](https://qiita.com/chooser/items/fac17f40dac121e38286)
+- [エンタープライズ業務エージェントにおける状態永続化と例外ルール継承の設計パターン（ステートレスLLMの文脈欠落対策）](https://qiita.com/derekwang8866/items/a46200daf0fad7a2948c)
+- [帝国データバンク調査、正社員不足が53.6%と10月で5年連続5割超｜現場の帳票・伝票入力を減らす自動化の3ステップ](https://qiita.com/DnD-inc/items/2631358c0010946b2a38)
+- [11/30にclaude-sonnet-4-5が停止、日付なしIDとClaude Codeも対象｜今週のAI API変更（11/16-11/22）](https://qiita.com/aiapi_radar_news/items/948d3e913b6e0c21e9a7)
 
 ### techcrunch.com
-- [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
-- [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
-- [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
-- [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
+- [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
+- [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+- [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
+- [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+- [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
 
 ### technologyreview.com
 - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
@@ -140,18 +140,18 @@
 - [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/)
 
 ### theverge.com
-- [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
-- [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
-- [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
-- [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
-- [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
+- [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
+- [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
+- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
+- [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
+- [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
 
 ### wired.jp
+- [氷と雪の減少が加速、温暖化で揺らぐ地球の「安全域」](https://wired.jp/article/climate-change-abolishes-ice/)
+- [AIが死んでも脳オルガノイドは生きている](https://wired.jp/article/sz-organoids-lab-grown-brains-neural-networks/)
+- [MacでSteamOSを動かすには？ 手軽な導入方法を解説](https://wired.jp/article/get-steamos-easily-running-on-your-mac/)
 - [『ニューロマンサー』がついに映像化。出演者と制作陣が語る舞台裏](https://wired.jp/article/exclusive-apple-tv-neuromancer-creator-interviews/)
 - [期末試験を対面にしたら成績が急降下──アイビーリーグのAI不正事情](https://wired.jp/article/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
-- [日用品にたまごっちのような表情を。新たなAIデバイス「OAT」](https://wired.jp/article/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)
-- [AIにファクトチェックをどこまで任せられるか](https://wired.jp/article/fact-checking-ai/)
-- [「シリコンバレー流」の兵器開発は、防衛産業に何をもたらすのか](https://wired.jp/article/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/)
 
 ### xtech.nikkei.com
 - [デジ庁の政府向けファイル共有で漏洩の恐れ、7月末から第三者がアクセス](https://xtech.nikkei.com/atcl/nxt/news/24/03483/)
@@ -168,8 +168,8 @@
 - [【2026年最新】カフェのホームページの作り方|必須ページ・おしゃれなデザインのコツ・費用相場までやさしく解説](https://yoshikazunomori.com/blog/digitalmarketing/cafe-hp/)
 
 ### zenn.dev
-- [Zenn Book『ベンチマークを信じるな — AIエージェント評価の実務』を公開しました](https://zenn.dev/kazu1/articles/benchmark-evals-book-intro)
-- [1回85%でも4回連続成功は52% — pass@kでは本番の信頼性は測れない](https://zenn.dev/kazu1/articles/pass-at-k-reliability)
-- [一致率90%でもkappaは0 — LLMジャッジは校正しないとノイズ](https://zenn.dev/kazu1/articles/llm-judge-calibration-noise)
-- [SWE-bench『80.9%』を割り引いて読む — 公開ベンチマークの読み方](https://zenn.dev/kazu1/articles/how-to-read-benchmarks)
-- [ベンチマークを信じるな — AIエージェント評価の実務](https://zenn.dev/kazu1/books/benchmark-evals)
+- [常駐型AIチャットエージェントが「送信先を取り違えない」ようにする出力先検証設計](https://zenn.dev/hach/articles/chat-agent-outbound-destination-validation-design)
+- [AIオーケストレーションに足りないのは、思いやりだった](https://zenn.dev/hummer/articles/claude-kitty-omoiyari)
+- [LLMが勾配なしで重みを書き換える「Self-Rewriting」の仕組みとリスク](https://zenn.dev/nalt/articles/llm-self-rewriting-weights-arxiv-2611)
+- [Keep the Title Lockup, Change the Genre Art: Book Cover Series](https://zenn.dev/andytanlinks/articles/b631f156f08358)
+- [サブエージェントに調査を丸投げする型：Exploreと自作エージェントで本体の文脈を汚さない](https://zenn.dev/aizangyobu/articles/claude-code-subagent-chousa)
